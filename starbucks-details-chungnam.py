@@ -13,6 +13,28 @@ import json
 # 현재 날짜를 문자열로 저장
 current_date = datetime.now().strftime("%Y-%m-%d")
 
+# 안전한 데이터 추출 함수
+def safe_extract(soup, dt_string, default=""):
+    """안전하게 dt 태그를 찾아 다음 dd 태그의 텍스트를 추출"""
+    try:
+        element = soup.find("dt", string=dt_string)
+        if element and element.find_next_sibling("dd"):
+            return element.find_next_sibling("dd").text.strip()
+        return default
+    except:
+        return default
+
+def safe_extract_images(soup, dt_string):
+    """안전하게 이미지 URL 리스트를 추출"""
+    try:
+        element = soup.find("dt", string=dt_string)
+        if element and element.find_next_sibling("dd"):
+            imgs = element.find_next_sibling("dd").find_all("img")
+            return [f"https:{img['src']}" for img in imgs]
+        return []
+    except:
+        return []
+
 # details 폴더 생성
 current_year = datetime.now().strftime("%Y")
 base_folder_path = os.path.join("details", current_year, "chungnam")
@@ -54,78 +76,85 @@ store_data_list = []
 
 # 모든 점포에 대해 순차적으로 작업
 for index, store in enumerate(stores):
-    # store.click()
-    # JavaScript를 사용하여 요소 클릭
-    browser.execute_script("arguments[0].click();", store)
-    time.sleep(2)
+    try:
+        # JavaScript를 사용하여 요소 클릭
+        browser.execute_script("arguments[0].click();", store)
+        time.sleep(2)
 
-    # 점포 이름과 주소 추출
-    store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
-    store_address = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .addr").text.strip()
+        # 점포 이름과 주소 추출
+        store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
+        store_address = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .addr").text.strip()
 
-    # "상세 정보 보기" 버튼 클릭
-    detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
-    browser.execute_script("arguments[0].click();", detail_button)
-    time.sleep(2) 
-    print(f"상세 정보 보기 버튼을 클릭했습니다. ({index + 1}/{len(stores)})")
+        # "상세 정보 보기" 버튼 클릭
+        detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
+        browser.execute_script("arguments[0].click();", detail_button)
+        time.sleep(2) 
+        print(f"상세 정보 보기 버튼을 클릭했습니다. ({index + 1}/{len(stores)})")
 
-    # 상세 정보 페이지의 HTML 가져오기
-    detail_page_html = browser.page_source
-    soup = BeautifulSoup(detail_page_html, 'html.parser')
+        # 상세 정보 페이지의 HTML 가져오기
+        detail_page_html = browser.page_source
+        soup = BeautifulSoup(detail_page_html, 'html.parser')
 
-    # 각종 정보 추출
-    store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip()
-    store_parking_info = soup.find("dt", string="주차정보").find_next_sibling("dd").text.strip()
-    store_directions = soup.find("dt", string="오시는 길").find_next_sibling("dd").text.strip()
+        # 각종 정보 추출 (안전하게)
+        try:
+            store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip()
+        except:
+            store_description = ""
 
-    # 서비스 이미지 URL 리스트 추출
-    service_section = soup.find("dt", string="서비스").find_next_sibling("dd")
-    store_services = [
-        f"https:{img['src']}" for img in service_section.find_all("img")
-    ]
+        store_parking_info = safe_extract(soup, "주차정보", "")
+        store_directions = safe_extract(soup, "오시는 길", "")
 
-    # 위치 및 시설 이미지 URL 리스트 추출
-    facility_section = soup.find("dt", string="위치 및 시설").find_next_sibling("dd")
-    store_facilities = [
-        f"https:{img['src']}" for img in facility_section.find_all("img")
-    ]
+        # 서비스 이미지 URL 리스트 추출 (안전하게)
+        store_services = safe_extract_images(soup, "서비스")
 
-    # 이미지 URL 리스트 추출
-    image_urls = [
-        f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
-    ]
+        # 위치 및 시설 이미지 URL 리스트 추출 (안전하게)
+        store_facilities = safe_extract_images(soup, "위치 및 시설")
 
-    # 영업 시간 추출
-    store_hours = []
-    hours_sections = soup.select(".date_time dl")
-    for dl in hours_sections:
-        dt_tags = dl.select("dt")
-        dd_tags = dl.select("dd")
-        store_hours.extend([
-            ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
-        ])
+        # 이미지 URL 리스트 추출
+        try:
+            image_urls = [
+                f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
+            ]
+        except:
+            image_urls = []
 
-    # JSON 데이터 생성
-    store_data = {
-        "number": index + 1, 
-        "name": store_name,
-        "description": store_description,
-        "address": store_address,
-        "parking": store_parking_info,
-        "directions": store_directions,
-        "phone": "1522-3232",
-        "services": store_services,
-        "facilities": store_facilities,
-        "images": image_urls,
-        "hours": store_hours, 
-    }
-    store_data_list.append(store_data)
+        # 영업 시간 추출
+        store_hours = []
+        try:
+            hours_sections = soup.select(".date_time dl")
+            for dl in hours_sections:
+                dt_tags = dl.select("dt")
+                dd_tags = dl.select("dd")
+                store_hours.extend([
+                    ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
+                ])
+        except:
+            store_hours = []
 
-    # 상세 정보 창 닫기
-    close_button = browser.find_element(By.CSS_SELECTOR, ".btn_pop_close .isStoreViewClosePop")
-    browser.execute_script("arguments[0].click();", close_button)
-    time.sleep(2)
+        # JSON 데이터 생성
+        store_data = {
+            "number": index + 1, 
+            "name": store_name,
+            "description": store_description,
+            "address": store_address,
+            "parking": store_parking_info,
+            "directions": store_directions,
+            "phone": "1522-3232",
+            "services": store_services,
+            "facilities": store_facilities,
+            "images": image_urls,
+            "hours": store_hours, 
+        }
+        store_data_list.append(store_data)
 
+        # 상세 정보 창 닫기
+        close_button = browser.find_element(By.CSS_SELECTOR, ".btn_pop_close .isStoreViewClosePop")
+        browser.execute_script("arguments[0].click();", close_button)
+        time.sleep(2)
+        
+    except Exception as e:
+        print(f"매장 {index + 1} 처리 중 오류 발생: {str(e)}")
+        continue
 # JSON 파일 구조화
 final_data = {
     "kind": "Korea Starbucks",
@@ -141,6 +170,7 @@ with open(output_file_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, ensure_ascii=False, indent=4)
 
 print(f"파일이 저장되었습니다: {output_file_path}")
+print(f"총 {len(store_data_list)}개 매장 정보 수집 완료")
 
 # 브라우저 닫기
 browser.quit()
