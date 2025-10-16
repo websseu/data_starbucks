@@ -39,8 +39,10 @@ location_name_mapping = {
 # 기본 폴더 구조 생성
 base_folder = "location"
 count_folder = os.path.join(base_folder, "count")
+total_folder = os.path.join(base_folder, "total")
 year_folder = os.path.join(base_folder, current_year)
 os.makedirs(count_folder, exist_ok=True)
+os.makedirs(total_folder, exist_ok=True)
 os.makedirs(year_folder, exist_ok=True)
 
 # 웹드라이버 설정
@@ -61,6 +63,7 @@ wait = WebDriverWait(browser, 10)
 
 region_counts = {}
 total_count = 0
+all_stores_data = []  # 모든 지역의 매장 데이터를 합칠 리스트
 
 try:
     browser.get("https://www.starbucks.co.kr/store/store_map.do?disp=locale")
@@ -105,12 +108,14 @@ try:
             latitude = store.get("data-lat")
             longitude = store.get("data-long")
 
-            store_data.append({
+            store_info = {
                 "name": name,
                 "address": address,
                 "latitude": latitude,
                 "longitude": longitude
-            })
+            }
+            store_data.append(store_info)
+            all_stores_data.append(store_info)  # 전체 데이터에도 추가
 
         final_data = {
             "location": region_name_kor,
@@ -138,6 +143,19 @@ try:
     with open(count_file_path, "w", encoding="utf-8") as json_file:
         json.dump(count_data, json_file, ensure_ascii=False, indent=4)
     print(f"데이터가 JSON 파일로 저장되었습니다: {count_file_path}")
+
+    # ✅ 전체 매장 통합 데이터 JSON (total 폴더에 저장)
+    total_data = {
+        "kind": "Korea Starbucks",
+        "date": current_date,
+        "location": "전국(total)",
+        "count": len(all_stores_data),
+        "item": all_stores_data
+    }
+    total_file_path = os.path.join(total_folder, f"starbucks-total_{current_date}.json")
+    with open(total_file_path, "w", encoding="utf-8") as json_file:
+        json.dump(total_data, json_file, ensure_ascii=False, indent=4)
+    print(f"전체 통합 데이터가 JSON 파일로 저장되었습니다: {total_file_path}")
 
 except TimeoutException as e:
     print("에러 발생:", str(e))

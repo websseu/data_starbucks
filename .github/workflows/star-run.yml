@@ -25,26 +25,138 @@ jobs:
         with:
           python-version: "3.x"
 
-      # 3. Python 패키지 설치
+      # 3. Chrome 및 ChromeDriver 설치
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y wget gnupg unzip
+          wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      # 4. Python 패키지 설치
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install beautifulsoup4 lxml selenium webdriver_manager
 
-      # 4. 스크립트 실행
+      # 5. 스타벅스 기본 정보 수집 (전국 매장, 약 40분)
       - name: Run Starbucks Count Script
         run: |
           python starbucks-count.py
 
-      # 5. 생성된 데이터 파일 커밋
+      # 5-1. 서울 상세 정보 수집 (660개, 약 1시간 6분)
+      - name: Run Seoul Details Script
+        run: |
+          python starbucks-details-seoul.py
+        continue-on-error: true
+
+      # 5-2. 경기 상세 정보 수집 (504개, 약 50분)
+      - name: Run Gyeonggi Details Script
+        run: |
+          python starbucks-details-gyeonggi.py
+        continue-on-error: true
+
+      # 5-3. 부산 상세 정보 수집 (145개, 약 15분)
+      - name: Run Busan Details Script
+        run: |
+          python starbucks-details-busan.py
+        continue-on-error: true
+
+      # 5-4. 대구 상세 정보 수집 (92개, 약 9분)
+      - name: Run Daegu Details Script
+        run: |
+          python starbucks-details-daegu.py
+        continue-on-error: true
+
+      # 5-5. 인천 상세 정보 수집 (85개, 약 9분)
+      - name: Run Incheon Details Script
+        run: |
+          python starbucks-details-incheon.py
+        continue-on-error: true
+
+      # 5-6. 경남 상세 정보 수집 (80개, 약 8분)
+      - name: Run Gyeongnam Details Script
+        run: |
+          python starbucks-details-gyeongnam.py
+        continue-on-error: true
+
+      # 5-7. 대전 상세 정보 수집 (72개, 약 7분)
+      - name: Run Daejeon Details Script
+        run: |
+          python starbucks-details-daejeon.py
+        continue-on-error: true
+
+      # 5-8. 광주 상세 정보 수집 (68개, 약 7분)
+      - name: Run Gwangju Details Script
+        run: |
+          python starbucks-details-gwangju.py
+        continue-on-error: true
+
+      # 5-9. 경북 상세 정보 수집 (63개, 약 6분)
+      - name: Run Gyeongbuk Details Script
+        run: |
+          python starbucks-details-gyeongbuk.py
+        continue-on-error: true
+
+      # 5-10. 충남 상세 정보 수집 (54개, 약 5분)
+      - name: Run Chungnam Details Script
+        run: |
+          python starbucks-details-chungnam.py
+        continue-on-error: true
+
+      # 5-11. 전북 상세 정보 수집 (42개, 약 4분)
+      - name: Run Jeolbuk Details Script
+        run: |
+          python starbucks-details-jeolbuk.py
+        continue-on-error: true
+
+      # 5-12. 강원 상세 정보 수집 (42개, 약 4분)
+      - name: Run Gangwon Details Script
+        run: |
+          python starbucks-details-gangwon.py
+        continue-on-error: true
+
+      # 5-13. 충북 상세 정보 수집 (40개, 약 4분)
+      - name: Run Chungbuk Details Script
+        run: |
+          python starbucks-details-chungbuk.py
+        continue-on-error: true
+
+      # 5-14. 전남 상세 정보 수집 (37개, 약 4분)
+      - name: Run Jeolnam Details Script
+        run: |
+          python starbucks-details-jeolnam.py
+        continue-on-error: true
+
+      # 5-15. 울산 상세 정보 수집 (35개, 약 4분)
+      - name: Run Ulsan Details Script
+        run: |
+          python starbucks-details-ulsan.py
+        continue-on-error: true
+
+      # 5-16. 제주 상세 정보 수집 (34개, 약 3분)
+      - name: Run Jeju Details Script
+        run: |
+          python starbucks-details-jeju.py
+        continue-on-error: true
+
+      # 5-17. 세종 상세 정보 수집 (14개, 약 1분)
+      - name: Run Sejong Details Script
+        run: |
+          python starbucks-details-sejong.py
+        continue-on-error: true
+
+      # 6. 생성된 데이터 파일 커밋
       - name: Commit changes
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add location/ || echo "No files to add"
+          git add location/ details/ || echo "No files to add"
           git commit -m "스타벅스 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
-      # 6. 변경사항 푸시
+      # 7. 변경사항 푸시
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
