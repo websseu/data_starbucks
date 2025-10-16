@@ -1,0 +1,2693 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-16",
+    "location": "대전(daejeon)",
+    "count": 72,
+    "item": [
+        {
+            "number": 1,
+            "name": "대전한남대DT",
+            "description": "활기찬 젊음이 가득한 대전한남대DT점입니다.",
+            "address": "대전광역시 대덕구 한밭대로 1122 (중리동)",
+            "parking": "1.주차가능 2.주차장위치-건물앞 스타벅스 전용 주차장 3.주차가능대수-7대 4.주차조건-스타벅스 이용시 2시간 무료",
+            "directions": "1.위치: 오정네거리에서 중리네거리 방향 STB상생방송 맞은편\n\n2.버스:102번 버스 한남병원방면 한남대북문 정류장 하차\n            605번, 611번 버스 한남병원방면 한남대북문 정류장 하차\n            706번, 802번 버스 한남병원방면 한남대북문 정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3462]_20211123023525_fjlfy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3462]_20240203121537_4t5t6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3462]_20240203095842_tdhb6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3462]_20240203095952_nz9qq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3462]_20240203121559_wqv1o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3462]_20230218092235_a36ar.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3462]_20240204064604_tcpyk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3462]_20240203125644_iz2o3.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 2,
+            "name": "대전IC DT",
+            "description": "대전의 시작과 끝을 장식하는 Dirve Thru 대전IC DT점! 편안한 DT서비스와 커피 한잔의 여유를 즐겨보세요.",
+            "address": "대전광역시 대덕구 동서대로 1776 (비래동)",
+            "parking": "1.주차가능 2.주차장위치-매장건물 뒤편 주차장 3.주차가능대수-20대~50대 4.주차조건-조건부 무료(스타벅스 이용고객 대상 2시간 무료) 5.주차요금정산방법-파트너에게 요청",
+            "directions": "1.위치:동부 네거리에서 대전IC 방면으로 400M \n\n2.버스:616번 버스 한신휴플러스 정류장 하차\n       201번 버스 비래동 방면 한신휴플러스 정류장 하차\n       501번 버스 비래동방면 한신휴플러스 정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3185]_20221116052449_arh9p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3185]_20240819092459_p40ux.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3185]_20240819091840_1xtso.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3185]_20240819091853_camyz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3185]_20240819091858_4tuka.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3185]_20240819091847_3m9n0.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 3,
+            "name": "대전신탄진DT",
+            "description": "대전의 금강과 대청호를 만날 수 있는 신탄진의 만남의장소 Dirve Thru의 편안함,커피한잔의 여유를  대전신탄진DT점에서 경험해 보세요.",
+            "address": "대전광역시 대덕구 대덕대로 1544 (석봉동)",
+            "parking": "1. 주차가능 2. 매장정면 3. 주차가능대수 장애인1대 포함 15대 4. 주차조건-최초30분무료.1만원당 1시간 무료,일최대 4시간  (입차시간으로부터 10분당500원)",
+            "directions": "1.위치:대전 신탄진 석봉네거리 신탄진역 방면\n\n2.버스:급행2번 버스 신탄진시장 정류장 하차(도보7분)\n           704번 버스 금강엑슬루타워 정류장 하차\n           701번 버스 석봉네거리 정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103006_souq8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103048_49jat.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103111_z5h5a.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103122_m4kh3.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103131_qr7q4.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103136_w7s87.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103139_g2j97.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/3232_20250413103143_xdbpy.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 4,
+            "name": "대전송촌",
+            "description": "사계절을 아름다움을 느끼며 한잔의 여유로운 커피를 함께할 수 있는 대전송촌점입니다.",
+            "address": "대전광역시 대덕구 송촌북로36번길 36, 1층 (송촌동)",
+            "parking": "주차불가",
+            "directions": "버스 616,617,311 선비마을 입구 정류장 하차. 선비마을 2, 3단지 사이 해피존 맞은편.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9871]_20210907090606_qf8r7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9871]_20210907090651_l0wum.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[9871]_20220106054101_7iz8g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[9871]_20220106054453_h6wmu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9871]_20210907090657_mqwwr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9871]_20210907090706_kqhwg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9871]_20210907090712_5tt0f.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 5,
+            "name": "신탄진금강DT",
+            "description": "편리한 Drive Thru와 금강 뷰를 자랑하는 스타벅스 신탄진금강DT점 입니다.",
+            "address": "대전광역시 대덕구 신탄진로 866 (신탄진동)",
+            "parking": "1.주차가능2.주차장 위치-매장전면,후면3.주차가능대수-14대4.주차조건-조건부무료(최초30분 무료,1만원당1시간무료.최대4시간가능)",
+            "directions": "현도교 직전 4거리\n300번 버스 신탄진동행정복지센터 정류장에서 하차하여 도보로 2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3914]_20220208030128_3ianw.png",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3914]_20220208030144_yrh3l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3914]_20220208030207_ff9x1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3914]_20220208030215_bj56e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3914]_20220208030219_3rp06.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3914]_20211122114515_7unsi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[3914]_20230818022558_v3nvm.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 6,
+            "name": "대전터미널DT",
+            "description": "설레는 여행 길에 진한 커피향을 더해주는 스타벅스 대전터미널DT점입니다.",
+            "address": "대전광역시 동구 동서대로 1658 (성남동)",
+            "parking": "1. 주차가능 2. 매장후면 3. 주차가능대수  9대 4. 주차조건-조건부 무료(스타벅스 1만원이상이용고객 대상 1시간 무료) 5.주차요금정산방법-사전정산기 사용",
+            "directions": "1. 대전복합터미널 건너편 대로변 (용전네거리에서 대전IC 방향으로 200M  지점) \n\n\n2. 버스: 급행2번 동부네거리방면 복합터미널정류장 하차\n             102번,105번,106번 동부네거리방면 복합터미널정류장 하차\n              501번, 601번,802번 동부네거리방면 복합터미널정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3745]_20191120111108_2h3tm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3745]_20191122023358_ysvcg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3745]_20191122023625_rwz8o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3745]_20191122023728_hdrlo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3745]_20191122023740_n1aov.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3745]_20191122023803_60c7k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3745]_20220216042043_vra7t.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 7,
+            "name": "대전판암DT",
+            "description": "카페에서의 편안함과, 빠르고 편리한 Drive Thru 를 동시에 경험 할 수 있는 대전판암DT점 입니다.",
+            "address": "대전광역시 동구 옥천로 118 (판암동)",
+            "parking": "1. 주차가능 2. 매장측면, 후면 3. 주차가능대수 장애인1대 포함 20대이상 4. 주차조건-스타벅스 이용시 3시간 무료(30분 내 회차 무료)",
+            "directions": "대전 1호선 신흥역 1번 출구 도보 5분,판암IC방향 다이소 옆\n신한 미리내 아파트 정문 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3477]_20171129091139_g2zys.png",
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3477]_20171129091228_j3dyz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/08/[3477]_20180831064342_2sya3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[3477]_20190707105057_q0fdq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/07/[3477]_20190707105103_9npin.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 8,
+            "name": "대전가오",
+            "description": "편안하고 아늑한 대전가오점! 한 잔의 커피, 파트너들과의 교감, 오늘 하루 커피 한 잔 어떠세요?",
+            "address": "대전광역시 동구 동구청로 101 (가오동)",
+            "parking": "1.주차가능  2. 건물입점 지하 1층 3.주차가능 대수 10대이상 4.주차조건-스타벅스 이용시 영수증 1장 당 3시간 무료(영수증 1장당 1대만 가능)",
+            "directions": "가오동 홈플러스 맞은편에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9648]_20250306041425_scz6w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9648]_20250308124625_dcv2j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9648]_20250306042131_0nop1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9648]_20250306042158_8yel2.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 9,
+            "name": "대전신흥역DT",
+            "description": "빠르고 신속한 Drive -Thru와 달콤한 휴식의 공간, 스타벅스 대전신흥역DT점입니다.",
+            "address": "대전광역시 동구 옥천로 89 (판암동)",
+            "parking": "1. 주차 가능,  2. 주차장위치-매장전면,  3. 주차가능대수- 4대,  4. 주차조건-스타벅스 이용시 무료(매장옆 유료주차장 6대,1만원이상 구매시 1시간 무료)",
+            "directions": "대전 지하철 1호선 신흥역 4번출구 판암IC 방향 201M 직진",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120639_bybah.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120753_917o8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120758_fahdc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120802_tlcpj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120825_yigdh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120858_qxulb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4155]_20221103120903_m7y7x.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 10,
+            "name": "대전용운",
+            "description": "도심 속 자연의 아름다움과 커피 한 잔의 여유를 즐길 수 있는 스타벅스 대전용운점 입니다.",
+            "address": "대전광역시 동구 동부로 178 (용운동)",
+            "parking": "1.주차가능 2.매장앞 전용 주차장  3.주차가능대수 28대, 장애인 1대 4.주차조건 -조건부 무료 (평일-무료,주말,공휴일-스타벅스 1만원 이상 이용 고객 대상 1시간 무료) 5. 주차요금 정산방법 - 사전정산기 사용",
+            "directions": "대전대학교 남문에서 도보 18분, 용운국제수영장에서 도보 11분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4337]_20231026105242_r3not.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4337]_20231026105122_p0yyz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4337]_20231026105129_65oq9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4337]_20231026105136_owoyi.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 21:00",
+                "17일 금요일 08:00 ~ 21:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 21:00",
+                "21일 화요일 08:00 ~ 21:00",
+                "22일 수요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 11,
+            "name": "대전용전DT",
+            "description": "편리한 Drive-Thru와 편안한 커피한잔의 여유를 즐길 수 있는 스타벅스 대전용전DT점 입니다.",
+            "address": "대전광역시 동구 한밭대로 1239 (용전동)",
+            "parking": "1. 주차가능 2. 매장측면 3. 주차가능대수  5대 4. 주차조건-스타벅스 이용시 무료",
+            "directions": "1.위치: 대전동부네거리에서  대전중리네거리 방향 약1km\n\n2.버스:급행2번 한국전력공사 하차\n            605번, 611번 중리네거리 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010738_6cxh5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010750_9iidi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010801_gnga5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010811_ihfdl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010821_51odk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010831_0r0q9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3988]_20240205010841_9v723.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 21:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 21:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "대전복합터미널",
+            "description": "쇼핑과 커피 한잔의 즐거움으로 우리나라 곳곳을 떠날수 있는  매장",
+            "address": "대전광역시 동구 동서대로 1689 (용전동)",
+            "parking": "1.주차지원불가 2.주차가능 3.주차장위치-이마트 건물 5층~7층 3.주차가능대수-50대 이상 4.주차조건 (이마트, 스타일 이용시 가능) : 기본요금 30분당 1000원/ 추가 10분당 300원씩/ 이마트or스타일마켓 구매 금액에 따라 1~4시간 무료 (스타벅스복합터미널점 - 주차지원불가)",
+            "directions": "",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4592]_20250121042627_wzsrb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4592]_20250121042751_fctv8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4592]_20250121042757_dazlp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4592]_20250121042805_ystev.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4592]_20250121042811_x7x4u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4592]_20250121042817_qherj.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "대전정부청사역",
+            "description": "안녕하세요, 바쁜 일상 속 파트너들의 미소로 따뜻한 하루의 시작을 선사해드리는 스타벅스 대전정부청사역점 입니다.",
+            "address": "대전광역시 서구 한밭대로 755 (둔산동)",
+            "parking": "1.주차가능 2.주차장 위치-입점건물 지하 3.주차가능대수-100대이상 4.주차조건-1시간 무료 (초과시 30분당 2,000원) 5.주차요금정산방법-파트너에게 차량번호 등록요청",
+            "directions": "지하철 대전정부청사역 4번 출구, 삼성생명 건물 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091407_c09uh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091619_buikx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091640_ufjlt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091706_ak2oe.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091727_8bxpc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091807_37t8w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3626]_20240204091825_5fw7s.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 14,
+            "name": "대전건양대병원",
+            "description": "스타벅스 대전건양대병원점에서 친절한 미소와 차분하고 아늑한 분위기로 여러분을 기다립니다.",
+            "address": "대전광역시 서구 관저동로 170 (관저동)1층",
+            "parking": "1.주차가능 2.주차장위치-건물지하 주차장 3.주차가능대수-50대 이상 4.주차조건-스타벅스 이용시 차1대당 1시간 무료, 2만원 이상 구매 시 2시간 무료 5.주차요금정산방법-파트너에게 요청",
+            "directions": "건양병원네거리에서  금성골네거리 방면으로 도보 10분, 건양타워 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124124320_3kl9f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124124414_wxvcj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124124512_987t0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124124605_4n7qs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124124955_aim4o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124125003_9ozdn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124125010_6kw2e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3633]_20240124125017_vvhx8.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 15,
+            "name": "대전탄방역",
+            "description": "공기청정 시스템으로 미세먼지 없는 쾌적한 제3의 공간, 스타벅스 대전탄방역점 입니다.",
+            "address": "대전광역시 서구 문정로2번길 95 (탄방동)",
+            "parking": "1.주차가능 2.주차장 위치-건물내 주차장 3.주차가능대수-92대 4.주차조건-1시간 무료 5.주차요금정산방법-출차 시 영수증제시",
+            "directions": "대전 탄방역 5번출구 방면 도보 5분,\n미즈여성병원 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3593]_20240204103544_06t1k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3593]_20240204103923_e91pe.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3593]_20240204103933_bra45.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3593]_20240204104028_mofs1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3593]_20240204104038_nwcug.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3593]_20240204104043_pery5.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 16,
+            "name": "대전복수",
+            "description": "편안한 분위기에서 커피 한 잔의 여유를 즐길 수 있는 대전복수점입니다.",
+            "address": "대전광역시 서구 복수남로 28 (복수동)",
+            "parking": "1.주차가능 2.주차장위치-건물옆 주차라인 3.주차가능대수-4대 이하 4.주차조건-스타벅스 이용시 무료",
+            "directions": "대전과학기술대학교에서 초록마을 5단지 방향으로 도보20분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128075451_48p02.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128073425_nq8kc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128074338_poocn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128074538_b9jhr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128074937_gnae0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128075050_r7xug.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3547]_20240128075309_od571.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 22:00",
+                "17일 금요일 07:30 ~ 22:00",
+                "18일 토요일 07:30 ~ 22:00",
+                "19일 일요일 07:30 ~ 22:00",
+                "20일 월요일 07:30 ~ 22:00",
+                "21일 화요일 07:30 ~ 22:00",
+                "22일 수요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 17,
+            "name": "대전둔산남로",
+            "description": "파트너의 밝은 미소, 따뜻하고 편안한 분위기, 여유로운 커피 한잔을 즐길 수 있는 대전둔산남로점입니다.",
+            "address": "대전광역시 서구 둔산남로 100 (탄방동)",
+            "parking": "1.주차불가능",
+            "directions": "시청역 8번출구, 세이탄방점 방면 도보 5분(우성빌딩1층)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203041723_j43lw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203040327_uhtzy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203040503_pt5ub.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203041814_57de7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203040654_udegf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203040904_zfziy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3465]_20240203041433_mmyua.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 18,
+            "name": "대전둔산로",
+            "description": "넓고 쾌적한 공간, 바쁜 일상 속 따뜻한 커피한잔의 여유를 느낄 수 있는 대전둔산로점 입니다.",
+            "address": "대전광역시 서구 대덕대로241번길 35 (둔산동)",
+            "parking": "1.주차불가능",
+            "directions": "둔산동 파랑새네거리에서 향촌아파트 방면으로 도보 5분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon18.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2016/06/[3292]_20160624071511_or623.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3292]_20240316014448_tv3ct.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3292]_20160706061409_7lpcs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3292]_20160706061302_q235g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3292]_20160706060806_1fk0y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3292]_20230608094600_2tt38.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3292]_20240316014231_kcn94.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 19,
+            "name": "대전법원",
+            "description": "따뜻하고 편안한 분위기와 파트너들의 활기찬 서비스가 가득한 스타벅스 대전법원점 입니다.",
+            "address": "대전광역시 서구 둔산로123번길 43 (둔산동)",
+            "parking": "1.주차불가능",
+            "directions": "지하철 1호선 시청역 5번 출구 대전법원 방면 도보 5분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[3293]_20230924055744_pg8i2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3293]_20240201035951_89ba7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3293]_20240201035959_w0n63.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3293]_20240201040004_v2iig.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3293]_20240201040305_zt2pc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3293]_20240201040309_wiqb5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3293]_20240201040314_yj4go.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 20,
+            "name": "대전가수원DT",
+            "description": "대전가수원DT점에서 신속하고 친절한 디지털 감동서비스와 커피 한잔의 여유를 느껴보세요.",
+            "address": "대전광역시 서구 계백로 1128 (가수원동)",
+            "parking": "1.주차가능 2.주차장위치-건물뒤편 주차장 3.주차가능대수-10대 4.주차조건-스타벅스 1만원이상 구매시 1시간 무료",
+            "directions": "1. 위치: 가수원 맥도날드 옆 위치, 김봉천 정형외과 옆 위치\n\n2. 버스: 급행1번 가수원네거리방면 가수원육교, 가수원시장 정류장하차\n             201번, 202번,211번, 216번 가수원네거리방면 가수원육교, 가수원시장 정류장하차\n             외곽버스 21번, 41번, 42번, 46번 가수원네거리방면 가수원육교, 가수원시장 정류장하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3241]_20231213113947_nhbos.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[3241]_20240904084709_gpzxb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[3241]_20240904084720_q9eie.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[3241]_20240904084729_3mcz8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3241]_20231213113958_jo6ho.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3241]_20231213114011_ejtbw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3241]_20231213114036_qtcvs.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 21,
+            "name": "대전수침교DT",
+            "description": "대전의 첫 Drive Thru매장 대전수침교DT점! 멋진 뷰와함께 여유로운 커피한잔을 즐겨보세요.",
+            "address": "대전광역시 서구 계룡로 692 (용문동)",
+            "parking": "1.주차가능 2.주차장위치-매장 측면 3.주차가능대수- 3대  4.주차조건-스타벅스 이용 시 무료",
+            "directions": "지하철 용문역 1번출구로 나와 도보로 450m (5분 거리), 수침교사거리 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[3126]_20200731040706_0p0tm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3126]_20231010121343_zooyo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[3126]_20200731040724_2ore4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[3126]_20200731041919_kxqys.png",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3126]_20240105065322_2gb8s.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 22,
+            "name": "대전관저",
+            "description": "특별한 공간 스타벅스 대전관저점에서 커피한잔의 여유로움을 느껴보세요.",
+            "address": "대전광역시 서구 관저로 142 (관저동)",
+            "parking": "1.주차가능 2.주차장위치-건물지하 주차장 3.주차가능대수-10대~20대 4.주차조건-1만원이상 결제 시 2시간 무료, 2시간 이후 시간당 3,000원",
+            "directions": "서대전IC 대전역방향 진입, 관저사거리에서 우회전 마치상가 1층에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[3024]_20231109083742_o3a6x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3024]_20240207111356_9ft0v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3024]_20240207111447_iskgy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3024]_20240207111506_rq8nr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3024]_20240207111533_s6b26.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3024]_20240207111539_efp1y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3024]_20240207111543_svj12.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 23,
+            "name": "대전대덕로",
+            "description": "환영합니다. 향긋한 커피로 인사하는 대전대덕로점입니다.",
+            "address": "대전광역시 서구 대덕대로234번길 18 (둔산동)",
+            "parking": "1.주차불가능",
+            "directions": "둔산동 파랑새네거리 전자랜드 골목 초입 부분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[3011]_20230309031630_89w5u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3011]_20240201062811_iz1wo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3011]_20240103104527_xcv0a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3011]_20240103104211_m97ri.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3011]_20230224050819_gprsc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3011]_20230224050823_bikjb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3011]_20240201062759_5bc6f.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 24,
+            "name": "대전목원대",
+            "description": "넓고 아늑한 공간 스타벅스 대전목원대점에서, 커피한잔과 함께 하루의 일상을 즐겨보세요.",
+            "address": "대전광역시 서구 동서대로 682 (도안동)",
+            "parking": "1.주차가능 2.주차장위치-건물 지하 주차장 3.주차가능대수-10대~20대 4.주차조건-스타벅스 이용시 무료",
+            "directions": "목원대학교 정문에서 370m 동서대로 사거리 부분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3015]_20220127034215_oj6v9.png",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3015]_20240126044121_w9b64.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3015]_20240125105629_r0m66.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3015]_20220127034433_yz9mf.png",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3015]_20220127034418_wa9kf.png",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3015]_20220127034425_t2520.png",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3015]_20240126043725_hfa0i.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 25,
+            "name": "대전둔산",
+            "description": "대전의 중심 둔산동에 위치한 대전둔산점에서 아늑함과 편안함을 느끼며 향긋한 커피로 하루의 일상을 시작하세요.",
+            "address": "대전광역시 서구 대덕대로 189 (둔산동)",
+            "parking": "1.주차불가능",
+            "directions": "갤러리아 타임월드에서 경성큰마을 방향으로 200m 직진",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930125942_lbgii.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010100_ezlh6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010111_69ho9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010122_1exeu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010131_ru5j5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[9991]_20240930010137_124av.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 09:00 ~ 20:00",
+                "20일 월요일 08:00 ~ 20:00",
+                "21일 화요일 08:00 ~ 20:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 26,
+            "name": "대전만년",
+            "description": "넓고 세련된 인테리어와 파트너들의 미소가 가득한 대전만년점 입니다.",
+            "address": "대전광역시 서구 만년로 81 (만년동)",
+            "parking": "1. 건물 주차장 사용 가능(주차 관리 주체-건물측)  2. 주차장 위치 - 매장 전면  3. 주차가능대수 -5대미만",
+            "directions": "만년네거리에서 대덕대교 방향으로 270m 직진 후 우회전. 서구보건소에서 도보 1분 거리.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon18.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3036]_20230201215906740.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3036]_20220413075028_xfrk2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3036]_20220413074855_bn1zb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3036]_20240204061924_f21nh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3036]_20220413075041_gopvs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3036]_20220413075032_iq411.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3036]_20220413075046_j044k.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 23:00",
+                "17일 금요일 06:30 ~ 23:00",
+                "18일 토요일 06:30 ~ 23:00",
+                "19일 일요일 06:30 ~ 23:00",
+                "20일 월요일 06:30 ~ 23:00",
+                "21일 화요일 06:30 ~ 23:00",
+                "22일 수요일 06:30 ~ 23:00"
+            ]
+        },
+        {
+            "number": 27,
+            "name": "대전시청사거리",
+            "description": "바쁜 일상 속 잠시 휴식이 필요한 시간, 따뜻한 분위기와 여유가 있는 대전시청사거리점입니다.",
+            "address": "대전광역시 서구 둔산남로 50 (탄방동)",
+            "parking": "1.주차가능 2.주차장 위치-입점건물 지상 3.주차가능대수-20대이상 4.주차조건-1일1회, 2시간 무료, 회차 15분이내, 초과시 요금부과 5.주차요금정산방법-매장 내 태블릿을 이용하여 주차 할인 등록. (주차 미등록 출차 후 부과된 요금은 결제 취소 및 환불 불가)",
+            "directions": "대전 1호선 탄방역 2번출구에서 400M 오페라 웨딩홀 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025704_p5tp7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025602_y0747.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025757_x1zbs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025823_kops2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9978]_20240830025957_6wnat.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 28,
+            "name": "대전월평",
+            "description": "문화생활과 더불어 편안함과 쾌적함을 동시에 선사해드리는 대전월평점입니다.",
+            "address": "대전광역시 서구 청사로123번길 25 (월평동)",
+            "parking": "1. 주차 불가능 2. 다만, 매장 옆 유료 노상 주차공간이 주말에는 무료 개방되어 있습니다.",
+            "directions": "선사유적지 입구에서 백합아파트방향 도보3분거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[9798]_20200823054748_140uu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[9798]_20200820015513_ljbti.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[9798]_20200820015519_sbvur.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[9798]_20200820015552_hdi4o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/9798_20250512101552_byrdd.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 29,
+            "name": "둔산은하수",
+            "description": "둔산동에서 가장 쾌적하고 친절한 스타벅스 둔산은하수점으로 여러분을 초대합니다.",
+            "address": "대전광역시 서구 둔산로31번길 28, 금정빌딩 1층 (둔산동)",
+            "parking": "1.주차불가능",
+            "directions": "갤러리아백화점 타임월드점 주차동 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon18.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[9504]_20220327035816_fk430.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9504]_20230213081441_izuwu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9504]_20230213075715_hnh2s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9504]_20230213080943_b1weq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9504]_20230213081134_apkeb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9504]_20230213081248_9q19h.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 21:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 30,
+            "name": "대전탄방",
+            "description": "스타벅스 대전 탄방점에선 편안한 분위기와, 친절한 파트너, 맛있고 시원한 음료로신선하고 새로운 추억을 남겨 드리겠습니다.",
+            "address": "대전광역시 서구 문정로 78, 정우빌딩 1층 (탄방동)",
+            "parking": "1.주차불가능",
+            "directions": "지하철 탄방역 4번 출구에서 로데오타운 방면. 로데오타운 맞은 편 버스정류장 부근 건물 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9484]_20230209111552_halfc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9484]_20190602081111_5j9by.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9484]_20190602081115_3soxy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9484]_20190602081118_iagax.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9484]_20190602081129_69dh0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9484]_20190602081148_tdpfq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/06/[9484]_20190602081603_jp3b2.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 31,
+            "name": "대전시청역",
+            "description": "고객님의 생활 가까이에 있는 대전시청점은 고객 한분 한분께 따듯한 환영과 환상적인 음료를 제공할것을 약속드립니다. 오늘도 방문해 주셔서 감사합니다.",
+            "address": "대전광역시 서구 둔산로 142 (둔산동)",
+            "parking": "주차가능. 1.건물내 기계식주차(외제차&SUV차종 등 불가) 2.주차가능대수: 40대 3.주차조건: 2시간무료(초과시 30분당 2,000원) 4.정산방법: 주차확인증 파트너에게 제시(주차도장, 퇴점시간확인)",
+            "directions": "둔산동 크로바 네거리 신한은행 왼편. 지하철 시청역 7번 출구에서 5분 직진",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9451]_20240212114451_pem71.gif",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9451]_20221012102434_sw2hg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9451]_20221012102255_010av.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9451]_20221012102720_08t1r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9451]_20230120113155_ldvmr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9451]_20230120113230_vvblo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9451]_20230120113235_u6u0v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9451]_20230120113240_24e6m.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 32,
+            "name": "대전호텔",
+            "description": "아늑한 인테리어와 아름다운 미소로 반겨주는 파트너가 있는 편안한 공간.",
+            "address": "대전광역시 서구 둔산중로134번길 13, 토요코인호텔 1층 (둔산동)",
+            "parking": "1.주차가능 2.주차장위치-입점건물지하 3.주차가능대수-100대이상 4.주차조건- 1시간 무료(초과시 30분당1000원)  5.주차요금정산방법-파트너에게 차량번호 등록요청",
+            "directions": "정부청사 4번출구에서 450m 직진, 캐피탈 타워 후문 맞은편 토요코인호텔(Toyoko Inn)건물 1층 우측입구입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007110014_95wno.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007022122_pihpy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007022148_jhjl6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007022157_jmj73.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007022219_io1pg.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007022233_ggr9y.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9557]_20241007022307_mj76x.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 33,
+            "name": "월평트레이더스",
+            "description": "월평의 쇼핑과 휴식의 제3의 공간, 월평트레이더스점입니다.",
+            "address": "대전광역시 서구 한밭대로 580 (월평동)",
+            "parking": "1.주차가능 2.주차장 위치-트레이더스 주차장 이용 3.주차가능대수-100대 이상 4.주차조건-조건부 무료(스타벅스 이용고객 대상 무료) 5.주차요금정산방법-파트너에게 요청",
+            "directions": "월평역 2번출구, 월평네거리 월평트레이더스 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[9608]_20230626041848_ffnzc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[9608]_20230626043425_8y2k0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[9608]_20230626041630_joads.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[9608]_20230626041646_5drwf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9608]_20220829061243_8xcu6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9608]_20220829061238_rjog9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9608]_20220829061233_g0d94.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:00 ~ 22:30",
+                "17일 금요일 10:00 ~ 22:30",
+                "18일 토요일 10:00 ~ 22:30",
+                "19일 일요일 10:00 ~ 22:30",
+                "20일 월요일 10:00 ~ 22:30",
+                "21일 화요일 10:00 ~ 22:30",
+                "22일 수요일 10:00 ~ 22:30"
+            ]
+        },
+        {
+            "number": 34,
+            "name": "대전시청역8번출구",
+            "description": "도심 속 따뜻하고 아늑한 대전시청역8번출구입니다",
+            "address": "대전광역시 서구 둔산중로46번길 10 (둔산동)",
+            "parking": "1. 주차 불가능",
+            "directions": "지하철 시청역 8번출구에서 도보 50M(도보 1분)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240220093200_881zt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093021_14yvk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093033_486tp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093045_nxgyd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093055_d942z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093106_oba9f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093116_9o367.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4510]_20240223093127_s3qoi.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 23:00",
+                "17일 금요일 07:00 ~ 23:00",
+                "18일 토요일 07:00 ~ 23:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 23:00",
+                "21일 화요일 07:00 ~ 23:00",
+                "22일 수요일 07:00 ~ 23:00"
+            ]
+        },
+        {
+            "number": 35,
+            "name": "둔산대덕대로",
+            "description": "고객님의 생활 가까이에 있는 둔산대덕대로점은 고객 한분 한분께 따듯한 환영과 환상적인 음료를 제공할것을 약속드립니다. 오늘도 방문해 주셔서 감사합니다.",
+            "address": "대전광역시 서구 대덕대로 200 (둔산동), 1층",
+            "parking": "주차불가",
+            "directions": "둔산동 대덕대로 갤러리아타임월드 맞은편  신한은행 옆 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4448]_20230727054850_dnebf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4448]_20230727062321_sqva3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4448]_20240204011725_ovdze.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4448]_20240102092257_h2xuk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4448]_20230930101502_r881r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4448]_20230930101356_whluy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4448]_20230727062201_fneol.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 36,
+            "name": "둔산삼성스토어",
+            "description": "바쁜 도심 속, 여유로움과 편안함을 즐길수 있는 둔산삼성프라자점입니다.",
+            "address": "대전광역시 서구 대덕대로 254 삼성전자 메가스토어 대전본점 1층 (둔산동)",
+            "parking": "1.주차가능 2.주차장 위치-건물내 주차장 3.주차가능대수-100대 4.주차조건-2시간 무료 5.주차요금정산방법-파트너에게 차량등록 요청",
+            "directions": "정부청사역 2번 출구에서 292m, 둔산이마트 맞은편 건물 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[4200]_20220110104153_1so4j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4200]_20240201102138_wtlu1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[4200]_20220111081020_dmdd4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4200]_20240201102028_uf3fs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4200]_20230128102608_94eok.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4200]_20230128102610_9rd0x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4200]_20230128102616_mm4z0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4200]_20230128102623_pwhxh.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 20:00",
+                "17일 금요일 07:00 ~ 20:00",
+                "18일 토요일 07:00 ~ 20:00",
+                "19일 일요일 09:00 ~ 20:00",
+                "20일 월요일 07:00 ~ 20:00",
+                "21일 화요일 07:00 ~ 20:00",
+                "22일 수요일 07:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 37,
+            "name": "대전갈마DT",
+            "description": "편리한 Drive Thru와 커피한잔의 여유를 즐길 수 있는 스타벅스 대전갈마DT점 입니다.",
+            "address": "대전광역시 서구 계룡로 384 (갈마동)",
+            "parking": "1.주차가능2.주차장 위치-DT진입로 내부 평행주차 3대3.주차가능대수-3대4.주차조건-무료",
+            "directions": "갈마네거리에서 갈마육교 방향으로 250m 앞\n갈마육교 버스정류장에서 200m 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3998]_20230116065207_gw24q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3998]_20240316071908_ox405.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3998]_20230118092351_1doot.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3998]_20240316072033_j5erf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3998]_20240105013529_kzy05.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3998]_20220626082638_qf0rv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3998]_20220422075832_6bfd3.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:30",
+                "17일 금요일 06:30 ~ 22:30",
+                "18일 토요일 06:30 ~ 22:30",
+                "19일 일요일 06:30 ~ 22:30",
+                "20일 월요일 06:30 ~ 22:30",
+                "21일 화요일 06:30 ~ 22:30",
+                "22일 수요일 06:30 ~ 22:30"
+            ]
+        },
+        {
+            "number": 38,
+            "name": "대전용문DT",
+            "description": "편리한 Drive Thru와 커피한잔의 여유를 느낄 수 있는  스타벅스 대전용문DT점 입니다.",
+            "address": "대전광역시 서구 도산로 336 (용문동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 3. 주차가능대수 - 18대 4. 주차조건 - 조건부무료(영수증 1만원 당 1시간 무료) 5.주차요금정산방법 - 주차정산시스템 이용.",
+            "directions": "대전 지하철 1호선 용문역 2번 출구에서 가장동 방향 426m 직진",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3929]_20210830044825_3erbj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3929]_20210830045010_je0mn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[3929]_20210407034139_ln37p.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3929]_20230614035519_5jfjj.PNG",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3929]_20230614035729_gciuk.PNG",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3929]_20230614035743_fgybf.PNG",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3929]_20230614035719_h3n1o.PNG"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 39,
+            "name": "갤러리아타임월드",
+            "description": "편안한 휴식처를 제공하는 매장 갤러리아타임월드점 입니다.",
+            "address": "대전광역시 서구 대덕대로 211 (둔산동)",
+            "parking": "1.주차가능 2.주차장위치-입점건물지하 3.주차가능대수-500대이상 4.주차조건- 20분 무료(구매금액에 따른 할인 가능)  5.주차요금정산방법-파트너에게 차량번호 등록요청& 백화점 주차정산기 이용",
+            "directions": "지하철 정부청사역 2번 출구에서 752m , 갤러리아백화점 타임월드점 11층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4623]_20250227112201_zgu4p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[4623]_20250306094757_ty1rk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[4623]_20250306093957_h7tgu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[4623]_20250306094038_nwei0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[4623]_20250306094048_6yggx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[4623]_20250306094830_1amjz.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:30 ~ 20:30",
+                "17일 금요일 10:30 ~ 20:30",
+                "18일 토요일 10:30 ~ 20:30",
+                "19일 일요일 10:30 ~ 20:30",
+                "20일 월요일 10:30 ~ 20:30",
+                "21일 화요일 10:30 ~ 20:30",
+                "22일 수요일 10:30 ~ 20:30"
+            ]
+        },
+        {
+            "number": 40,
+            "name": "도안레이크타워",
+            "description": "도심 속 자연을 느낄수 있는",
+            "address": "대전광역시 서구 도안동로 234-54 (도안동) 105~109호",
+            "parking": "1. 주차가능 2, 주차장 위치 - 입점건물 2층 ~ 4층 3. 주차가능대수 - 100대 이상 4. 주차조건 - 조건부 무료(영수증 만원이상 구매 시 2시간 무료) 5. 주차요금정산방법 - 파트너에게 요청",
+            "directions": "도안레이크타워 1층(갑천 3블록 트리풀시티 맞은편 건물 1층)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4531]_20240601025325_4n57x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4531]_20240820013146_ilzv2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4531]_20240605091901_20dvt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4531]_20240605091911_0cnq0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4531]_20240605091836_fe940.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4531]_20240604050656_qn47t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4531]_20240604050703_i0f2e.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 21:30",
+                "17일 금요일 07:30 ~ 21:30",
+                "18일 토요일 07:30 ~ 21:30",
+                "19일 일요일 07:30 ~ 21:30",
+                "20일 월요일 07:30 ~ 21:30",
+                "21일 화요일 07:30 ~ 21:30",
+                "22일 수요일 07:30 ~ 21:30"
+            ]
+        },
+        {
+            "number": 41,
+            "name": "둔산이랜드피어",
+            "description": "여러분의 아침을 기분좋게 도와 드릴 수 있는 언제나 즐거운 스타벅스 둔산이랜드피어점 입니다.",
+            "address": "대전광역시 서구 한밭대로 817 (둔산동)",
+            "parking": "1.주차가능/2.주차장위치:입점건물지하/3.주차가능대수:10대이상/4.주차조건(조건부무료-1시간무료)/5.주차요금정산방법-파트너에게요청",
+            "directions": "둔산동 둥지아파트 앞 버스정류장 둥지아파트역 하차 후 캐피탈타워방면 도보 100M 앞 ( 둔산이랜드PEER 오피스텔 1층 )",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090452_ds0hn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090457_37ahc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090504_pfv0j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090523_bw36a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090521_k1n4g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090518_u8ari.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090510_sam7o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4619]_20250801090514_glop8.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 42,
+            "name": "대전관저네거리",
+            "description": "지친 일상 속 직은 여유를 느껴보세요! 여기는",
+            "address": "대전광역시 서구 계백로 993 (관저동) 102-1호",
+            "parking": "1. 주차가능 2, 주차장 위치 - 입점건물 지하 1층 ~ 지하 3층 3. 주차가능대수 - 장애인 3대포함 70대 이상 4. 주차조건 - 조건부 무료(영수증 만원이상 구매 시 2시간 무료) 5. 주차요금정산방법 - 파트너에게 요청",
+            "directions": "대전 관저동 고래한방병원 건물 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4539]_20240617092258_vrm7s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4539]_20240820013526_t4hq3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4539]_20240820013537_go4hi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4539]_20240619051854_ynv30.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4539]_20240619051954_16pls.png",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4539]_20240619052003_5aa5b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4539]_20240619052009_qdf32.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 43,
+            "name": "대전반석역",
+            "description": "모든 분께 가족이 되어드리는 파트너들의 미소가 가득한 스타벅스 대전반석역점입니다.",
+            "address": "대전광역시 유성구 북유성대로 303 (반석동)",
+            "parking": "1. 주차 불가능 (반석역 1번출구 방향 '반석동 제 1 공영주차장' 이용)",
+            "directions": "지하철 대전반석역 1번 출구, 뉴타운프라자 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201034506_xc0m8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201034637_xwpj3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201031859_qmzzv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240201034727_j6bgg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240206102659_0s3tq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240206102709_alfas.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3792]_20240206102720_3ler5.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 44,
+            "name": "대전도안DT",
+            "description": "대전 유성 도안대로 Drive Thru 매장 대전도안DT점입니다.",
+            "address": "대전광역시 유성구 도안대로 573 (봉명동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 안 주차장 3. 주차가능대수-(장애인 1대 포함) 19대 4. 주차조건-무료",
+            "directions": "대전광역시 유성구 도안대로 573\n유성온천역 3번 출구에서 직진 300m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250928104341_ldmmb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250928095827_c5spj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250927081517_2txg4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250928095836_7rv34.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250927084723_co16x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250927085325_meego.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3343_20250927085311_9idrl.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 23:00",
+                "17일 금요일 06:30 ~ 23:00",
+                "18일 토요일 06:30 ~ 23:00",
+                "19일 일요일 06:30 ~ 23:00",
+                "20일 월요일 06:30 ~ 23:00",
+                "21일 화요일 06:30 ~ 23:00",
+                "22일 수요일 06:30 ~ 23:00"
+            ]
+        },
+        {
+            "number": 45,
+            "name": "대전유성구청",
+            "description": "향긋한 커피와 편안한 분위기의 대전유성구청점입니다. 미소가 아름다운 파트너들이 여러분을 기다립니다.",
+            "address": "대전광역시 유성구 어은로 42 (어은동)",
+            "parking": "1. 주차 불가능",
+            "directions": "유성구청 옆, 버스(104,121번)이용시 유성구청 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3352]_20220615022844_4z4zy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/08/[3352]_20190811060026_vtub7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/08/[3352]_20190811055641_9ecrr.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:30 ~ 22:00",
+                "21일 화요일 07:30 ~ 22:00",
+                "22일 수요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 46,
+            "name": "대전지족",
+            "description": "향기로운 커피향기가 가득한 대전지족점 입니다.",
+            "address": "대전광역시 유성구 지족로 373 (지족동)",
+            "parking": "1. 주차 불가능",
+            "directions": "대전지족역 1번출구 도보 5분, 반석네거리에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[3187]_20240710113601_dyxet.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3187_20250813065946_mchdj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[3187]_20240710113635_4dr2o.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[3187]_20240727083025_uquyf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[3187]_20240710113716_6bffa.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3187_20250825094833_2jsgq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[3187]_20240710113724_6djh4.JPG"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 47,
+            "name": "대전유성",
+            "description": "비즈니스 중심지 유성. 만남의 장소 대전유성점에서 커피한잔의 여유를 즐겨보세요.",
+            "address": "대전광역시 유성구 온천서로 2 (봉명동)",
+            "parking": "1. 주차가능 2. 주차장 위치-입점건물 옆 기계식 주차로 주차불가한 차량 종류 있음 3. 주차가능대수-10대이상 4. 주차조건-조건부 무료(스타벅스 구매영수증 제출시 2시간 무료)",
+            "directions": "유성온천역 5번출구에서 도보 3분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/06/3113_20250622035150_f3nn9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/08/[3113]_20170807101053_xuoxv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121356_02h1m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121317_brzki.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121322_4ir4a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121331_4b3s9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121337_3qs02.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121344_8dn1b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3113]_20240204121350_nuund.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 22:00",
+                "17일 금요일 07:30 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:30 ~ 22:00",
+                "21일 화요일 07:30 ~ 22:00",
+                "22일 수요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 48,
+            "name": "대전전민",
+            "description": "일상의 휴식과 편안함, 파트너들의 따뜻한 미소가 있는 대전전민점 입니다.",
+            "address": "대전광역시 유성구 유성대로 1722 (전민동)",
+            "parking": "1. 주차 불가능",
+            "directions": "전민동 행정복지센터 맞은편,\n버스(121,918번) 이용 시, 전민동 주민센터 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3163]_20230227111424_dmj9c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3163]_20230227111801_rc7yr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3163]_20240130100437_4c88i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3163]_20230227111534_m1twh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3163]_20230227111556_kh4j6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[3163]_20230227111624_ctk12.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 21:00",
+                "17일 금요일 07:00 ~ 21:00",
+                "18일 토요일 07:00 ~ 21:00",
+                "19일 일요일 07:00 ~ 21:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 49,
+            "name": "대전관평동",
+            "description": "관평동 수변공원 앞 단독 3층 매장 넓고 아늑한 느낌의 고품격 스타벅스 대전관평동점에서 커피 한잔의 여유를 즐기세요!",
+            "address": "대전광역시 유성구 테크노중앙로 68",
+            "parking": "1. 주차가능 2. 매장측면 3. 주차가능대수 10대 4. 주차조건-무료",
+            "directions": "테크노밸리 네거리에서 전민동, 탑립동 방면, 농협 방면 도보 5분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3070]_20230425075638_yzsbq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3070]_20230425075645_l7gqm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3070]_20230425075654_mlc7e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3070]_20230425075700_tqys7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3070]_20230425075706_t2dly.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3070]_20230425075713_9hzju.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 23:00",
+                "17일 금요일 06:30 ~ 23:00",
+                "18일 토요일 07:00 ~ 23:00",
+                "19일 일요일 07:00 ~ 23:00",
+                "20일 월요일 06:30 ~ 23:00",
+                "21일 화요일 06:30 ~ 23:00",
+                "22일 수요일 06:30 ~ 23:00"
+            ]
+        },
+        {
+            "number": 50,
+            "name": "대전조이마루",
+            "description": "골프테마파크 '조이마루' 1층에 위치한 대전조이마루점에서 맛있는 커피와 친절한 서비스를 만나보세요.",
+            "address": "대전광역시 유성구 엑스포로 97번길 40",
+            "parking": "1. 주차가능 2. 주차장위치-입점건물 지하 주차장 3. 주차가능대수- 20대 이상 4. 주차조건- 조건부 무료(스타벅스 구매시 2시간 무료 주차권 지급,회차10분)5. 주차요금정산방법-파트너에게 주차권 발급요청",
+            "directions": "ICC 웨딩홀,DCC컨벤션 맞은편 골프존 조이마루 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3073]_20200608113949_wkrfh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3073]_20200610115014_5pdwt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3073]_20200805034710_avwf1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3073]_20200805034841_05lpz.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3073]_20200805034928_2jhif.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3073]_20200805034956_odg72.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 22:00",
+                "17일 금요일 07:30 ~ 22:00",
+                "18일 토요일 07:30 ~ 22:00",
+                "19일 일요일 07:30 ~ 22:00",
+                "20일 월요일 07:30 ~ 22:00",
+                "21일 화요일 07:30 ~ 22:00",
+                "22일 수요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 51,
+            "name": "대전노은",
+            "description": "일상의 풍요로움과 커피 한잔의 여유를 즐겨보세요 스타벅스 대전노은점입니다.",
+            "address": "대전광역시 유성구 은구비남로33번길 26, 1~2층 (지족동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3. 주차가능대수-3대(매우협소) 4. 주차조건-무료",
+            "directions": "노은역 4번 출구 도보 3분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9886]_20240204074109_t9xn5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[9886]_20240131034632_5c0jn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9886]_20240207024845_fu206.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9886]_20240206045322_6ts9t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[9886]_20210804085207_17mm4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[9886]_20240131034048_0nn1t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[9886]_20240131034232_c4me5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9886]_20240204093842_covys.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[9886]_20240131035120_p7xgl.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:30",
+                "17일 금요일 06:30 ~ 22:30",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:30",
+                "21일 화요일 06:30 ~ 22:30",
+                "22일 수요일 06:30 ~ 22:30"
+            ]
+        },
+        {
+            "number": 52,
+            "name": "충남대정문",
+            "description": "대전 최초의 대학가 매장이자 딜리버스 매장 충남대 정문점이 트렌디한 음료와 언제나 활기찬 서비스로 여러분을 기다립니다.",
+            "address": "대전광역시 유성구 대학로 82 (궁동)",
+            "parking": "1. 주차 지원 불가능 (지하주차장 유료 이용 가능)",
+            "directions": "충남대 정문에서 유성온천 방면 200M 앞 (연래춘 옆)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203091638_9o901.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203093752_5o3mp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203093036_6gkp8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203093110_xrps4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203093118_rppeg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203093658_gsqcg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9963]_20240203093722_et3l9.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 22:00",
+                "17일 금요일 07:30 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:30 ~ 22:00",
+                "21일 화요일 07:30 ~ 22:00",
+                "22일 수요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 53,
+            "name": "대전테크노밸리",
+            "description": "대전 유성구의 첫번째 스타벅스 매장! 향기로운 커피 한잔과 미소로 반겨주는 대전 테크노밸리점입니다!",
+            "address": "대전광역시 유성구 테크노4로 105 (관평동)",
+            "parking": "1.주차가능  2. 건물입점 지하 1층 3.주차가능 대수 10대이상 4.주차조건-무료",
+            "directions": "테크노밸리 네거리에서 동화중학교 방향으로 도보 2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[9722]_20230814022442_gft72.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[9722]_20230814022517_cf1yr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[9722]_20230814022523_ril7g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[9722]_20240130081733_nviwu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[9722]_20230814022506_5nims.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 23:00",
+                "17일 금요일 06:30 ~ 23:00",
+                "18일 토요일 06:30 ~ 23:00",
+                "19일 일요일 07:00 ~ 23:00",
+                "20일 월요일 06:30 ~ 23:00",
+                "21일 화요일 06:30 ~ 23:00",
+                "22일 수요일 06:30 ~ 23:00"
+            ]
+        },
+        {
+            "number": 54,
+            "name": "대전문지",
+            "description": "안녕하세요. 도심 속 아늑하고 따뜻한 공간에서 즐거움과 행복을 드리는 스타벅스 대전문지점 입니다.",
+            "address": "대전광역시 유성구 문지로299번길 56 (문지동)",
+            "parking": "1.주차가능 2.주차장 위치-매장 전면 3.주차가능대수-9대 4.주차조건-무료",
+            "directions": "",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223042955_7xo10.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223043006_jbkfh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223043016_twcmz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223043028_tcypd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223043037_lj9sf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223043051_8fxqf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4288]_20230223043100_l976i.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 55,
+            "name": "대전LG에너지솔루션",
+            "description": "",
+            "address": "대전광역시 유성구 문지로 188 (문지동)",
+            "parking": "사전 등록된 차량만 추가 가능",
+            "directions": "대전LG에너지솔루션점은 대전LG에너지솔루션 기술연구원 연구동 내부에 위치해 있어,임직원 외 출입 및 이용이 어려운 매장입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4676_20250730042553_s6r0v.PNG"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 18:30",
+                "17일 금요일 07:00 ~ 18:30",
+                "18일 토요일 휴점",
+                "19일 일요일 휴점",
+                "20일 월요일 07:00 ~ 18:30",
+                "21일 화요일 07:00 ~ 18:30",
+                "22일 수요일 07:00 ~ 18:30"
+            ]
+        },
+        {
+            "number": 56,
+            "name": "신세계대전R",
+            "description": "프리미엄 리저브 커피와 차별화된 서비스로 여유있는 휴식공간을 제공하는 스타벅스 신세계대전R점 입니다.",
+            "address": "대전광역시 유성구 엑스포로 1 (도룡동), 대전신세계 백화점 5F",
+            "parking": "1.주차가능2.주차장위치-백화점주차장3.주차가능대수-100대이상4.주차조건 백화점 무료주차 기준동일 5.주차요금정산방법-파트너에게 요청",
+            "directions": "대전신세계 Art&Science 5층 베로나 스트리트 식당가  \nGOURMET STREET 반대편 VERONA STREET 11 위치하고 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085705_mbw0n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4162]_20220215092445_olrx5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085735_5hj3u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085753_6e2eq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126090200_aa1vv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126090624_u3nla.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126090033_c8xlo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126085850_0kaoo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126091254_nibac.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4162]_20211126091425_tyw4v.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:30 ~ 20:00",
+                "17일 금요일 10:30 ~ 20:30",
+                "18일 토요일 10:30 ~ 20:30",
+                "19일 일요일 10:30 ~ 20:30",
+                "20일 월요일 10:30 ~ 20:00",
+                "21일 화요일 10:30 ~ 20:00",
+                "22일 수요일 10:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 57,
+            "name": "대전현대아울렛",
+            "description": "쇼핑과 함께 맛있는 음료와 푸드를 즐기며 편안하게 휴식하고 리프레쉬될 수 있는 공간, 스타벅스 대전현대아울렛점 입니다.",
+            "address": "대전광역시 유성구 테크노중앙로 123 (용산동)",
+            "parking": "1. 주차가능 / 2. 아울렛 전용 주차장(지상) / 3.주차가능대수 - 100대 이상 / 4. 주차조건 - 1만원 이상 60분, 2만원 이상 120분, 3만원 이상 180분, 5만원 이상 300분 / 5. 주차요금 정산 방법 - 파트너에게 요청",
+            "directions": "자차 :북대전 IC에서 대덕연구개발 특구 방면 우회전 - 전민동,탑립동 방면 우회전\n\n대중교통 : 버스 705번 대덕밸리용신교 하차.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113818_e5mwm.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113807_70hch.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113836_op4pz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3940]_20200623113905_szpkk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3940]_20211123102514_1kgcc.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:30 ~ 21:00",
+                "17일 금요일 10:30 ~ 21:00",
+                "18일 토요일 10:30 ~ 21:00",
+                "19일 일요일 10:30 ~ 21:00",
+                "20일 월요일 10:30 ~ 21:00",
+                "21일 화요일 10:30 ~ 21:00",
+                "22일 수요일 10:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 58,
+            "name": "유성선병원",
+            "description": "신속한 서비스로 고객분들의 일상을 보다 풍요롭게 채워드릴 스타벅스 유성선병원점입니다.",
+            "address": "대전광역시 유성구 북유성대로 93 (지족동), B1",
+            "parking": "1.주차가능/2.주차장위치- 입점건물 지하 1층 ~ 지하5층 / 3.주차가능대수 100대이상 /4.주차조건 - 회차30분 무료, 이후 15분당 300원 / 정산방법 : 출차시 정산시스템 이용",
+            "directions": "유성선병원 본관 지하1층 푸드코트방면",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_fast_serve.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4625_20250529050749_0l377.PNG",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4625_20250529051220_r25sc.PNG",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4625_20250529051230_3khnl.PNG"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 19:00",
+                "17일 금요일 07:00 ~ 19:00",
+                "18일 토요일 08:00 ~ 17:00",
+                "19일 일요일 08:00 ~ 17:00",
+                "20일 월요일 07:00 ~ 19:00",
+                "21일 화요일 07:00 ~ 19:00",
+                "22일 수요일 07:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 59,
+            "name": "대전유성NC",
+            "description": "즐거운 쇼핑 후, 편안한 휴식처가 될 대전유성NC점 입니다.",
+            "address": "대전광역시 유성구 계룡로 119 (봉명동)",
+            "parking": "1. 주차가능 2.주차장 위치-NC대전유성점 내 지하주차장 3.주차가능대수-100대이상 4.주차조건-조건부 무료(영수증 1만원이상 1시간, 2만원이상 2시간, 5만원이상 3시간 무료) 5.주차요금정산방법-파트너에게 요청 6.주차 특이사항-NC대전유성점 몰 영업시간 외 주차이용은 지하3층 주차장만 이용가능 (08:00-10:30, 21:00-22:00)",
+            "directions": "유성온천역 8번출구에서 직진 도보 3분.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4344]_20240206110740_xowrz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4344]_20220828042441_1f6b1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4344]_20240131043317_7hs02.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4344]_20240206111027_qa3hz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4344]_20220829090131_vho6e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4344]_20220826090338_z1xve.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4344]_20220829090112_aiq7n.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 60,
+            "name": "대전구암DT",
+            "description": "편리한 Drive Thru와, 커피한잔의 여유를 느낄 수 있는 스타벅스 대전구암DT점입니다.",
+            "address": "대전광역시 유성구 월드컵대로289번길 6 (구암동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 7대  3. 주차가능대수-7대 4. 주차조건-조건부 무료(스타벅스 1만원이상 구매시 1시간 무료 ) 5.주차요금정산방법-주차정산시스템이용",
+            "directions": "유성고등학교 후문에서 월드컵대로 방향 246m 직진 \n*주차장이용안내 : DT 진입로 인입시 주차장 이용 불가\n ( 대전구암DT점에서 골목 우회전 후 80M 이동 주차장 이용가능 )",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130060937_2gvd1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130060954_147w2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130061006_gxku3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130061013_loxpw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130061025_2p0h6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130061036_ha7m7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130061045_lljgk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3923]_20240130061059_hqnhb.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 61,
+            "name": "대전상대동",
+            "description": "부드러운 에스프레소 향 가득, 일상 속 쉼표가 되어줄",
+            "address": "대전광역시 유성구 상대복용로29번길 13 (상대동)",
+            "parking": "1. 주차가능 2. 주차장위치_입점건물지하 3. 주차가능대수_장애인 1대 포함 22대 4. 주차조건_조건부무료(1만원 이상 구매 시 2시간 무료) 5. 주차요금정산방법_파트너에게요청",
+            "directions": "상대동 대전도안아이파크 1단지 정문 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250623115347_ti9xt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250625041927_gwwek.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250625041938_xv58v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250625041946_4xtaw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250624035942_3toy9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250627070906_iv7cq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4656_20250627070913_moble.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 62,
+            "name": "신세계대전B1",
+            "description": "활기찬 에너지의 파트너들이 여러분을 기다립니다. 스타벅스 신세계대전B1점 입니다.",
+            "address": "대전광역시 유성구 엑스포로 1 (도룡동), 대전신세계 백화점 B1층",
+            "parking": "1.주차가능2.주차장위치-백화점주차장3.주차가능대수-100대이상4.주차조건-스타벅스 결제금액 5천원 이상시 1시간 제공 5.주차요금정산방법-파트너에게 요청",
+            "directions": "대전신세계 Art&Science 지하 1층, 백화점 중앙 에스컬레이터로 지하 1층 내려오면 바로 이용 가능합니다. \nB1대전아쿠아리움 반대 방향, 엑스포 타워 방향입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4161]_20240205110426_ulish.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4161]_20240205110431_26vu6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4161]_20240205110436_axq45.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:30 ~ 20:00",
+                "17일 금요일 10:30 ~ 20:30",
+                "18일 토요일 10:30 ~ 20:30",
+                "19일 일요일 10:30 ~ 20:30",
+                "20일 월요일 10:30 ~ 20:00",
+                "21일 화요일 10:30 ~ 20:00",
+                "22일 수요일 10:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 63,
+            "name": "대전엑스포스카이",
+            "description": "대전시내와 갑천의 경치를 바라보며 커피를 함께 즐길 수 있는 스타벅스 대전엑스포스카이점 입니다.",
+            "address": "대전광역시 유성구 엑스포로 1 (도룡동) 신세계엑스포점 38층",
+            "parking": "1.주차가능 2.주차장위치-백화점주차장 3.주차가능대수-100대이상 4.주차조건 - 스타벅스 결제금액 5천원 이상시 1시간 제공 5.주차요금정산방법-파트너에게 요청",
+            "directions": "엑스포 타워 건물 1층에 스타벅스 전용 엘리베이터를 이용해주시고, 무료로 입장 가능합니다.\n매장 위치 38층 입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4163]_20240610113942_u9659.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4163]_20240129095711_vu65w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4163]_20240129095203_sx3i2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4163]_20231011105614_5zzhf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4163]_20240102112407_rupds.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4163]_20240102112414_8nq28.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4163]_20240105011917_l0rtw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4163]_20240105011906_083ab.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 64,
+            "name": "대전죽동",
+            "description": "죽동 주민분들과 충남대 재학생 여러분의 안식처가 되어 줄 대전죽동점입니다.",
+            "address": "대전광역시 유성구 죽동로297번길 52 (죽동)",
+            "parking": "주차불가",
+            "directions": "죽동 충대서문네거리 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4690_20250926080504_y5s72.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4690_20250926080728_2uwxo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4690_20250926080736_s19l6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4690_20250926080741_9x9fo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4690_20250926080749_a2glp.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 65,
+            "name": "대전송강",
+            "description": "넓고 쾌적함 그리고 향기로운 커피 한잔과 미소로 반겨주는 대전송강점에서 커피 한잔의 여유를 즐기세요!",
+            "address": "대전광역시 유성구 봉산로 1 (송강동)",
+            "parking": "1. 주차가능 2. 건물입점 지상/지하 1층 3. 주차가능대수 약 20대 4. 주차조건 -스타벅스 5천원이상 결제시 2시간 무료)",
+            "directions": "송강동 네거리 위치, 화인빌딩 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4513]_20240315111838_trkp3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4513]_20240923104757_ffkch.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4513]_20240315111817_fqg0f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4513]_20240315111823_zyr81.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4513]_20240315111833_4gibu.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 66,
+            "name": "대전대사DT",
+            "description": "편안한 매장과 Drive Thru ! 두 가지 매력의 대전대사DT점입니다.",
+            "address": "대전광역시 중구 계룡로 949 (대사동)",
+            "parking": "1. 주차가능 2. 매장후면 3. 주차가능대수 장애인1대 포함 10대이상 4. 주차조건-조건부 무료(스타벅스 1만원이상이용고객 대상 1시간 무료) 5.주차요금정산방법-사전정산기 사용",
+            "directions": "지하철 1호선 서대전네거리역 8번출구 직진방향 도보 10분\n충남대병원 맞은편\n충남대병원 네거리 서대전네거리역 방면 우측에 위치.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113430_0qo4l.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113452_qa9l8.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113510_a7xie.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113700_i2gld.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113707_kfiul.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113711_wru9o.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/03/[3328]_20170315113732_av6u3.JPG"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 67,
+            "name": "대전태평",
+            "description": "밝은 파트너들의 미소와 함께 최상의 서비스를 제공하는 스타벅스 대전태평점입니다.",
+            "address": "대전광역시 중구 태평로 71 (태평동)",
+            "parking": "1.주차가능  2. 삼부프라자 상가 전용 주차 3.주차가능 대수 20대이상 4.주차조건-1시간 무료",
+            "directions": "서대전역 603,612 삼부아파트 하차,대전역 603번 삼부아파트 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084910_xzgfa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084923_mopo7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084929_yoyti.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084935_ksgkk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084939_a12oj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084942_jhn2f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3320]_20240304084945_iyu3l.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 22:00",
+                "17일 금요일 07:30 ~ 22:00",
+                "18일 토요일 07:30 ~ 22:00",
+                "19일 일요일 07:30 ~ 22:00",
+                "20일 월요일 07:30 ~ 22:00",
+                "21일 화요일 07:30 ~ 22:00",
+                "22일 수요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 68,
+            "name": "대전유천DT",
+            "description": "카페에서의 아늑한 분위기와, 빠르고 편리한 Drive Thru 를 경험 할 수 있는 대전유천DT점 입니다.",
+            "address": "대전광역시 중구 계백로 1604 (유천동)",
+            "parking": "1. 주차가능 2. 매장측면 3. 주차가능대수 7대 4. 주차조건-스타벅스 1만원이상 구매시 1시간 무료",
+            "directions": "유천네거리 국민은행 옆\n유천네거리와 서대전 육교 사이\n버스정류장 서대전육교, 유천동현대아파트,유천시장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824084739_x7e04.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824111156_4mt3i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824111148_g8hct.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824084836_ryeck.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824111204_v2a6p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824084853_7w8dg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824084858_esij3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3213]_20240824084904_99t25.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 69,
+            "name": "대전중앙로R",
+            "description": "쇼핑의 중심 은행동에서의 즐거운 쇼핑과 아늑한 대전중앙로R점에서 편안한 휴식과 커피 한 잔의 여유를 즐겨 보세요.",
+            "address": "대전광역시 중구 대종로 486 (은행동)",
+            "parking": "주차 불가능",
+            "directions": "중앙로역 2번 출구로 나와 성심당 본점 방향 직진(대흥동 성당 대각선 맞은편)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250221111530_vy8v3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250221111910_57jw7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250221115759_amel9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250225102250_yqtp4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250225102257_raohb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250225102302_g05wr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9935]_20250225102307_hee2o.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 06:30 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 70,
+            "name": "은행동",
+            "description": "대전의 중심, 활력 넘치는 젊음과 문화를 만날 수 있는 대전의 첫번째 매장, 은행동점입니다.",
+            "address": "대전광역시 중구 중앙로 164 (은행동)",
+            "parking": "주차불가능",
+            "directions": "지하철 중앙로역 1번 출구에서 대전역 방면 지하보도로 약 100m , 으능정이 거리입구 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[9310]_20241224101219_0r00v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9310]_20230215042835_a6umb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9310]_20230215042731_b06rn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9310]_20230215042919_qfsqw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[9310]_20210625113029_j3l79.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[9310]_20210617035115_uk22b.JPG"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 71,
+            "name": "대전목동DT",
+            "description": "도심 속 편리한 휴식 공간 대전목동DT점입니다.",
+            "address": "대전광역시 중구 동서대로 1387 (목동)",
+            "parking": "1.주차가능 2.주차장위치-건물 앞 스타벅스 전용 주차장 3.주차가능대수-7대  4.주차조건-30분무료회차. 1만원 당 1시간 무료",
+            "directions": "목동신협 본점에서 도보로 60m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[4189]_20220629051537_bat3t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4189]_20220701064622_8x9s8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4189]_20220701064646_spef9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[4189]_20220630054958_sig2c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4189]_20220701064605_t93gn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4189]_20220701064610_oq9hr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4189]_20220701065124_jaz7q.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 23:00",
+                "17일 금요일 06:30 ~ 23:00",
+                "18일 토요일 07:00 ~ 23:00",
+                "19일 일요일 07:00 ~ 23:00",
+                "20일 월요일 06:30 ~ 23:00",
+                "21일 화요일 06:30 ~ 23:00",
+                "22일 수요일 06:30 ~ 23:00"
+            ]
+        },
+        {
+            "number": 72,
+            "name": "서대전네거리",
+            "description": "도심 속 편안한 휴식 공간을 느낄 수 있고 딜리버스로 편리하게 경험할 수 있는  서대전네거리점입니다.",
+            "address": "대전광역시 중구 계룡로 878 (오류동), 1층",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 3. 주차가능대수-15대 4. 주차조건-1만원 이상 구매시 사용 가능",
+            "directions": "지하철1호선 서대전네거리역 4번출구에서 도보로 50m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231024015536_yf7fl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231030022458_2tqew.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231030022446_1fxac.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231024015230_9jkfp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4490]_20231022031414_73idl.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 21:30",
+                "17일 금요일 08:00 ~ 21:30",
+                "18일 토요일 08:30 ~ 22:00",
+                "19일 일요일 08:30 ~ 21:00",
+                "20일 월요일 08:00 ~ 21:30",
+                "21일 화요일 08:00 ~ 21:30",
+                "22일 수요일 08:00 ~ 21:30"
+            ]
+        }
+    ]
+}

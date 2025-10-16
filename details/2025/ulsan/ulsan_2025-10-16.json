@@ -1,0 +1,1318 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-16",
+    "location": "울산(ulsan)",
+    "count": 35,
+    "item": [
+        {
+            "number": 1,
+            "name": "울산번영로",
+            "description": "밝고 쾌적한 통유리구조가 돋보이는 울산번영로점 입니다.",
+            "address": "울산광역시 남구 삼산로 182 (달동)",
+            "parking": "1.주차가능 2.주차장위치: 건물지하주차장 3. 주차가능대수:약 30대 이상(건물전체사용으로 주차혼잡) 4.주차조건: 오전10시 이후 매장 내 구매 고객 대상 2시간 무료 주차(오전 10시 이전 주차 시 주차비 발생) 5.주차요금정산방법: 파트너에게 차량번호 전달 및 등록 후 출차 가능, 초과금액은 무인카드결제진행",
+            "directions": "번영사거리 내 삼성생명 건물 1층 매장 내",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3784]_20191115025021_tdyqg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3784]_20191115025103_76pgd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/11/[3784]_20191113051450_xvo01.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/10/[3784]_20191020091540_uu92l.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:30 ~ 20:00",
+                "17일 금요일 07:30 ~ 20:00",
+                "18일 토요일 10:00 ~ 18:00",
+                "19일 일요일 10:00 ~ 18:00",
+                "20일 월요일 07:30 ~ 20:00",
+                "21일 화요일 07:30 ~ 20:00",
+                "22일 수요일 07:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 2,
+            "name": "울산대공원",
+            "description": "계절의 아름다움을 느낄 수 있는 울산대공원점 입니다.",
+            "address": "울산광역시 남구 대공원입구로 4 (옥동)",
+            "parking": "1.주차가능 2.주차장위치:매장전면 3.주차가능대수: 2대 4.주차조건:매장이용 시 무료 5.주차요금정산방법: 정산없이 출차",
+            "directions": "울산대공원 정문 로터리 좌측 방향 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[3664]_20190510085525_h37kr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3664]_20200216082548_9fy78.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3664]_20200216082550_hncaf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3664]_20200216082553_ejj90.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3664]_20200216082557_goz07.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3664]_20200216082559_rh82h.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 3,
+            "name": "울산도산사거리DT",
+            "description": "여천천 앞 힐링 핫 스팟! 울산도산사거리DT점입니다.",
+            "address": "울산광역시 남구 대암로129번길 9-6 (야음동)",
+            "parking": "1.주차가능  2.주차장위치:건물지하주차장  3.주차가능대수: 50대  4.주차조건:매장이용 시 3시간 무료주차가능  5.주차요금정산방법:파트너에게 차량번호 전달 및 등록 후 출차 가능, 초과금액은 무인카드결제진행",
+            "directions": "도산사거리에서 야음동 방향.\n롯데인벤스 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3558]_20180916025826_6vqbd.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200217094646_f2rsk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200217094612_vkk7v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200217094656_em525.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200217094708_vxvv0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200218085944_ugcaz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200217094703_trq79.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200218090002_4ytxa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3558]_20200218090007_lakl5.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 4,
+            "name": "울산시청사거리DT",
+            "description": "Drive Thru 매장의 특별한 서비스를 경험할수 있는 시청사거리DT 입니다.",
+            "address": "울산광역시 남구 중앙로 180 (달동)",
+            "parking": "1.주차가능 2.주차장위치:매장측면 3.주차가능대수:5대 4.주차조건:매장이용 시 무료 5.주차요금정산방법:정산없이 출차",
+            "directions": "1. 달동사거리에서 울산시청방향으로 300m 교보생명 옆\n\n2. 버스이용시  205,216 ,좌석 1127 외다수 이용.달동사거리정류장하차 도보3분거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200217091602_q71fb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200215014920_pkc45.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200215014911_dd8co.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200215014924_0uukn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200215014909_crv3r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200215014927_6zgqa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3310]_20200217092133_gykvd.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 21:30",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 5,
+            "name": "울산남구청DT",
+            "description": "Drive Thru 매장의 특별한 서비스를 경험할수 있는 울산남구청DT 입니다.",
+            "address": "울산광역시 남구 번영로 215 (신정동)",
+            "parking": "1. 주차가능 2. 주차장위치: 매장전면 3. 주차가능대수: 4대 4. 주차조건: 매장이용 시 무료 5. 주차요금정산방법: 정산없이 출차",
+            "directions": "울산 KBS/문화예술회관 맞은편, 삼산지구대 바로 옆 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2015/12/[3207]_20151218110509635.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/04/[3207]_20170403030243_dw7ra.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/04/[3207]_20170403030232_x62ox.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/04/[3207]_20170403030237_5k7d7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/04/[3207]_20170403030240_hcxjq.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 6,
+            "name": "울산중리사거리DT",
+            "description": "디지털감동서비스 Drive Thru와 도심 속 여유로운 공간 울산중리사거리DT입니다.",
+            "address": "울산광역시 남구 돋질로 310 (삼산동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장후면 3. 주차가능대수-(장애인주차구역1대포함)16대 4.주차조건- 조건부 무료(1만원 이상 결제시 1만원당 1시간 지원(일 최대 2시간)/1시간 초과 시 10분당 500원 과금)",
+            "directions": "중리사거리에서 현대백화점 방향",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3208]_20200225085751_q03lb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3208]_20200225090102_h3ngf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3208]_20200225090057_chti2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/02/[3208]_20160213055325_2l6g4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/02/[3208]_20160213055215_x6619.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/02/[3208]_20160213055258_e3lsy.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 7,
+            "name": "울산삼산로",
+            "description": "아늑하고 품격있는 인테리어, 편안함과 은은한 커피향을 느낄수 있는 울산삼산로점 입니다.",
+            "address": "울산광역시 남구 삼산로 278 번길 8 (삼산동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장 노면 주차, 매장옆 주차타워 3. 주차가능대수-매장 노면 3대, 주차타워 36대 4.주차조건- 조건부 무료(금액무관, 주차증에 매장도장 받을시 1시간 무료) 5.주차정산방법-파트너에게 요청",
+            "directions": "롯데호텔 옆 대로변 \n울산롯데시네마 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112031_zdpp2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112416_abz7l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112504_n8dy6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112608_vleuy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712112827_80rnu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712113108_ieijh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712113147_j8x7x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[3078]_20230712113316_izgmp.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 8,
+            "name": "울산대",
+            "description": "젊음과 열정의 울산대점, 여유롭고 편안한 공간에서 향기로운 커피의 향을 느껴보세요.",
+            "address": "울산광역시 남구 대학로84번길 5-3 (무거동)",
+            "parking": "1. 주차불가",
+            "directions": "울산대 정문 건너편 안쪽골목(바보사거리)에서 오른쪽으로 100m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112854_bbujs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112906_9aanx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112913_xlkhm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112919_v3u13.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112925_kpggj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112933_jxbjt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112948_qpcmr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217112955_rstv9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3029]_20220217113001_aru3p.jpg"
+            ],
+            "hours": [
+                "16일 목요일 09:00 ~ 22:00",
+                "17일 금요일 09:00 ~ 22:00",
+                "18일 토요일 09:00 ~ 22:00",
+                "19일 일요일 09:00 ~ 21:00",
+                "20일 월요일 09:00 ~ 22:00",
+                "21일 화요일 09:00 ~ 22:00",
+                "22일 수요일 09:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 9,
+            "name": "울산디자인거리",
+            "description": "울산 패션문화의 중심 울산디자인거리점입니다.",
+            "address": "울산광역시 남구 삼산중로74번길 30-1, 1~2층 (삼산동)",
+            "parking": "1. 주차불가",
+            "directions": "울산 삼산동 업스퀘어 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010221_3zk4l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010336_jaerb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010237_e1mm2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010229_pjfpw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010242_g5uto.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010256_lljjy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9902]_20211209010249_r43hp.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 09:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 10,
+            "name": "울산신복",
+            "description": "젊음과 활력의 매장 울산신복점입니다.",
+            "address": "울산광역시 남구 대학로 152 (무거동)",
+            "parking": "1. 주차불가",
+            "directions": "신복 로타리에서 울산대 후문 방면 50m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211206080136_oiq03.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211206080349_dlt1e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211206080345_skdpt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211205101302_cxquq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211205101256_9ak4q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211205101250_ny6hn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[9942]_20211205101308_gmdpl.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 21:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 11,
+            "name": "현대울산B1",
+            "description": "현대울산B1점은 고객님께 즐거운 쇼핑과 함께, 여유로운 커피 한 잔의 품격 있는 순간을 선사합니다.",
+            "address": "울산광역시 남구 삼산로 261 (삼산동) B1층",
+            "parking": "1.주차가능 2.백화점 지하 주차장 이용 3.주차가능 대수 : 300대이상 4. 주차가능조건 : 결제금액 3만원 이상 1시간 무료/5만원 이상 2시간 무료 5. 주차요금정산방법 : 파트너에게 주차 등록 요청",
+            "directions": "현대백화점 울산점 지하1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_fast_serve.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4703_20250913022550_4c5sw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4703_20250913022602_jzjjl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4703_20250913022614_bhxwu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4703_20250913022627_oxzzp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4703_20250913023329_3j8k6.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:30 ~ 20:00",
+                "17일 금요일 10:30 ~ 20:30",
+                "18일 토요일 10:30 ~ 20:30",
+                "19일 일요일 10:30 ~ 20:30",
+                "20일 월요일 10:30 ~ 20:00",
+                "21일 화요일 10:30 ~ 20:00",
+                "22일 수요일 10:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "울산태화강역DT",
+            "description": "울산 여행의 시작, 향긋한 커피와 함께 스타벅스 울산태화강역DT에서 편안하고 즐겁게 시작하세요.",
+            "address": "울산광역시 남구 삼산로 379 (삼산동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3.주차가능대수- 5대 4.주차조건- 무료",
+            "directions": "삼산사거리에서 태화강역 방향 위치, 태화강역에서 삼산 방향으로 도보 10분 위치.\n전자랜드 맞은 편. 이마트에서 도보 7분.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4272]_20230524042117_zhxff.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4272]_20230526070503_sycoi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4272]_20230526070509_h5air.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4272]_20230526070924_13a2n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4272]_20230526070931_kw3db.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4272]_20230526070938_oycah.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:30 ~ 22:00",
+                "19일 일요일 07:30 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "울산번영로DT",
+            "description": "안녕하세요. 도심 속 편안한 휴식처 스타벅스 울산번영로DT점 입니다.",
+            "address": "울산광역시 남구 달삼로 3 (달동)",
+            "parking": "1.주차가능 2.주차장위치-매장후면 3.주차가능대수-11대(장애인주차구역1대포함) 4.주차조건-조건부 무료(1만원 이상 결제시 1만원당 1시간 지원(일 최대 2시간)/1시간 초과 시 10분당 500원 과금)",
+            "directions": "울산 남구 달동주공사거리 번영로 대로변 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4146]_20221012044847_1uhn6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4146]_20221012045451_1xwdp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4146]_20221012045904_bkvox.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4146]_20221012045922_l4ndw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4146]_20221012045932_wi2ws.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4146]_20221012045943_ioixm.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 14,
+            "name": "울산삼성",
+            "description": "다채로운 디지털 경험과 함께 생동감을 전해 드리는 공간, 스타벅스 울산삼성점입니다.",
+            "address": "울산광역시 남구 삼산로 86 (달동)",
+            "parking": "1.주차가능 2.주차장위치-삼성프라자 주차장 3.주차가능대수-66대 4.주차조건-조건부 무료(일 최대 2시간)/2시간 초과 시 10분당 1000원 과금)",
+            "directions": "삼성스토어 울산점 (울산 남구 롯데마트 버스정류장 앞_굿모닝병원 방면)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825081041_ctzsj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825081048_iclee.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825084411_kcu91.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825081120_oh8yc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825081130_2v42b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825081139_tbyoc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4350]_20220825081145_zrmu6.jpg"
+            ],
+            "hours": [
+                "16일 목요일 09:00 ~ 20:30",
+                "17일 금요일 09:00 ~ 20:30",
+                "18일 토요일 09:00 ~ 20:30",
+                "19일 일요일 09:00 ~ 20:30",
+                "20일 월요일 09:00 ~ 20:30",
+                "21일 화요일 09:00 ~ 20:30",
+                "22일 수요일 09:00 ~ 20:30"
+            ]
+        },
+        {
+            "number": 15,
+            "name": "울산선암DT",
+            "description": "바쁜 시간 속 커피 한잔의 여유와 Drive Thru의 차별화된 디지털 감동 서비스를 느낄 수 있는 울산선암DT점입니다.",
+            "address": "울산광역시 남구 두왕로 140 (선암동)",
+            "parking": "1.주차가능  2.주차장위치: 매장후면  3.주차가능대수: 50대 이상  4.주차조건: 조건부 무료 (1만원 이상 구매 시 3시간 무료), 초과 시 10분당 500원, 일 최대 주차 4시간 가능",
+            "directions": "(공업탑 방면) 115, 225, 513, 518, 725 등 탑승 후 '서광아파트 입구' 역 하차 후 도보 4분 거리 (길 건너편 매장 위치)  \n(덕하 방면) 115, 225, 513, 518, 725 등 탑승 후 '서광아파트 입구'역 하차 후 도보 4분 거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/04/4363_20250423054945_akt83.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/4363_20250423055052_u78so.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/4363_20250423055307_6hvey.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/4363_20250423055514_2hwov.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/4363_20250423055707_pj5sm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/4363_20250422012816_hgrp2.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 16,
+            "name": "울산신정DT",
+            "description": "Drive Thru 매장의 특별한 서비스를 경험할수 있는 울산신정DT 입니다.",
+            "address": "울산광역시 남구 문수로 435 (신정동)",
+            "parking": "1. 주차가능 2. 주차장위치: 매장전면 3. 주차가능대수: 6대 4. 주차조건: 매장이용 시 무료 5. 주차요금정산방법: 정산없이 출차",
+            "directions": "신정고등학교 앞 하차 도보 200m, 학성고등학교 맞은 편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802043744_ocm1s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802043750_necj5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802043755_xwbi7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802044132_dr2l4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802044138_yfmug.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802044148_c84pg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[3771]_20210802044154_at29g.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 17,
+            "name": "울산호계DT",
+            "description": "경주 방향 7번국도에  위치한  편리한 Drive Thru 매장  울산호계DT점 입니다.",
+            "address": "울산광역시 북구 산업로 1464 (신천동)",
+            "parking": "1.주차가능  2.주차장위치-매장후면 3.주차가능대수-32대(장애인2대포함) 4.주차조건-무료",
+            "directions": "자차이용: 경주 방향  산업로 1464번지 7번 국도 우측 방향 SK LPG충전소 옆\n버스이용: 442번,5005번 버스 탑승시 농소2동 주민센터 하차 후 도보 462M\n                482번,112번  버스 탑승시 천곡사거리 하차 후 도보 380M",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121849_kgla6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121856_afbou.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121902_e2i7o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121935_6ptzz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121740_4xwrm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121457_1u6ne.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121720_zedlu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3785]_20220304121726_31gyi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3785]_20200415031653_qbxe4.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 18,
+            "name": "울산북구청DT",
+            "description": "울산 북구의 핫플레이스, 울산북구청DT점 입니다.",
+            "address": "울산광역시 북구 산업로 1011 (연암동)",
+            "parking": "1. 주차가능 2. 주차장위치 : 매장 후면 상가 주차장 3. 주차가능대수 : 28대 4. 주차조건 : 매장 이용 시 2시간 무료 주차 가능 / 3만원 이상 구매 시 최대 3시간 무료 주차 가능 5. 주차 요금 정산방법 : 파트너에게 차량번호 전달 및 등록 후 출차 가능, 초과 금액은 무인정산기 카드 결제 진행 (초과 30분당 1,000원) 6. 기타 : 매장 전면 상가 지정주차장으로 일반 고객 주차 불가, 상가 주차 합산 불가",
+            "directions": "자차이용 : 산업로를 따라 효문고가교 진입, 북부순환도로를 따라 '경주,울산공항'방면으로 이동\n대중교통 : 태화강역 기준 시내버스 453, 482, 712, 701, 472 탑승 후 '북구청남문 정류장' 하차, 횡단보도 맞은편 이동",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3502]_20171214081517_vvuwe.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3502]_20200220071725_txjj1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3502]_20200220071816_cxdk9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3502]_20200220071827_820kj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3502]_20200220072315_mue85.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3502]_20200220071847_p8zn9.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 19,
+            "name": "울산진장",
+            "description": "쇼핑과 함께 향긋한 커피를 즐길 수 있는 울산진장점입니다.",
+            "address": "울산광역시 북구 진장17길 10 (진장동)",
+            "parking": "1. 주차가능 2. 주차장위치-신선도원몰 주차장  3. 주차가능대수- 100대 이상  4.주차조건- 매장이용 고객에 한하여  일 최대 3시간 무료 5.주차정산방법-파트너에게 요청",
+            "directions": "효문사거리 지나 삼성디지털프라자 맞은 편 위치\n대중교통(버스)104, 114, 123, 107, 132 이용 메가마트(신선도원몰) 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3367]_20200222073644_ehqkt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3367]_20200222073656_74k4f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3367]_20200222073702_jb3fs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3367]_20200222073707_rz0py.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3367]_20200222073717_mz1wa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3367]_20200222073721_k8z1w.jpg"
+            ],
+            "hours": [
+                "16일 목요일 10:00 ~ 21:00",
+                "17일 금요일 10:00 ~ 21:00",
+                "18일 토요일 10:00 ~ 21:00",
+                "19일 일요일 10:00 ~ 21:00",
+                "20일 월요일 10:00 ~ 21:00",
+                "21일 화요일 10:00 ~ 21:00",
+                "22일 수요일 10:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 20,
+            "name": "울산정자비치DT",
+            "description": "울산정자비치DT점에서 아름다운 바다를 보며 커피 한 잔의 여유를 즐기세요",
+            "address": "울산광역시 북구 동해안로 1601 (산하동)",
+            "parking": "1.주차가능  2.주차장위치-매장후면  3.주차가능대수-16대(장애인1대포함) 4.주차조건-조건부 무료.1만원 이상 결제시 1만원당 1시간 지원(일 최대4시간)/1시간 초과시 10분당 300원 과금 5.결제 후 발급된 주차권으로 사전 정산필요(카드 결제만  가능)",
+            "directions": "남목삼거리정류장에서 411번 환승 후 산하동 하차\n\n강동정자해변 공영주차장 맞은편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3305]_20200220101526_2w0au.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3305]_20200220101259_tvg6t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3305]_20200220101243_1vdlz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3305]_20200220101231_f1inj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3305]_20200220101304_xtc4e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3305]_20200220101458_iw9kn.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 21,
+            "name": "북울산삼성",
+            "description": "쇼핑과 문화공간 속 아늑한 휴식공간을 제공하는 북울산삼성프라자점 입니다.",
+            "address": "울산광역시 북구 진장유통로 65 (진장동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 삼성디지털프라자 주차장 3. 주차가능대수-91대 4. 조건-매장이용고객에 한하여  일 최대 2시간 무료/2시간 초과시 1시간당 1,000원 과금",
+            "directions": "울산광역시 북구 진장동 1048-3, 디지털프라자 북울산본점 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4330]_20220803115120_qy7sl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4330]_20220803115742_wfxm4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4330]_20220803115548_ymuo2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4330]_20220727100555_oaiv4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4330]_20220727100602_waher.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4330]_20220727100608_f7f1h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4330]_20220727100615_p8l82.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4330]_20220803115841_457cd.jpg"
+            ],
+            "hours": [
+                "16일 목요일 09:00 ~ 21:00",
+                "17일 금요일 09:00 ~ 21:00",
+                "18일 토요일 09:00 ~ 21:00",
+                "19일 일요일 09:00 ~ 21:00",
+                "20일 월요일 09:00 ~ 21:00",
+                "21일 화요일 09:00 ~ 21:00",
+                "22일 수요일 09:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 22,
+            "name": "울산송정",
+            "description": "",
+            "address": "울산광역시 북구 화산로 119 (송정동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 지하주차장 3. 주차가능대수-100대 4. 조건-매장이용고객에 한하여  일 최대 2시간 무료",
+            "directions": "울산송정지구 반도유보라 아이비파크 맞은편 골드테라스Ⅱ 상가 1층 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113802_7rmug.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113821_70vx4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113814_uz1iw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113829_6df1s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113837_i9mwy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113846_la6na.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113902_b6j0l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4493]_20231115113910_r1xn7.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 21:00",
+                "17일 금요일 08:00 ~ 21:00",
+                "18일 토요일 08:00 ~ 21:00",
+                "19일 일요일 08:00 ~ 21:00",
+                "20일 월요일 08:00 ~ 21:00",
+                "21일 화요일 08:00 ~ 21:00",
+                "22일 수요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 23,
+            "name": "울산 KTX",
+            "description": "설렘과 여유를 느낄 수 울산 KTX점에서 향기로운 커피의 향을 느껴보세요.",
+            "address": "울산광역시 울주군 삼남읍 도호1길 16",
+            "parking": "1.주차가능 2.주차장위치-매장 후면 3.주차가능대수-18대 4.주차조건-조건부 무료(금액 상관없이 구매 시  1시간 30분 무료), 초과 시 30분 당 1000원",
+            "directions": "버스 이용 시 금아드림팰리스에서 하차 후 도보 200m, KTX 울산역 하차 시 금아드림팰리스 방향 도보 830m 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230119035600_c3ow5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230118043843_tehys.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230119035641_773u8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230118043857_bluog.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230118043501_ex2w4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230118043515_p6spm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4221]_20230117102731_ygywa.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 24,
+            "name": "울산간절곶DT",
+            "description": "울산간절곶DT점에서 아름다운 간절곶의 전경을 오롯이 즐겨보세요.",
+            "address": "울산광역시 울주군 서생면 해맞이로 1216",
+            "parking": "1.주차가능 2.주차장위치: 매장 전면 3.주차가능대수: 20대 4.주차조건: 매장 이용 시 무료 5.주차요금 정산방법: 정산 없이 출차 6. 인근 주차장 : 간절곶 공영주차장(서생면 대송리 189-1)",
+            "directions": "간절곶 정류장에서 하차 후 도보 300m 내 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231119095711_pq5f4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4364]_20240102021828_lcvlq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4364]_20240102021853_5ky4r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4364]_20240102021935_v3oo4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083555_mu0a5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083619_t3o7d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083645_3ok53.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083712_buv00.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083739_jj52u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083812_7irfu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120083907_vabes.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4364]_20231120084108_bshg7.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 21:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 07:30 ~ 22:00",
+                "19일 일요일 07:30 ~ 22:00",
+                "20일 월요일 08:00 ~ 21:00",
+                "21일 화요일 08:00 ~ 21:00",
+                "22일 수요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 25,
+            "name": "울산MBC DT",
+            "description": "번영로의 중심, 울산MBC DT점에서 기분 좋은 활력을 느껴 보세요.",
+            "address": "울산광역시 중구 번영로 434 (복산동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장후면 3.주차가능대수-16대 4.주차조건-구매고객 1시간 무료 (1만원 이상 결제시 2시간 무료, 일 최대 2시간) / 시간 초과 시 10분당 500원",
+            "directions": "울산MBC 버스 정류장 하차 (236, 266, 702번 버스 또는 10번 마을버스 이용)\n홈플러스 울산점에서 복산성당 방면으로 도보 10분 거리에 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3570]_20180610081724_3c08c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3570]_20200225092844_3sina.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3570]_20200225092848_py72r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3570]_20180612082459_21wwx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3570]_20180609084205_7zd6l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3570]_20180610081910_fcqob.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 22:00",
+                "21일 화요일 07:00 ~ 22:00",
+                "22일 수요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 26,
+            "name": "울산성안",
+            "description": "아름다운 야경과 멋스러운 인테리어를 자랑하는 스타벅스 울산성안점 입니다.",
+            "address": "울산광역시 중구 성안12길 45 (성안동)",
+            "parking": "1. 주차가능 2. 주차장위치-건물 1층 주차장  3. 주차가능대수-7대  4.주차조건- 무료",
+            "directions": "버스 이용 시 108번, 827번 탑승 성안파출소 하차하여 도보 10분 \n자차 이용 시 북부순환도로를 따라 3km이동, 성안 12길을 따라 40m 이동",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/09/[3259]_20170927111747_bq9tn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/09/[3259]_20170928082149_oa383.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3259]_20200225120653_xb854.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/03/[3259]_20200306013244_5cjbp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/09/[3259]_20170928082202_b879j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/09/[3259]_20170928082705_90cam.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 27,
+            "name": "울산성남삼거리",
+            "description": "지하철컨셉의 독특한 인테리어를 자랑하는 울산성남삼거리점 입니다",
+            "address": "울산광역시 중구 젊음의2거리 33 (성남동)",
+            "parking": "1. 주차가능 2. 주차장위치-입점 건물 지상, 지하 주차장  3. 주차가능대수-50대 이상  4.주차조건- 조건부 무료(영수증 1만원이상 1시간 무료/ MSR충전 및 쿠폰 사용시 무료 주차 불가) 5.주차정산방법-파트너에게 요청",
+            "directions": "성남동 강변주차장 맞은편 롯데시네마 건물 2층\n대중교통(버스) 103, 107, 114, 123, 235, 407, 411, 507, 713, 714, 715, 802, 817 이용 성남동 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3356]_20200224103227_afzql.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3356]_20200224103243_32tid.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3356]_20200224103245_wp7ii.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3356]_20200212024329_b1gt3.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3356]_20200212024352_nw97d.JPG"
+            ],
+            "hours": [
+                "16일 목요일 09:00 ~ 21:00",
+                "17일 금요일 09:00 ~ 21:00",
+                "18일 토요일 09:00 ~ 21:00",
+                "19일 일요일 09:00 ~ 21:00",
+                "20일 월요일 09:00 ~ 21:00",
+                "21일 화요일 09:00 ~ 21:00",
+                "22일 수요일 09:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 28,
+            "name": "울산병영",
+            "description": "역사와 전통이 살아숨쉬는 울산 중구의  중심 스타벅스 울산 병영점입니다.",
+            "address": "울산광역시 중구 번영로 580 (남외동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 지하주차장 3. 주차가능대수-81대 4. 조건-매장이용고객에 한하여  일 최대 1시간 무료(도장필수)/시간 초과시 1,000원 고객부담",
+            "directions": "울산중구 홈플러스에서 울산중구경찰서 방향 병영사거리 버스정류소 앞 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095631_d6lh1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095718_1oa80.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095751_9869f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095807_tz5is.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095823_wuz2r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095840_vd4rq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4485]_20230913095859_31zid.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 08:00 ~ 22:00",
+                "18일 토요일 08:00 ~ 22:00",
+                "19일 일요일 09:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 29,
+            "name": "울산약사DT",
+            "description": "Drive Thru와 도심 속 여유로운 공간 울산약사DT점입니다.",
+            "address": "울산광역시 중구 북부순환도로 754 (약사동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3.주차가능대수-8대 4.주차조건- 조건부 무료(1만원 이상 결제시  1시간 지원)",
+            "directions": "북부순환도로 약사고등학교 맞은 편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103349_kczf9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103049_zss46.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103057_qesj0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103104_8yjoj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103113_wpz3x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103126_7nuee.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103136_ns175.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4164]_20230106103253_hf4v2.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 21:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 30,
+            "name": "울산국가정원",
+            "description": "매장에서 직접 구운 푸드와 함께 편안한 휴식을 만끽 할 수 있는 울산국가정원점 입니다.",
+            "address": "울산광역시 중구 태화강국가정원길 205 (태화동)",
+            "parking": "1.주차불가능",
+            "directions": "만남의광장에서 다운동(전원교) 방면 200미터",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon18.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3967]_20201028054705_kq8ox.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3967]_20211223115510_wjajg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3967]_20211223115426_82ac6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3967]_20211223115408_urf9z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3967]_20201028055130_yztye.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[3967]_20201028054735_lq70j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[3967]_20201226115753_6bab6.jpg"
+            ],
+            "hours": [
+                "16일 목요일 08:00 ~ 22:00",
+                "17일 금요일 07:00 ~ 22:00",
+                "18일 토요일 07:00 ~ 22:00",
+                "19일 일요일 07:00 ~ 22:00",
+                "20일 월요일 08:00 ~ 22:00",
+                "21일 화요일 08:00 ~ 22:00",
+                "22일 수요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 31,
+            "name": "현대동구",
+            "description": "편안하고 아늑한 공간, 쇼핑의 즐거움, 조용한 호수공원이 위치한 현대동구점은 고객님께 은은한 커피향을 선사합니다.",
+            "address": "울산광역시 동구 방어진순환도로 899 (서부동) 현대백화점주차장",
+            "parking": "1.주차가능  2.백화점 주차장 이용  3.주차 약 100대 이상 가능 4.주차조건-조건부무료(백화점 방문 도장 1시간, 영수증 10,000원 이상 1시간, 30,000원 이상 2시간) 5. 주차요금정산방법- 출차 시 영수증 제시",
+            "directions": "동구 현대백화점 주차장입구 or 현대중공업 정문 맞은 편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[9467]_20230910012546_h03dc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[9467]_20230910012633_wuick.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[9467]_20230910012736_en71g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[9467]_20230912043615_vjxei.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[9467]_20230912043630_i1pc6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[9467]_20230912043638_qty6g.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 21:00",
+                "17일 금요일 07:00 ~ 21:00",
+                "18일 토요일 08:00 ~ 21:00",
+                "19일 일요일 08:00 ~ 21:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 32,
+            "name": "울산일산비치DT",
+            "description": "울산광역시 동구의 첫번째 Drive Thru 스타벅스 울산일산비치DT점 입니다.",
+            "address": "울산광역시 동구 일산진11길 95 (일산동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3.주차가능대수-8대 4.주차조건- 조건부 무료(1만원 이상 결제시  1시간 지원)",
+            "directions": "일산해수욕장 인근 행정복지센터 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074217_qtx4l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074225_2obno.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074233_ftp8q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074316_jxi8w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074333_bis3t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074342_w9nml.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4194]_20221215074350_ix4pn.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 23:00",
+                "17일 금요일 07:00 ~ 23:00",
+                "18일 토요일 07:00 ~ 23:00",
+                "19일 일요일 07:00 ~ 23:00",
+                "20일 월요일 07:00 ~ 23:00",
+                "21일 화요일 07:00 ~ 23:00",
+                "22일 수요일 07:00 ~ 23:00"
+            ]
+        },
+        {
+            "number": 33,
+            "name": "울산대학교병원",
+            "description": "작은 활기를 불어넣고, 일상속 쉼표가 되어드리는 스타벅스 울산대학교병원점 입니다.",
+            "address": "울산광역시 동구 대학병원로 30 (서부동)",
+            "parking": "1. 유료주차가능 2. 주차장위치-울산대학교병원 별관 지하주차장 3.주차가능대수-45대 4.주차조건-유료(10분당 500원 과금/30분 회차 무료-30분 이후부터 요금 부과)",
+            "directions": "전하동 울산대학교병원 별관 지하1층-1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104117_f05js.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104629_g10fq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104108_bu4gr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104059_knfcu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104013_vutzw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104034_rvtf5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/08/[4063]_20210812104025_j4eb3.jpg"
+            ],
+            "hours": [
+                "16일 목요일 06:30 ~ 22:00",
+                "17일 금요일 06:30 ~ 22:00",
+                "18일 토요일 06:30 ~ 22:00",
+                "19일 일요일 08:00 ~ 22:00",
+                "20일 월요일 06:30 ~ 22:00",
+                "21일 화요일 06:30 ~ 22:00",
+                "22일 수요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 34,
+            "name": "울산남목DT",
+            "description": "일상에서의 여유와 즐거움이 함께 있는 나만의 매장, 스타벅스 울산남목DT점입니다.",
+            "address": "울산광역시 동구 방어진순환도로 1146 (서부동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 앞 3. 주차 가능 대수-13대 4. 주차조건-구매고객1시간무료(2만원 이상 결제시 3시간 무료, 일 최대 3시간) / 시간 초과 시 10분 당 500원 과금",
+            "directions": "남목중학교 맞은편 성내 방면",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4467]_20240522054357_7v9t3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4467]_20240523071249_lkdvn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4467]_20240523071329_efd4u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4467]_20240521015817_465gw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4467]_20240521111504_2w7g1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4467]_20240521111511_zefg2.jpg"
+            ],
+            "hours": [
+                "16일 목요일 07:00 ~ 21:00",
+                "17일 금요일 07:00 ~ 21:00",
+                "18일 토요일 07:00 ~ 21:00",
+                "19일 일요일 07:00 ~ 21:00",
+                "20일 월요일 07:00 ~ 21:00",
+                "21일 화요일 07:00 ~ 21:00",
+                "22일 수요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 35,
+            "name": "울산주전비치",
+            "description": "안녕하세요. 울산 12경 주전몽돌해변에 위치한 스타벅스 울산주전비치점 입니다.",
+            "address": "울산광역시 동구 동해안로 667 (주전동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장후면 3.주차가능대수-(장애인 주차구역 1대 포함) 11대 4.주차조건- 무료",
+            "directions": "주전 몽돌해변 입구에서 강동방향 도보 100m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114339_p4hb7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230113083826_sb0l1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114432_qsa17.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114540_juo61.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114832_g0stq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114637_wx7oz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4254]_20230111114725_n0vgb.jpg"
+            ],
+            "hours": [
+                "16일 목요일 09:00 ~ 21:00",
+                "17일 금요일 09:00 ~ 21:00",
+                "18일 토요일 09:00 ~ 21:00",
+                "19일 일요일 09:00 ~ 21:00",
+                "20일 월요일 09:00 ~ 21:00",
+                "21일 화요일 09:00 ~ 21:00",
+                "22일 수요일 09:00 ~ 21:00"
+            ]
+        }
+    ]
+}
