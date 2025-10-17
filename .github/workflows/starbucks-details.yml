@@ -1,12 +1,13 @@
-name: Daily Starbucks Collection
+name: 5-Day Details Collection
 
 on:
   push:
     branches: ["main"]
-  pull_request:
-    branches: ["main"]
+    paths:
+      - '.github/workflows/starbucks-details.yml'
+      - 'starbucks-details-*.py'
   schedule:
-    - cron: "0 17 * * *"
+    - cron: "0 18 */5 * *"  # 5일마다 오후 6시 (KST 기준 새벽 3시)
 
 permissions:
   contents: write
@@ -40,11 +41,6 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install beautifulsoup4 lxml selenium webdriver_manager
-
-      # 5. 스타벅스 기본 정보 수집 (전국 매장, 약 40분)
-      - name: Run Starbucks Count Script
-        run: |
-          python starbucks-count.py
 
       # 5-1. 서울 상세 정보 수집 (660개, 약 1시간 6분)
       - name: Run Seoul Details Script
@@ -153,8 +149,8 @@ jobs:
         run: |
           git config --global user.email "webstoryboy@naver.com"
           git config --global user.name "websseu"
-          git add location/ details/ || echo "No files to add"
-          git commit -m "스타벅스 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
+          git add details/ || echo "No files to add"
+          git commit -m "스타벅스 상세 데이터 업데이트 - $(date +"%Y-%m-%d")" || echo "No changes to commit"
 
       # 7. 변경사항 푸시
       - name: Push changes
@@ -162,3 +158,4 @@ jobs:
         with:
           branch: "main"
           github_token: ${{ secrets.GITHUB_TOKEN }}
+
