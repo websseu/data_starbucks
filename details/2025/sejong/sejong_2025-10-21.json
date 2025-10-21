@@ -1,0 +1,508 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-21",
+    "location": "세종(sejong)",
+    "count": 14,
+    "item": [
+        {
+            "number": 1,
+            "name": "세종다정DT",
+            "description": "세종의 유일한 Drive Thru 매장, 색다른 경험을 제공할 세종다정DT점",
+            "address": "세종특별자치시 다정북로 223 (다정동)",
+            "parking": "1. 주차가능   2. 주차장 위치- 매장 전면 주차장   3.주차가능대수- 4대  4. 주차조건-무료",
+            "directions": "BRT 다정동(세종대성고등학교)하차 - 도보로 3분\n가온마을 12단지 후문 건너편에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022128_zwj5p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022144_3hfze.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022150_94zea.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022157_whgro.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022203_b0l0i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022215_b3tqi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3627]_20240131022233_rnwqw.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 2,
+            "name": "세종보람",
+            "description": "행복한 도시 세종에서 만나는 스타벅스만의 특별한 매장 세종보람점입니다.",
+            "address": "세종특별자치시 한누리대로 2165 (보람동) A118,119,120,121,128,129,130,131",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물(대방디엠시티 상가주차장) 지하1층 A동   3.주차가능대수- 100대 이상  4. 주차조건-유료(등록시 2시간무료)",
+            "directions": "세종특별자치시 교육청 건너편 세종대방 디엠시티 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3844]_20240131032924_nvubz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3844]_20240131033011_wdy4p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3844]_20240131033018_3lvtc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3844]_20240131032953_8k8xk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3844]_20240204013359_kp3z5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3844]_20240131033028_zb5rb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/3844_20250730100628_ew3aw.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 3,
+            "name": "세종새롬",
+            "description": "스타벅스 세종새롬점입니다. 신속하고 친절한 서비스와 커피 한 잔의 여유를 느껴보세요.",
+            "address": "세종특별자치시 새롬중앙로 64 (새롬동)",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물 지하1~2층   3.주차가능대수- 50대 이상  4. 주차조건- 1시간 무료  5. 주차요금정산방법- 파트너에게 요청",
+            "directions": "세종특별자치시 새롬중앙로 64 \n새뜸 중학교 인근, 세종영광프라자 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/08/[3494]_20170816081859_maaxm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/08/[3494]_20170827121542_3noj9.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/08/[3494]_20170827121547_wekys.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/08/[3494]_20170827121552_qwqkw.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/08/[3494]_20170827121557_r2gk4.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 4,
+            "name": "세종어진R",
+            "description": "한 단계 높은 수준의 스타벅스경험을 POC,CMX, 블랙이글 추출기구를 통해 제공해 드리는 세종어진 Reserve 매장입니다.",
+            "address": "세종특별자치시 한누리대로 499 (어진동)",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물 지하1~3층   3.주차가능대수- 50대 이상  4. 주차조건- 2시간 무료  5. 주차요금정산방법- 매장내 태블릿 주차정산 수기등록",
+            "directions": "성금교차로 파리바게트 사거리에 있는 청암 빌딩 국민은행 옆 1층\n(\"도램마을6,9단지\" 버스정류장 앞/ \"세종청사북측\" BRT정류장에서 도램마을 6단지 방향)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/04/[3298]_20180404092140_sf048.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3298]_20240201053537_66cdx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3298]_20240201053555_yvtzn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3298]_20240201053619_6u9zd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3298]_20240201100836_1lupo.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 5,
+            "name": "세종종촌",
+            "description": "아름다운 풍경과 커피 한 잔의 여유를 즐길 수 있는 세종의 랜드마크 세종종촌점입니다.",
+            "address": "세종특별자치시 도움3로 105-10 (종촌동) 성운프라자",
+            "parking": "11. 주차가능   2. 주차장 위치- 입점 건물 지하  3.주차가능대수- 10대  4. 주차조건-무료",
+            "directions": "가재마을 7단지 맞은편 공공주차장 부지 앞 (성운프라자 1, 2층)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3098]_20240204071405_69sx5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3098]_20240204071449_9x3jy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3098]_20240204071458_9rcbl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3098]_20240204071513_1yv48.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3098]_20240204071522_jg4hz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3098]_20240204071436_l3erv.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 6,
+            "name": "세종첫마을",
+            "description": "행복도시의 세종첫마을점에서 부드럽고, 여유로운 커피 한 잔을 즐겨보세요.",
+            "address": "세종특별자치시 한누리대로 169 행복타워 1층",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물 지하 주차장   3.주차가능대수- 50대 이상  4. 주차조건- 1시간 무료  5. 주차요금정산방법- 결제시 1시간 무료 주차권 증정 , 1시간 초과시 개별 결제 진행",
+            "directions": "세종시 국세청에서 한누리대교 방향으로 1Km 직진 후 우회전. \n퍼스트프라임 3단지아파트에서 도보 3분.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[3040]_20240416082552_yz6j7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3040]_20220314023433_p8ktv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3040]_20220314023441_zz017.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3040]_20220311074211_f5fbp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3040]_20220314022548_tz60u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3040]_20220314023226_tu08m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3040]_20220314023323_4hbts.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 21:00",
+                "23일 목요일 06:30 ~ 21:00",
+                "24일 금요일 06:30 ~ 21:00",
+                "25일 토요일 06:30 ~ 21:00",
+                "26일 일요일 06:30 ~ 21:00",
+                "27일 월요일 06:30 ~ 21:00",
+                "28일 화요일 06:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 7,
+            "name": "세종이마트",
+            "description": "커피 한잔과 함께 여유로움을 쇼핑하세요. 세종이마트점입니다.",
+            "address": "세종특별자치시 금송로 687(가람동 406) 이마트 세종점",
+            "parking": "1. 주차가능   2. 주차장 위치- 이마트 주차장   3.주차가능대수- 600대 이상   4. 주차조건- 무료",
+            "directions": "이마트 세종점 1층에 위치 (옥외주차장 방향)\n# 휴점일: 이마트세종점 휴무일과 동일합니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131034752_phadu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131035131_k386f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131035135_1llwa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131035432_tsmms.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131035017_t54rq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131035047_fzju2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3076]_20240131035058_747zk.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 8,
+            "name": "세종청사",
+            "description": "헤리티지 느낌의 인테리어와 편안함이 있는 세종청사점입니다.",
+            "address": "세종특별자치시 도움8로 81 (어진동)",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물 지하 주차장   3.주차가능대수- 50대 이상  4. 주차조건- 1시간 30분 무료  5. 주차요금정산방법- 별도 주차권 없음 , 출차시 무인 정산 시스템 결제 진행(1시간 30분  초과시  초과 금액 개별 정산)",
+            "directions": "세종정부청사 국무총리 비서실/ 공정거래위원회 건물 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9905]_20240822011612_a7b1o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[9905]_20240131114432_n3aob.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9905]_20240818090024_8ncv5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9905]_20240818090032_vdux1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9905]_20240818090040_i9bsx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9905]_20240818090054_7rksi.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 9,
+            "name": "세종아름",
+            "description": "차별화된 스타벅스만의 특별한 경험을 제공해드리는 스타벅스 세종아름점입니다.",
+            "address": "세종특별자치시 아름서1길 13-9 (아름동) 103,104,105,202,203호",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물 지하2~4층   3.주차가능대수- 100대 이상  4. 주차조건- 2시간 무료  5. 주차요금정산방법- 매장태블릿수기등록필요(고객)",
+            "directions": "아름동 하나은행 교차로에서 아름동 행복복지센터 가는 방향 ,다올 비즈니스센터 1층에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[4020]_20210223095558_blnry.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4020]_20240131113042_ifurx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4020]_20240131113101_uit3z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4020]_20240131113110_d306q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4020]_20240131113345_dserm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4020]_20240131113355_yz8n8.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 10,
+            "name": "세종반곡",
+            "description": "세종반곡점에서 부드럽고, 여유로운 커피 한 잔을 즐겨보세요.",
+            "address": "세종특별자치시 한누리대로 1844 (반곡동)",
+            "parking": "1. 주차가능 2. 주차장 위치 :입점건물 지하 1-2층 3. 주차가능대수 10대 이상 4. 주차조건 : 무료주차 2시간  5. 주차요금정산방법- 매장태블릿수기등록필요(고객)",
+            "directions": "세종국책연구단지에서 수루배1단지 방향 600M",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4429]_20240227114701_rhw95.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4429]_20240131050808_ywrna.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4429]_20240131050848_7rmr6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4429]_20240131050801_z3hdv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4429]_20250114095434_j786e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[4429]_20230620015024_zmcss.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[4429]_20230620015013_2sr3k.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 21:00",
+                "25일 토요일 07:00 ~ 21:00",
+                "26일 일요일 07:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 11,
+            "name": "세종소담",
+            "description": "행복한 도시 세종에서 만나는 스타벅스만의 특별한 매장 세종소담점입니다.",
+            "address": "세종특별자치시 소담3로 8 (소담동) 1동 12호,13호,14호,15호,15a호,16호",
+            "parking": "1. 주차가능   2. 주차장 위치- 입점 건물(세종리버파크 상가주차장) 지하1층    3.주차가능대수- 50대 이상  4. 주차조건-무료 (현재 시간 제약 없이 무료 이용 가능하나 추후 변경 예정)",
+            "directions": "힐스테이트 세종리버파크 1층 (힐스테이트 세종리버파크 H4 블록 오피스텔 건물 1층 상가내 위치)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3976]_20240131042848_pdqzf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3976]_20240131043710_zjd98.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3976]_20240131042920_ac4ig.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[3976]_20240131044027_1afhk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/01/[3976]_20210112035118_52dvl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/01/[3976]_20210112035721_f0pjp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/01/[3976]_20210114055733_73yhm.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "세종예술의전당",
+            "description": "Family friendly 가족친화적, 문화 예술과 더불어 일상속의 커피 문화를 선사하는 세종예술의전당점입니다.",
+            "address": "세종특별자치시 나성동로 6 (나성동)",
+            "parking": "1. 주차가능 2.주차장위치-매장 전면 3. 주차가능대수-10대 이상 4. 주차조건-2시간 무료",
+            "directions": "세종대로에서 나성북로 방면 \"중앙공원6단지 교차로\"에서 우회전",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4659_20250529045612_79azc.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4659_20250529045900_h0flp.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4659_20250529045907_n823n.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/4659_20250529045915_cj0hv.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "세종금강DT",
+            "description": "세종금강DT에서 갓구운 빵과 맛있는 음료를 금강뷰와 함께 즐겨 보세요!",
+            "address": "세종특별자치시 시청대로 45 (대평동)",
+            "parking": "1. 주차가능 2. 주차장 위치 :매장전용 주차장 지하 1-2층 3. 주차가능대수 40대 이상 4. 주차조건 : 스타벅스 이용 고객 대상 1시간 30분 무료, 이후 10분당 500원, 회차 30분   5. 주차요금정산방법- 사전정산기 사용",
+            "directions": "땀벅벅 놀이터에서 금남교 방면으로 100m",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4278]_20240131035942_l0fxo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4278]_20240131035443_j0st2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4278]_20240131035501_5hxka.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4278]_20240131035843_najmj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4278]_20240201122215_r07dc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4278]_20240201060207_90u3l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4278]_20240201122221_gmwua.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 14,
+            "name": "세종충남대학교병원",
+            "description": "세종시 세종충남대학교병원 내 헬스케어센터 1층",
+            "address": "세종특별자치시 보듬7로 20 (도담동) 헬스케어센터 1층",
+            "parking": "세종충남대학교병원 주차장 이용/30분 무료회차/매장 이용객 주차 등록시 1시간 무료(타 점포 1시간과 합산 가능 / 최대 3시간까지)",
+            "directions": "세종시 세종충남대학교병원 내 헬스케어센터1층 \n버스 990,900,1001,757 등 세종충남대병원에서 하차 후 도보 1분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[4127]_20210608072858_t0kmq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4127]_20240130031259_bceyo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[4127]_20210712111723_xdm9u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4127]_20240130031254_uyz1s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[4127]_20210712111615_y9hxa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[4127]_20210712111608_zq8ny.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 06:30 ~ 22:00",
+                "26일 일요일 06:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        }
+    ]
+}

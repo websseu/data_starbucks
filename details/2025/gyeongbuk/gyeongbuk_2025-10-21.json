@@ -1,0 +1,2393 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-21",
+    "location": "경북(gyeongbuk)",
+    "count": 63,
+    "item": [
+        {
+            "number": 1,
+            "name": "경산중방DT",
+            "description": "경산최초의 Drive Thru로 빠르고 편리한 서비스를 경험할 수 있는 여기는 경산중방DT점 입니다 .차별화된 디지털 감동 서비스로 찾아뵙겠습니다.",
+            "address": "경상북도 경산시 경안로 222 (중방동)",
+            "parking": "1.주차가능  2.주차장위치: 건물 전면 스타벅스 전용주차장  3.주차가능대수: 14대  4.주차조건: 매장 이용시 무료  5.주차요금 정산방법: 정산없이 출차",
+            "directions": "지하철 임당역 2번출구 도보15분\n버스 이용시 경산시외버스터미널에서 하차 후 도보5분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[3314]_20170711080422_wrmfn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3314]_20200217103228_0bomd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3314]_20200207110836_jg44a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3314]_20200217103424_q399f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[3314]_20170521054829_xvgiz.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3314]_20200217103321_eswpr.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 2,
+            "name": "영남대아트센터",
+            "description": "캠퍼스 안에서 즐기는 커피 한 잔의 여유와 문화가 공존하는 공간, 영남대 아트센터점입니다.",
+            "address": "경상북도 경산시 대학로 280 (대동) 영남대학교",
+            "parking": "1.교내 주차가능 2.주차장위치:매장측면  3.주차대수:20대이상  4.주차조건:유료(10분당 300원/토일 및 공휴일 일2천원 ) 5.주차요금정산방법:출차시 개별정산",
+            "directions": "영남대학교 정문에서 약 600m 직진 후 오른쪽에 있는 천마아트센터 그랜드홀(대공연장) 1층위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3006]_20200828023753_5eit7.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3006]_20200828023825_hs9vm.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3006]_20200828023844_s12iv.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3006]_20200828023902_wac5y.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[3006]_20200828023916_td4ta.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3006]_20220527100627_1cd9p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3006]_20220527100854_1nqq2.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 19:00",
+                "23일 목요일 08:00 ~ 19:00",
+                "24일 금요일 08:00 ~ 19:30",
+                "25일 토요일 10:30 ~ 17:00",
+                "26일 일요일 10:30 ~ 17:00",
+                "27일 월요일 08:00 ~ 19:00",
+                "28일 화요일 08:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 3,
+            "name": "영남대중앙도서관",
+            "description": "캠퍼스 안에서 커피 한 잔의 여유를 느낄 수 있는 영남대중앙도서관점입니다.",
+            "address": "경상북도 경산시 대학로 280 (조영동) 영남대학교",
+            "parking": "1. 교내 주차가능 2.주차장위치:매장전면  3.주차대수:20대이상  4.주차조건:유료(10분당 300원/토일 및 공휴일 일2천원 ) 5. 주차요금정산방법:출차시 개별정산",
+            "directions": "영남대학교 정문에서 약 600M직진 후 영남대학교중앙도서관 내 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/11/[9980]_20201129052057_8vwe0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[9980]_20200831102925_0xvdn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[9980]_20200905115756_c1mia.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/08/[9980]_20200831102933_v5rx4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[9980]_20200903081144_3qz6m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[9980]_20220717044842_oqmvj.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 21:00",
+                "23일 목요일 08:00 ~ 21:00",
+                "24일 금요일 08:00 ~ 21:00",
+                "25일 토요일 09:00 ~ 17:00",
+                "26일 일요일 09:00 ~ 17:00",
+                "27일 월요일 08:00 ~ 21:00",
+                "28일 화요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 4,
+            "name": "영남대",
+            "description": "젊음의 열기와 싱그러움을 듬뿍 느낄 수 있는 공간에서 최고의 서비스로 감동을 전하는 영남대점입니다.",
+            "address": "경상북도 경산시 청운로 16, 1~3층 (대동)",
+            "parking": "주차불가(주차장없음)",
+            "directions": "지하철 2호선 영남대역 5번 출구 도보 1분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/05/[9875]_20170524041945_czw9n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9875]_20220512021806_lgpct.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9875]_20220512021839_84mpo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9875]_20220512022002_latf3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9875]_20200212051706_m2k5h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9875]_20200212051723_bjscm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9875]_20200212051742_2cch7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9875]_20200212051748_ixcd8.jpg"
+            ],
+            "hours": [
+                "22일 수요일 09:00 ~ 21:30",
+                "23일 목요일 09:00 ~ 21:30",
+                "24일 금요일 09:00 ~ 21:30",
+                "25일 토요일 09:00 ~ 21:30",
+                "26일 일요일 09:00 ~ 21:30",
+                "27일 월요일 09:00 ~ 21:30",
+                "28일 화요일 09:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 5,
+            "name": "스타필드마켓경산",
+            "description": "쇼핑의 즐거움에 커피 한 잔의 여유를 더하는, 스타필드마켓경산점 입니다.",
+            "address": "경상북도 경산시 옥산로 227 (중산동) 경산이마트",
+            "parking": "1.주차가능 2.주차장위치:입점건물(이마트 전용주차장) 3.주차가능대수:100대이상 4.주차조건: 구매시 2시간 무료주차 지원 5.영수증 하단 주차권으로 사전정산시 적용가능",
+            "directions": "스타필드마켓경산점(구. 경산이마트) 2층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/9370_20250821090155_lt2vw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/9370_20250821090314_7mgrj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/9370_20250821091632_9eock.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/9370_20250821091902_v78iy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/9370_20250821092022_zi7pa.jpg"
+            ],
+            "hours": [
+                "22일 수요일 휴점",
+                "23일 목요일 10:00 ~ 22:00",
+                "24일 금요일 10:00 ~ 22:00",
+                "25일 토요일 10:00 ~ 22:00",
+                "26일 일요일 10:00 ~ 22:00",
+                "27일 월요일 10:00 ~ 22:00",
+                "28일 화요일 10:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 6,
+            "name": "대구대학교",
+            "description": "대학가의 자유롭고 젊은 활기를 느낄 수 있는 스타벅스 대구대학교점입니다.",
+            "address": "경상북도 경산시 진량읍 대구대로 201",
+            "parking": "대구대학교 내 주차 가능",
+            "directions": "대구대학교 정문 시외버스정류장 앞 / 대구대학교 행복기숙사 건물 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4095]_20210909022116_sw3jr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4095_20250812083642_lngt4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4095]_20210909022132_e1gly.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4095]_20210909024157_nzn0r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4095_20250813081340_q2odx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4095]_20210909024249_e65op.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4095]_20210909024447_5r17k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4095_20250812083604_jvddg.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 09:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 7,
+            "name": "경산임당역DT",
+            "description": "일상속 고품질의 커피와 젊음의 생동감을 느끼며 스타벅스만의 차별화된 DT서비스를 경험할 수 있는 경산임당역DT점입니다.",
+            "address": "경상북도 경산시 대학로 208 (계양동)",
+            "parking": "1,주차가능 2.주차장위치: 매장 후면 3.주차가능대수: 37대 (장애인 전용3대포함) 4.주차조건: 매장 이용시 무료  5.주차요금 정산방법: 정산없이 출차",
+            "directions": "대구 지하철 임당역 5번출구 도보 10분/\n버스이용시 북부동주민센터 앞 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3770]_20220512062109_83e2b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3770]_20220512061811_zzbbj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[3770]_20200714060645_96xay.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[3770]_20200716071039_5i1dc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3770]_20220307092817_2mgk3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3770]_20220512061550_5dja3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3770]_20220512061402_dhhyy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[3770]_20220307093213_x90wm.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 8,
+            "name": "경산중산",
+            "description": "자연경관과 생활의 편리함이 함께하는 펜타힐즈에 위치한 스타벅스 경산중산점입니다.",
+            "address": "경상북도 경산시 펜타힐즈로 74 (중산동) 109호,110호,111호,112호",
+            "parking": "1.주차가능  2.주차장위치:입점건물(지하)  3.주차가능대수:2대이상  4.주차조건:매장이용시무료  5.주차요금정산방법:정산없이출차",
+            "directions": "중산 119안전센터 맞은편 힐즈스퀘어1차상가 1층,\n펜타힐즈 더샵 1차 아파트 정문 100m앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4248_20250902075637_37yhv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4248_20250902075752_6x3u1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4248_20250914081534_a4r6d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4248_20250914080930_kzqsp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4248_20250902075629_t0dl4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4248_20250914081030_7nd65.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 9,
+            "name": "경산하양DT",
+            "description": "발전이 기대되는 도시 하양에서 스타벅스만의 차별화된 DT서비스를 경험할 수 있는 경산하양DT점입니다.",
+            "address": "경상북도 경산시 진량읍 대학로 1417",
+            "parking": "1.주차가능  2.주차장위치: 건물 후면 스타벅스 전용주차장  3.주차가능대수: 46대  4.주차조건: 매장 이용시 무료  5.주차요금 정산방법: 정산없이 출차",
+            "directions": "하양교에서 대구대삼거리 방향으로 가는 우측  곰식자재마트 전에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717084741_21y24.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717084916_t74a4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717085217_lxb00.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4085]_20220316063656_dq872.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717085343_paq7e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717085411_7gzrn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717085446_0trcz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[4085]_20220717085524_13z77.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 10,
+            "name": "경산사동DT",
+            "description": "",
+            "address": "경상북도 경산시 원효로 194 (사동)",
+            "parking": "1.주차가능 2. 주차가능위치-매장 전용주차장 3. 주차가능대수-14대(장애인전용1대포함) 4. 주차조건- 매장이용시 2시간 무료주차",
+            "directions": "버스이용 : 509 , 990 , 경산1 , 남산1",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4441_20250908073507_cu10o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4441]_20241128044810_ahtgs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4441]_20241128044823_b6e9r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4441_20250908073802_m2wd6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4441]_20241128044850_fvayu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4441]_20241128044859_nfrsh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4441_20250908074207_tukrs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4441_20250930042708_r12iy.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 11,
+            "name": "경산무학",
+            "description": "안녕하세요. 경산시 하양무학지구의 새로운 명소로 거듭날 스타벅스 경산무학점입니다.",
+            "address": "경상북도 경산시 하양읍 서사도리9로 21",
+            "parking": "1.주차가능 2.주차장위치-매장후면 3.주차가능대수-8대(장애인1대포함) 4.주차조건-무료",
+            "directions": "무학지구내 하양농협 북부지점에서 도보 1분, 무학교 건너 버스 정류장 인접",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108122553_t1ev6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108123134_mvc1v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108123243_s92ey.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108123502_rhyaf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108122449_ocq1v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108123537_gc5df.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108123559_rkb4t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/01/[4414]_20240108123704_dk5xf.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "경주보문",
+            "description": "환영합니다. 경주보문단지의 사계절을 느끼며 쉬어갈수 있는 공간. 경주보문점입니다.",
+            "address": "경상북도 경주시 보문로 537 (천군동)",
+            "parking": "1.주차가능  2.주차장위치-매장후면  3.주차가능대수-15대(장애인1대포함)  4.주차조건-무료",
+            "directions": "경상북도 경주시 보문로 537(천군동)1F~2F\n경주월드 & 캘리포니아비치 맞은 편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/03/[3412]_20180323035721_6gyjq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/03/[3412]_20180323035912_ddzlf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3412]_20200226104700_1fqlv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/03/[3412]_20180323035827_8kufl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/03/[3412]_20180323035845_66s30.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/03/[3412]_20180323035856_64tih.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/03/[3412]_20180323035730_g6bs4.jpg"
+            ],
+            "hours": [
+                "22일 수요일 09:00 ~ 20:00",
+                "23일 목요일 09:00 ~ 20:00",
+                "24일 금요일 09:00 ~ 20:00",
+                "25일 토요일 09:00 ~ 20:00",
+                "26일 일요일 09:00 ~ 20:00",
+                "27일 월요일 09:00 ~ 20:00",
+                "28일 화요일 09:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "경주터미널DT",
+            "description": "경주여행의 시작과 끝을 경주터미널DT점과 함께 하세요.",
+            "address": "경상북도 경주시 태종로 686 (사정동)",
+            "parking": "1.주차가능  2.주차장위치-매장전면  3.주차대수-8대  4.후면 유료주차장 이용시 구매시 최대2시간 무료/시간초과시 고객부담(30분1,000원)",
+            "directions": "경주시외버스 터미널 맞은편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/08/[3220]_20190824090522_7zae6.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2016/05/[3220]_20160523082508_qssnv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3220]_20200227083915_d8b99.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3220]_20200228105711_ztzkl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3220]_20200228105718_9p8ya.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3220]_20200228105724_olfv6.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 14,
+            "name": "경주대릉원",
+            "description": "천년고도 경주 중심, 아름다운 역사를 간직한 경주대릉원점입니다.",
+            "address": "경상북도 경주시 첨성로 125 (황남동)",
+            "parking": "1.주차가능  2.주차장위치-매장 전면  3.주차가능대수-15대  4.주차조건- 무료",
+            "directions": "경주 대릉원 신라회관 버스정류장 바로 앞.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/05/[9974]_20200502100035_918l3.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/05/[9974]_20200501071157_f4wvv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/05/[9974]_20200501071145_5pgtz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/05/[9974]_20200501071215_kj5cn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/05/[9974]_20200501071333_1bcif.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/05/[9974]_20200501071454_mz3ad.JPG"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 15,
+            "name": "경주보문호수DT",
+            "description": "Drive Thru와 전통양식의 재해석으로 꾸며진 CAFE의 차별화된 서비스가 제공되는 곳, 경주보문호수DT점 입니다.",
+            "address": "경상북도 경주시 보문로 132-6 (북군동)",
+            "parking": "1.주차가능  2. 주차장위치-매장 후면  3.주차가능대수- 6대  4.주차조건-무료  5.매장 외부  호수앞 공영주차장 무료주차가능",
+            "directions": "보문관광단지 순환도로 동궁원과 한화리조트 사이 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[9909]_20200730100721_wbv71.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074208_zvnen.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074733_i02qp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074214_fl137.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074219_lg8qb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429075026_e687w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429075022_4wpww.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9909]_20200429074935_sjopz.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 21:00",
+                "23일 목요일 08:00 ~ 21:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 09:00 ~ 20:00",
+                "28일 화요일 09:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 16,
+            "name": "경주중앙",
+            "description": "천년의 고도 경주에서 도시적이고 세련된 스타벅스를 만나보세요!",
+            "address": "경상북도 경주시 원효로 105-1 (노동동)",
+            "parking": "주차 불가능",
+            "directions": "경주대릉원 건너편 골목으로 약300m, 메가박스 영화관 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2016/08/[9777]_20160824043704_g369d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9777]_20200225053832_i26ja.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9777]_20200225053839_ptpr9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9777]_20200225053845_fov92.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9777]_20200225053850_2we0w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9777]_20200225053855_e0mxo.jpg"
+            ],
+            "hours": [
+                "22일 수요일 09:00 ~ 20:00",
+                "23일 목요일 09:00 ~ 20:00",
+                "24일 금요일 09:00 ~ 20:00",
+                "25일 토요일 09:00 ~ 20:00",
+                "26일 일요일 09:00 ~ 20:00",
+                "27일 월요일 09:00 ~ 20:00",
+                "28일 화요일 09:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 17,
+            "name": "경주보문로DT",
+            "description": "한국 최초의 DRIVE THRU매장, 경주보문로DT점입니다.",
+            "address": "경상북도 경주시 보문로 510-6, 외 1번지(신평동 719-220) (천군동)",
+            "parking": "1.주차가능  2.주차장 위치-매장 전면   3.주차가능대수- 12대 이상  4.주차조건-무료",
+            "directions": "보문관광단지 순환도로 힐튼호텔 옆 단독 건물로 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[9727]_20170720010628_97afa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9727]_20200225045239_w9vzs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[9727]_20200225045354_z8ipr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[9727]_20170720010750_1zuhs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[9727]_20170720010815_a1hxb.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/07/[9727]_20170720010744_yqdv2.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 09:00 ~ 20:00",
+                "28일 화요일 09:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 18,
+            "name": "경주용강DT",
+            "description": "Drive Thru와 전통양식의 재해석으로 꾸며진 차별화된  인테리어가 돋보이는  경주용강DT점 입니다.",
+            "address": "경상북도 경주시 산업로 4350 (용강동)",
+            "parking": "1.주차가능2.주차장위치-매장후면3.주차가능개수-17대(장애인주차1포함)4.주차조건-조건부무료 .1만원 이상 결제시 1시간 지원(일 최대4시간)/1시간 초과시 10분당 300원 과금5.결제 후 발급된 주차권으로 사전 정산 필요(카드결제만 가능)",
+            "directions": "경주 용강네거리 포항방면 우측 탑마트 옆 위치\n경주 두산위브트레지움 맞은편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825084106_93ggu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825084227_cj8a1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825085016_10mez.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825085036_9n1ok.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825085054_fmh4i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825085117_c4z6a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825085216_hbt9r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4028]_20220825085222_2odjr.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:30",
+                "23일 목요일 07:00 ~ 22:30",
+                "24일 금요일 07:00 ~ 22:30",
+                "25일 토요일 07:00 ~ 22:30",
+                "26일 일요일 07:00 ~ 22:30",
+                "27일 월요일 07:00 ~ 22:30",
+                "28일 화요일 07:00 ~ 22:30"
+            ]
+        },
+        {
+            "number": 19,
+            "name": "경주충효DT",
+            "description": "경주역과 경주시내를 잇는 중심도로의 Drive Thru와 CAFE의 차별화된 서비스가 제공되는 곳, 경주충효DT점 입니다.",
+            "address": "경상북도 경주시 태종로 406 (충효동)",
+            "parking": "1.주차가능 2.주차장위치-매장측면 3.주차가능대수: 37대(장애인주차 2대 포함)",
+            "directions": "경주시 선도동 행정복지센터 앞쪽 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4362]_20240428025715_abbv1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501030957_qbm2c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501031007_8lfme.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501031019_0nf51.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501031028_lr4i0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501031039_zfyme.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501031057_sma3p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4362]_20240501031107_si5yw.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 20,
+            "name": "구미상모DT",
+            "description": "커피한잔의 여유와 빠르고 편리한 DT(Drive Thru)를 경험할 수 있는, 여기는 구미상모DT점 입니다.",
+            "address": "경상북도 구미시 금오대로 439 (상모동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장후면 전용 주차장 3. 주차가능대수 - (장애인 2대 포함) 30대 4. 주차조건 : 조건부 무료 (1만원 이상 결제 시 1시간 무료)",
+            "directions": "[대중교통 이용시]\n160, 360 탑승 후 '상모우방2단지 앞 정류장' 하차 후 금오대로 방면 50m 후 우회전 147m\n\n[자차 이용시]\n임은삼거리에서 왜관방면으로 좌회전 후 금오대로 따라 645m 이동 시 우측에 매장 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530030037_jve3v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530031155_kebw6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3611]_20220609045357_oij63.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530031846_aj9vj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530032140_e0gq0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530032202_1its9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530032212_xwd0e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3611]_20220530032219_6w5cw.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 21,
+            "name": "구미도량DT",
+            "description": "구미의 3번째 Drive Thru, 새로운 랜드마크로 거듭날 구미도량DT점이 여러분들을 기다립니다.",
+            "address": "경상북도 구미시 야은로 312 (도량동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장우측 전용주차장 3. 주차가능대수 - (장애인 1대 포함) 6대 4. 주차조건 - 조건부 무료 (스타벅스 이용 시 1시간 무료)",
+            "directions": "[대중교통 이용 시] \n버스 21, 53, 57, 이용 후 \"주공5단지\" 정류장 하차, 도보 5분\n[자차 이용 시] \n구미IC 이용 '한국도로공사구미지사' 방면 오른쪽 방향, '김천, 선산, 구미보, 도량동' 방면 좌회전후 4km 직진",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3541]_20220529104514_r6r8u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3541]_20220529104551_kh16n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3541]_20220602041257_1jcfi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3541]_20220602041333_1ifpd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3541]_20220529104657_pn8zq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3541]_20220529104717_f6jak.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3541]_20220529104731_sj1x7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3541]_20220529104926_0r165.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 22,
+            "name": "구미옥계",
+            "description": "산업과 주거의 중심 옥계! 스타벅스 구미옥계점에서 커피 한잔의 감동을 경험해 보세요.",
+            "address": "경상북도 구미시 옥계북로 20 (양포동)",
+            "parking": "1. 주차불가능",
+            "directions": "4공단입구 정류장에서 옥계북로  동아문구센터 방면으로 도보 3분 소요",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3233]_20220612095217_2tdhi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220527084619_3bgqp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220526104148_rsrq5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220526104225_x8p61.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220526104128_vlmvc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220526104556_l1608.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220527084530_k1cr8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3233]_20220527084548_81ua2.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 23,
+            "name": "구미시청DT",
+            "description": "구미의 중심인 시청이 위치한 송정동에서 Drive Thru가 가능한 구미시청DT점입니다.",
+            "address": "경상북도 구미시 송정대로 27 (송정동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차가능대수 - 2대 4. 주차조건 - 조건부 무료 (매장이용 시 무료)",
+            "directions": "구미시청에서 형곡네거리 방면 써브웨이 우측에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221104073844_94k64.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221104073918_tecv2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221104074105_7bzn0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221102050938_uw7wr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221102050949_583xm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221102051004_pixdj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221102051017_q597t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[3151]_20221102051030_ie5cr.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 24,
+            "name": "구미금오산DT",
+            "description": "금오산의 사계절을 느끼며 커피 한 잔의 여유를 즐길수 있는 구미금오산DT점 입니다.",
+            "address": "경상북도 구미시 금오산로 205 (남통동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 후면 상가주차장 3. 주차가능대수 - 30대 이상 4. 주차조건 - 조건부 무료(매장 이용시) 5. 주차요금 정산방법 - 정산없이 출차",
+            "directions": "구미역에서 금오산 공영 주차장 방향으로 300m 지점",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/07/[9881]_20220715111802_jawqr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515121921_xidei.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515121944_7z48c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515121959_usgvt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515122007_j4cce.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515122013_h67d7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515122019_k5r9k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9881]_20220515122130_bqk53.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 25,
+            "name": "구미인동",
+            "description": "바쁜 일상속 커피 한잔의 휴식처가 될 수 있는 스타벅스 구미인동점 입니다.",
+            "address": "경상북도 구미시 인동가산로 9-3, 노블레스타워 1층 (황상동)",
+            "parking": "1. 주차가능(평일 8~19, 토요일 8~13, 일요일 및 공휴일 사용불가) 2. 주차장 위치 - 매장입점 타워 주차장 3. 주차가능대수 - 40대 이상(타워주차) 4. 주차조건 - 조건부 무료 (주차증에 도장 날인) 5. 주차요금 정산방법 - 정산시 주차 관리인에게 제출",
+            "directions": "구미인동 메가박스 영화관 건너편 \n삼성육교 옆  노블레스타워1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/9460_20250813122503_ka0df.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250204014132_aioqg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250204014121_t5cep.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250204050510_lt9b9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250204014115_pfq7z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250205072523_7h75c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250205072529_m8n1t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[9460]_20250205072517_1xp2z.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 09:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 19:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 26,
+            "name": "구미공단",
+            "description": "바쁜일상 속 편안한 휴식이 있는, 구미공단점입니다.",
+            "address": "경상북도 구미시 1공단로 212, HALLA SIGMA VALLEY 106 (공단동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 입점건물(한라시그마벨리) 지하주차장 3. 주차가능대수 - 50대 이상 4. 주차조건 - 금액상관없이 1시간30분 무료(1일 1회 주차등록가능), 초과10분당 500원 추가발생 5. 주차요금 정산방법 : 파트너에게 요청",
+            "directions": "순천향병원에서 한화 구미사업장 (구 삼성제1공장) 쪽으로 500m지점 오른쪽 한라시그마밸리 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043744_s0kyi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220527021557_7vcoh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043800_4k9n4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043807_5w0mq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043837_fy4b7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043846_ngj1x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043855_mp2k2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[9640]_20220528043903_qhcr3.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 09:00 ~ 20:00",
+                "26일 일요일 09:00 ~ 20:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 27,
+            "name": "구미인의DT",
+            "description": "바쁜 일상속 Drive Thru의 신속함과 커피 한 잔의 여유를 즐길 수 있는 구미인의DT점 입니다.",
+            "address": "경상북도 구미시 인동북길 149 (인의동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 앞 전용 주차장 3. 주차가능대수 - 33대(일반32, 장애인1) 4. 주차조건 : 구매영수증 지참시 2시간 무료",
+            "directions": "1.구평교차로에서 구미대교 방향 우측에 위치\n2.인동고등학교 입구 건너편 방향 도보 5분 거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017043546_syjvp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017091236_q2bir.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017091243_f0vwu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034107_cer2g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034118_hcsfv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034126_xu85j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231016034134_rgpvt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4321]_20231017091251_n63hp.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 28,
+            "name": "삼성전자 구미2캠퍼스",
+            "description": "삼성전자 구미2캠퍼스안 특별한 휴식, 스타벅스와 함께하세요!",
+            "address": "경상북도 구미시 3공단3로 302 삼성전자 2공장 창의동 1층((임수동)",
+            "parking": "",
+            "directions": "삼성전자 구미2캠퍼스내 창의동 1층 로비 외부고객 이용불가",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4701_20250828021355_jbukj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4701_20250828021609_kwfpr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4701_20250828084710_u63z7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4701_20250828024851_151zd.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 19:00",
+                "23일 목요일 06:30 ~ 19:00",
+                "24일 금요일 06:30 ~ 19:00",
+                "25일 토요일 06:30 ~ 16:00",
+                "26일 일요일 휴점",
+                "27일 월요일 06:30 ~ 19:00",
+                "28일 화요일 06:30 ~ 19:00"
+            ]
+        },
+        {
+            "number": 29,
+            "name": "구미광평DT",
+            "description": "바쁜 일상속 Drive Thru의 신속함과 커피 한 잔의 여유를 즐길 수 있는 구미광평DT점 입니다.",
+            "address": "경상북도 구미시 구미대로 188 (광평동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 앞 전용 주차장 3. 주차가능대수 - 19대 4. 주차조건 : 영수증 1만원이상 1시간 무료, 10분당 500원, 최대 4시간 무료(최초 60분 무료) 5. 주차요금 정산방법 : 주차사전정산기로 정산",
+            "directions": "홈플러스 구미점 옆, 홈플러스 구미점에서 수출탑 방면으로 도보 2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013053430_m7erx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013053517_2l1sg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013053731_jmnww.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013053953_rrqxs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013054001_wky18.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013054247_iod7w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013054836_ktsit.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/10/[4000]_20211013054844_acz2u.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 30,
+            "name": "구미문성DT",
+            "description": "도시와 자연이 어우러진 아늑한 휴식공간 구미문성DT점으로 여러분을 초대 합니다.",
+            "address": "경상북도 구미시 고아읍 들성로 207",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장후면 전용 주차장 3. 주차가능대수 - 14대 4. 주차조건 : 영수증 1만원이상 1시간 무료, 10분당 300원, 최대 4시간 무료(최초 30분 무료) 5. 주차요금 정산방법 : 주차사전정산기로 정산",
+            "directions": "들성공원 맞은편, 문성 롯데리아와 파리바게트 건물옆으로 진입",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908123711_ccvlr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035137_icadm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035145_5j56l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035219_crvto.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035242_s7idx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035257_jyl0c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035429_xijdc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4022]_20210908035524_1yvcr.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 31,
+            "name": "구미확장단지",
+            "description": "바쁜일상 속 편안한 휴식이 있는 구미확장단지점 입니다.",
+            "address": "경상북도 구미시 산동읍 신당1로4길 19",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장입점 건물 지하 주차장 3. 주차가능대수 - 10대 이상 4. 주차조건 - 조건부 무료 (영수증 1만원 이상 1시간 30분 무료) 5. 주차요금 정산방법 - 정산없이 출차",
+            "directions": "- 시내버스 '물내음 공원입구건너' 하차 도보 4분 (192번, 890번, 910번)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531102427_jfvpg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3958]_20220621051337_oczh1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531101923_l8qn6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531101935_76bak.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531102411_2gge0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531101954_kp0i8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3958]_20220531102005_nbo2c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3958]_20220610042055_bka04.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 32,
+            "name": "상주무양DT",
+            "description": "자연과 함께하는 상주 첫번째 Drive Thru 매장, 스타벅스 상주무양DT점 입니다 :)",
+            "address": "경상북도 상주시 영남제일로 1683 (무양동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 전용 주차장 3. 주차가능대수 - 43대(장애인 전용 주차장 2대 포함) 4. 주차조건 - 무료",
+            "directions": "무양동 지엘리베라움 아파트 앞쪽, 지남철강 옆 도보 2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221005102108_soean.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032231_tni72.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032418_xkrzl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032505_g8gze.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032523_5ue5l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032535_fx6un.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032544_hy948.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[4068]_20221006032554_ao4pu.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 33,
+            "name": "영주가흥",
+            "description": "역사와 문화가 살아 숨 쉬는 도시 영주! 영주시 첫 번째 스타벅스, 스타벅스 영주가흥점 입니다.",
+            "address": "경상북도 영주시 영주로 90 (가흥동)",
+            "parking": "1.주차가능 2.주차장위치 - 매장 후면(새마을금고 다음 골목길로 진입시 주차장 진입) 3.주차가능대수 - (장애인 3대, 전기차충전 4대 포함) 64대 4.주차조건 - 무료",
+            "directions": "가흥교차로에서 영주경찰서방면 버스정거장 앞에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250815034627_b7s6s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250831043938_t9qtv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250807081501_ihw46.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250807081558_b345t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250831043924_2drfo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250807081657_jwom7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250807081715_ww744.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/4271_20250807081730_lftsl.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 34,
+            "name": "경북도청대로",
+            "description": "커피 한잔의 여유와 일상의 활력을 주는 스타벅스 경북도청대로점 입니다",
+            "address": "경상북도 예천군 호명면 수변로 113",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 후면 3. 주차가능대수-17대 4. 주차조건-스타벅스 이용고객 무료 5. 주차요금정산방법-정산없이출차",
+            "directions": "다이소 경북도청신도시점 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4212]_20230201101920_j8332.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4212]_20230201101931_p6z82.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4212]_20230201102005_ds1ke.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[4212]_20230201102021_1f7wm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4212]_20250811120301_g8g7e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4212]_20250811120926_kh4fj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4212]_20250811121007_0zirz.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 35,
+            "name": "포항쌍용DT",
+            "description": "포항 젊음의 거리에서 빠르고 편한 Drive Thru를 포항쌍용DT점에서 경험해보세요.",
+            "address": "경상북도 포항시 남구 중흥로 122 (상도동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3. 주차가능대수-(장애인1대포함)10대 4. 주차조건 - 조건부 무료(영수증 1만원이상 1시간 무료 이후 10분당 300원) 5.주차 요금 정산방법 : 고객이 직접 사전 무인 정산기에서 꼬리표 영수증 스캔하여 주차정산",
+            "directions": "포항 시외버스 터미널에서 오광장 방면 대로변 우측에 위치.\n교보생명 포항중앙지점 맞은 편.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3436]_20200415050725_bmmzc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3436]_20200415050733_xidn9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3436]_20171222085607_fa234.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3436]_20171222085702_zwp6m.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3436]_20171222085737_5dzcb.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[3436]_20171222085856_m4028.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 36,
+            "name": "포항오천",
+            "description": "포항의 떠오르는 젊은 주거상권에 위치한 포항오천점입니다.",
+            "address": "경상북도 포항시 남구 오천읍 원동로 15",
+            "parking": "1.주차불가능",
+            "directions": "문덕사거리에서 원동초등학교 방면 도보 150m\n(준양참마을아파트 앞 도로변 위치)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[3174]_20230420075931_6pt79.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3174_20250801051206_p09pt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3174_20250801051220_j6bir.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3174_20250801051237_bgpcs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3174_20250801051241_vhod4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3174_20250801051245_15z3m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3174_20250801051734_58mgq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 37,
+            "name": "포항대이",
+            "description": "생활과 가치의 중심, 밝은 웃음과 진한 커피향이 넘치는 도심 속 휴식처 포항대이점입니다.",
+            "address": "경상북도 포항시 남구 포스코대로 124 (대잠동)",
+            "parking": "1. 주차가능  2. 주차장위치 - 매장전면  3. 주차가능대수 - 4대  4. 주차조건 - 무료",
+            "directions": "대구은행 옆 포스코대로 서쪽 도보 2분 명은빌딩 1층\n(버스 : 110, 216, 700 이동온천 하차)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230118084748_ohgpo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230118085228_ujh4a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230118085233_oo0zr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230118085236_7fx2u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230118085315_21wq9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230126113146_ksuvf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230126113151_oqf8p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3053]_20230126113521_jxocd.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 21:00",
+                "23일 목요일 08:00 ~ 21:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 21:00",
+                "27일 월요일 08:00 ~ 21:00",
+                "28일 화요일 08:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 38,
+            "name": "포항이마트",
+            "description": "쇼핑의 즐거움과 편안한 휴식공간! 포항이마트점 스타벅스에서 느껴보세요 ~",
+            "address": "경상북도 포항시 남구 냉천로 10, 이마트 포항점 1층 (인덕동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 이마트 1층 주차장 , 건물 옥상 주차장 3. 주차가능대수 10대이상 4. 주차조건 - 무료",
+            "directions": "포항 E-MART 1층, 입구쪽 푸드코트 방면",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022351_z31o5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022359_ojl4z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022403_6dkbt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022411_pnray.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022416_fm036.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022419_rr728.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9813_20250731022423_edm0y.jpg"
+            ],
+            "hours": [
+                "22일 수요일 10:00 ~ 21:30",
+                "23일 목요일 10:00 ~ 21:30",
+                "24일 금요일 10:00 ~ 21:30",
+                "25일 토요일 10:00 ~ 21:30",
+                "26일 일요일 휴점",
+                "27일 월요일 10:00 ~ 21:30",
+                "28일 화요일 10:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 39,
+            "name": "포항시청",
+            "description": "시원한 전망, 편리한 주차, 향긋한 커피를 즐길 수 있는 포항시청점입니다.",
+            "address": "경상북도 포항시 남구 시청로 5 (대잠동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장후면(코아이비인후과전용주차장이용가능) 3. 주차가능대수-10대(건물전체공동이용) 4. 주차조건-조건부무료(스타벅스이용시무료) 5. 주차요금정산방법-파트너에게요청",
+            "directions": "포항시청 앞 코아이비인후과 건물 1층\n*버스 : 130, 108번 시청하차",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424123522_3hxxf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424124002_3mnoo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424123442_15omn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424124022_4wbea.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424124251_rewth.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424124058_21yj9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424124315_h0yqd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[9737]_20200424124335_4d2zr.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 21:00",
+                "25일 토요일 08:00 ~ 21:00",
+                "26일 일요일 08:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 40,
+            "name": "포항송도",
+            "description": "송도해수욕장이 눈앞에 보이는 포스코산업단지를 참고한 하나의 예술작품 속에서 커피를 즐기러 오세요.",
+            "address": "경상북도 포항시 남구 송도해안길 54 (송도동)",
+            "parking": "1. 주차가능 2.주차장 위치 - 매장 후면 3.주차 가능대수 - (장애인1대 포함) 16대 4. 주차 조건 - 매장 이용시 무료",
+            "directions": "110,111번 버스 승차 후 '송도해수욕장' 정류장 하차, 송도해수욕장 방면 도보2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4279]_20230726111154_sv8hb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4279]_20230726111253_ofh9o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4279]_20230726111313_20o8h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4279]_20230726111326_ku3q7.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 41,
+            "name": "포항IC DT",
+            "description": "안녕하세요. 여행의 시작을 향긋한 커피와 기분좋은 스타벅스 경험으로 시작하세요. 스타벅스 포항IC DT점 입니다.",
+            "address": "경상북도 포항시 남구 희망대로 353 (이동)",
+            "parking": "주차 47대(장애인 주차구역 2대)",
+            "directions": "포항IC 진입 전, 에스포항병원 맞은편. 포항IC, 포항동부교회 300m전 도로변 위치.\n버스 111번 포항동부교회 하차 후 도보 3분, 버스 216번 이동삼성아파트 하차 후 도보 14분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4286]_20230315123738_i9xp9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4286]_20230315124759_fr6tb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4286]_20230315124810_a9das.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4286]_20230315124844_fo5lo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4286]_20230315124851_2vhgj.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 42,
+            "name": "포항세명기독병원",
+            "description": "포항세명기독병원점의 쉼터, 작은 여유와 마음의 안식처가 되어드립니다.",
+            "address": "경상북도 포항시 남구 포스코대로 351 (대도동)",
+            "parking": "1. 주차 불가능",
+            "directions": "포항세명기독병원 본관 1층 , 외래진료접수처 맞은편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[4084]_20210617064056_lim1q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4084_20250730035238_p7kc7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4084_20250730035714_wqfxq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4084_20250730034616_fy6re.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[4084]_20210617065103_mgu29.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[4084]_20210617065111_zplfu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[4084]_20210617065117_qu1vf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/06/[4084]_20210617065130_v1xvh.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 19:00",
+                "23일 목요일 07:00 ~ 19:00",
+                "24일 금요일 07:00 ~ 19:00",
+                "25일 토요일 07:00 ~ 17:00",
+                "26일 일요일 08:00 ~ 17:00",
+                "27일 월요일 07:00 ~ 19:00",
+                "28일 화요일 07:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 43,
+            "name": "포항포스코DT",
+            "description": "포스코직원이 아니더라도 모든 고객이 이용가능한 Park1538 호수공원의 아름다운 전경과 스타벅스 Drive Thru만의 새롭고 특별한 경험을 포항포스코DT점에서 전해드립니다.",
+            "address": "경상북도 포항시 남구 동해안로6213번길 15-15 (동촌동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장측면,동촌플라자주차장 3. 주차가능대수-매장측면4대/동촌플라자 10대이상 4. 주차조건-조건부 무료(동촌플라자 주차장 2시간 무료, 2시간초과시 추후이용불가)",
+            "directions": "포스코본사에서 인덕방향으로 740m , Park1538 호수공원 내 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902020145_c8bcj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/[4008]_20250730081722_uni5u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/[4008]_20250731093914_ybv35.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/[4008]_20250731093918_p2pep.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021258_pmedt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021319_aj9a0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021335_vjtgs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021416_f7oz6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021436_ohp53.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021451_vrqxl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4008]_20210902021518_ygatd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/[4008]_20250730081116_wkygd.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 19:00",
+                "23일 목요일 07:00 ~ 19:00",
+                "24일 금요일 07:00 ~ 19:00",
+                "25일 토요일 08:30 ~ 19:00",
+                "26일 일요일 08:30 ~ 19:00",
+                "27일 월요일 07:00 ~ 19:00",
+                "28일 화요일 07:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 44,
+            "name": "김천구미역",
+            "description": "KTX와 김천혁신도시의 만남! 스타벅스 김천구미역점이 여러분을 기다리겠습니다",
+            "address": "경상북도 김천시 혁신3로 26 (율곡동)",
+            "parking": "1.주차가능 2.주차장위치- 입점건물 지하주차장 3.주차가능대수- 10대 4.주차조건- 구매고객  최대 2시간 무료(초과 10분당 1000원) 5.주차요금 정산방법- 파트너에게 요청",
+            "directions": "김천구미역 정문에서 직진 5분거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3340]_20220528124504_xxxhx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3340]_20220528124519_8y893.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3340_20250929051935_6xr3p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3340_20250929051941_gtr2j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3340_20250929051945_rwq16.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3340_20250929051949_ppg9m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3340_20250929051953_fhw8b.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 45,
+            "name": "김천시청DT",
+            "description": "커피한잔의 감동을  드리는 김천 첫번째 매장! Drive Thru가 가능한 김천시청DT점입니다.",
+            "address": "경상북도 김천시 시청로 47 (대신동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장우측 전용 주차장 3. 주차가능대수 - (장애인 1대 포함) 10대 4. 주차조건 - 조건부 무료 (1만원 이상 구매 시 1시간  무료)",
+            "directions": "이마트에서 강변조각공원방면 도보 5분,\n신음 현대아파트 맞은 편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081058_mn1b9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081142_rpjn3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081149_3h85t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081156_c4qfd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081203_atj36.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081208_nhrao.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081216_3cff1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[3215]_20220614081222_bzb1j.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 46,
+            "name": "김천부곡DT",
+            "description": "바쁜 일상속 Drive Thru의 신속함과 커피 한 잔의 여유를 즐길 수 있는 김천부곡DT점 입니다.",
+            "address": "경상북도 김천시 시민로 47 (부곡동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 앞 전용 주차장 3. 주차가능대수 - 33대(일반30, 장애인3) 4. 주차조건 : 영수증 1만원이상 1시간 무료, 초과 10분당 300원, 최대 4시간 무료(최소 60분 무료)5. 주차요금 정산방법 : 주차사전정산기로 정산",
+            "directions": "1. 김천 시민탑에서 IC 방향 200미터 전방에 위치한 Drive Thru 매장\n2. 김천역에서 부곡동 자이아파트 방향 도보 20분\n3. 김천IC에서 시민탑 방향으로 차량5분거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053317_nbf9v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053438_t438h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053457_e77x8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053513_3l3pf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053530_hoggx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053551_8nrl2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053610_lwlqt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4353]_20230920053935_rhg7o.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 47,
+            "name": "안동이마트",
+            "description": "쇼핑중  한걸음 쉬어갈 수 있는, 향기로운 커피향이 가득한 곳, 특별한 스타벅스 경험을 제공하겠습니다.",
+            "address": "경상북도 안동시 옥동1길 2 (옥동)",
+            "parking": "1. 주차가능 2. 주차장 위치-이마트2-4층 3. 주차가능대수-100대이상 4. 주차조건-무료",
+            "directions": "이마트 안동점 1층 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3884]_20200203051012_pkebj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3884]_20200207105038_q6t9r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3884_20250814014715_7e6id.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3884_20250814014820_tamas.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/02/[3884]_20200207105127_jemgk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3884_20250814015224_62t9b.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3884_20250814015230_40asg.png"
+            ],
+            "hours": [
+                "22일 수요일 휴점",
+                "23일 목요일 10:00 ~ 21:00",
+                "24일 금요일 10:00 ~ 21:00",
+                "25일 토요일 10:00 ~ 21:00",
+                "26일 일요일 10:00 ~ 21:00",
+                "27일 월요일 10:00 ~ 21:00",
+                "28일 화요일 10:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 48,
+            "name": "안동병원",
+            "description": "안동병원 내 아늑한 쉼터, 작은 여유와 마음의 안식처가 되어 드립니다.",
+            "address": "경상북도 안동시 앙실로 11 (수상동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 병원 지상1층, 지하1층 3. 주차가능대수-50대 이상 4. 주차조건 -2시간 무료",
+            "directions": "안동병원 1층 정문 우측",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083519_zi2sv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083049_792cm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083454_ayhd6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083555_8fl94.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801084124_fynw7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083019_u56af.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083037_0jias.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3855]_20250801083044_9ne05.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 49,
+            "name": "안동시청",
+            "description": "젊음과 자유의 랜드마크 안동의 중심지에 위치한 안동시청점에서 쇼핑의 즐거움과 커피한잔의 여유로움을 즐겨보세요.",
+            "address": "경상북도 안동시 서동문로 173 (삼산동)",
+            "parking": "1. 주차불가능",
+            "directions": "안동보건소 옆, 목성교 사거리 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3107_20250902032927_22i0t.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3107_20250902032740_gkufz.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3107_20250902032701_0r25l.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/3107_20250902032757_175xj.png",
+                "https://image.istarbucks.co.kr//upload/store/2015/09/[3107]_20150916094646007.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2015/09/[3107]_20150916094819331.JPG"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 50,
+            "name": "안동강변DT",
+            "description": "빠르고 편리한 드라이브스루 경험과 안동축제의 중심지에서 커피한잔의 여유를 즐길 수 있는 안동강변DT점 입니다.",
+            "address": "경상북도 안동시 육사로 327 (법흥동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 옆면 3. 주차가능대수-5대 4. 주차조건-스타벅스 이용고객 2시간 무료 5. 주차요금정산방법-정산없이출차",
+            "directions": "안동강변펠리시아 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3913_20250810011846_gj797.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3913_20250810011952_qvz48.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3913_20250810014447_4v4g7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3913]_20220414085921_66og4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3913]_20220414100824_j12va.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3913_20250810012040_dnuqa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3913_20250810012128_8jpwn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3913_20250810012134_itx4w.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 51,
+            "name": "안동법원DT",
+            "description": "빠르고 편리한 드라이브스루 경험과 아름다운 낙동강변을 보며 커피한잔의 여유를 즐길 수 있는 스타벅스 안동법원DT점 입니다.",
+            "address": "경상북도 안동시 강남로 305 (정하동)",
+            "parking": "1. 주차가능 2. 주차장 위치-매장 앞면 3. 주차가능대수-32대 4. 주차조건-스타벅스 이용고객 1시간 무료 5. 주차요금정산방법-정산없이출차",
+            "directions": "대구지방법원 안동지원 바로 앞 / 취란 중식당 바로 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4530_20250925040547_jrz3q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4530_20250925040342_uublj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4530_20250925040142_vjrfz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4530_20250925040302_g5cfw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4530_20250925040044_sfei1.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 52,
+            "name": "안동옥동",
+            "description": "커피 한잔의 여유와 일상의 활력을 주는 안동옥동점 입니다",
+            "address": "경상북도 안동시 광명로 166 (옥동)",
+            "parking": "전용 주차장 없음 , 100m 내에 공영주차장 이용가능 (1시간 무료)",
+            "directions": "",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113130_g8shu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113145_6n70v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113151_q3nl0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113156_1b8pm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113201_6lpzs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113205_ifp6m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4290_20250729113210_728ps.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 53,
+            "name": "영천완산DT",
+            "description": "별의 도시 영천, 영천의 첫번째 Drive Thru, 이곳은 영천완산DT점입니다.",
+            "address": "경상북도 영천시 영화로 272 (완산동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장전면 3. 주차가능대수 - 63대(장애인전용주차장 3대 포함) 4. 주차조건 - 무료",
+            "directions": "영화교남단 완산지구 2차미소지움아파트 건너편에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4219]_20230511074254_371ae.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4219]_20230422055000_h2td7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4219]_20230422055016_ytyut.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4219]_20230422055030_f2vwg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4219]_20230511073704_qv5ro.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4219]_20230511074144_ikj5c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4219]_20230511073732_aktqe.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4219]_20230511073817_2jukk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4219]_20230423055814_z0eoa.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 54,
+            "name": "포항죽도DT",
+            "description": "새롭고 특별한 스타벅스만의 Drive Thru의 경험을 포항죽도DT점에서 전해드립니다.",
+            "address": "경상북도 포항시 북구 새천년대로 486 699-1 에스오일",
+            "parking": "1. 주차가능 2. 주차장위치-매장측면 3. 주차가능대수-(장애인1대포함)7대 4. 주차조건-매장이용 시 무료",
+            "directions": "포항철길숲 맞은편 , 세명고등학교와 쌍용자동차전시장 사이 도로변 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022712_txn8q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022726_mrt7q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022738_fax8p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022751_v73dw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022807_wghqp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022851_hfxzj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022913_3y1q6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[3723]_20210902022924_334ft.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 55,
+            "name": "포항장성DT",
+            "description": "빠르고 편한 포항 최초의 DRIVE THRU 매장인 포항장성DT점에서 특별한 서비스를 경험해 보세요",
+            "address": "경상북도 포항시 북구 새천년대로 1255 (장성동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3.주차가능대수-3대 4. 주차조건 - 매장 이용 시 무료",
+            "directions": "108번 승차 후 두산위브정류장 하차,\n맥도날드 방면으로 도보 2분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3349]_20200415050100_i099i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3349]_20200419030755_2eoel.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3349]_20200415050112_y27sz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3349]_20200415050139_bw7lh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3349]_20200415050153_pgfwv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/04/[3349]_20170402085755_mr5uk.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 56,
+            "name": "포항양덕",
+            "description": "포항의 떠오르는 신도시 포항양덕에서 오아시스같은 커피한잔을 선사하겠습니다.",
+            "address": "경상북도 포항시 북구 장량로 162 (양덕동)",
+            "parking": "1.주차가능 2.주차장위치-매장후면 3. 주차가능대수-7대 4. 주차조건-매장 이용 시 무료",
+            "directions": "농협 하나로마트 정문 맞은편 단독건물에 위치 (도보 2분)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3099]_20200415044036_93mji.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3099]_20200415044042_yteeo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3099]_20200415044046_zrz22.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/11/[3099]_20161128124827_392g2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/11/[3099]_20161128124834_753k5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/11/[3099]_20161128124837_xug1p.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 57,
+            "name": "포항중앙",
+            "description": "따뜻한 커피와 감동의 서비스 그리고 완벽한 제 3의 공간, 포항의 중심",
+            "address": "경상북도 포항시 북구 불종로 41 (신흥동)",
+            "parking": "1. 주차불가능",
+            "directions": "포항 북포항 우체국 바로 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210907074717_o376s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095526_0754o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095602_2nytr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095624_awmv8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095638_wz3iy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095655_aggcy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095709_17knr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[9944]_20210903095720_elaly.jpg"
+            ],
+            "hours": [
+                "22일 수요일 09:00 ~ 21:00",
+                "23일 목요일 09:00 ~ 21:00",
+                "24일 금요일 09:00 ~ 21:00",
+                "25일 토요일 09:00 ~ 21:00",
+                "26일 일요일 09:00 ~ 21:00",
+                "27일 월요일 09:00 ~ 21:00",
+                "28일 화요일 09:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 58,
+            "name": "포항영일대비치",
+            "description": "낮에는 영일대 바닷가의 전경, 밤에는 포스코의 야경을! 맛있고 향긋한 커피, 감동적인 서비스를 제공하는 포항영일대비치점입니다.",
+            "address": "경상북도 포항시 북구 삼호로 186 (항구동)",
+            "parking": "1.주차가능 2.주차장위치-입점건물측면 3.주차가능대수-6대 4.주차조건-매장 이용 시 무료",
+            "directions": "포항 영일대해수욕장 입구 세븐일레븐 편의점 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420093408_3nlpu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420093521_khqqi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420093102_glx1f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420093530_r4he8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420093544_1yrd0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420093548_ab1iu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420094012_rrjiz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[9566]_20210420094022_4uunz.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 59,
+            "name": "포항법원DT",
+            "description": "안녕하세요. 도심 속에 위치한 여유로운 공간, 커피향이 가득한 스타벅스 포항법원DT점 입니다.",
+            "address": "경상북도 포항시 북구 신덕로 287 (장성동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장전면 3. 주차가능대수-(장애인1대포함)16대 4. 주차조건 - 조건부 무료(영수증 1만원이상 1시간 무료 이후 10분당 300원) 5.주차 요금 정산방법 : 고객이 직접 사전 무인 정산기에서 꼬리표 영수증 스캔하여 주차정산",
+            "directions": "양덕삼구트리니엔 2차아파트 맞은 편, 장량교차로에서 법원사거리방면 도로변 위치(교동면옥 옆), \n206번.209번 이용 삼도뷰엔빌 하차 도보 7분, 216번 이용 한국산업인력공단 하차 도보 4분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4372]_20230823045842_8r486.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4372]_20230824084422_ken76.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4372]_20230824084440_pm1sc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4372]_20230824084455_ytr51.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4372]_20230824084509_1klcc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/08/[4372]_20230824084522_0hkfu.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 60,
+            "name": "포항화진해수욕장",
+            "description": "안녕하세요. 동해안을 따라 이어지는 7번 국도에 위치한 화진해수욕장 바로 앞 스타벅스 포항화진해수욕장점에서 오션뷰를 감상하며 커피를 즐겨보세요.",
+            "address": "경상북도 포항시 북구 송라면 동해대로3218번길 40 (송라면)",
+            "parking": "1. 주차가능  2. 주차장 위치 - 매장 후면  3. 주차가능대수 - 3대 (화진해수욕장 노지주차장 106대 가능(장애인 14대 포함))  4. 주차조건 - 매장 이용시 무료",
+            "directions": "송라, 청하 마을버스 승차 후 '화진' 정류장 하차. 도보 1분",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon09.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4270]_20240426114639_esbu6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4270]_20240426114523_qg2kp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240221053246_zq3q8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240220070118_2x3tu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240221053600_u2nbd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240221053536_8r5b3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240221053804_4qigh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240220070316_4aea2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4270]_20240220070834_d6daz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[4270]_20240426114724_j1vnp.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 20:00",
+                "23일 목요일 08:00 ~ 20:00",
+                "24일 금요일 08:00 ~ 20:00",
+                "25일 토요일 08:00 ~ 20:00",
+                "26일 일요일 08:00 ~ 20:00",
+                "27일 월요일 08:00 ~ 20:00",
+                "28일 화요일 08:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 61,
+            "name": "포항중앙로DT",
+            "description": "도시적이고 세련된 포항의중심 포항중앙로DT점에서 휴식을 느껴보세요",
+            "address": "경상북도 포항시 북구 중앙로 197 (죽도동)",
+            "parking": "1. 주차가능  2. 주차장위치-매장전면  3.주차가능대수-(장애인1대포함)14대  4. 주차조건-조건부 무료(최초 15분 무료 / 영수증 1만원 이상:1시간/2만원 이상:2시간 무료(일 최대 2시간 가능) / 무료주차시간 초과시 10분당 1,000원)  5.주차 요금 정산방법 : 고객이 직접 사전 무인 정산기에서 꼬리표 영수증 스캔하여 주차정산",
+            "directions": "오거리 홈플러스 뒷편 한화생명 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4209]_20221114072752_jo5fe.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4209]_20221116044458_y143p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4209]_20221116044503_o0d1g.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4209]_20221116044509_t3vty.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4209]_20221116044514_94kll.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 21:00",
+                "25일 토요일 07:00 ~ 21:00",
+                "26일 일요일 07:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 62,
+            "name": "포항초곡DT",
+            "description": "안녕하세요. 많은 변화와 발전으로 신도시의 면모를 갖춘 초곡에 특별한 경험을 선사하는 스타벅스 포항초곡DT점 입니다.",
+            "address": "경상북도 포항시 북구 흥해읍 동해대로 1354",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차 가능대수 - 36대 (장애인 주차구역 1대, 전기차 충전구역 2대 포함) 4. 주차 조건 - 매장 이용시 무료",
+            "directions": "포항역 영덕 방면 오른쪽 방향, 소티재로-동해대로 방면 힐스테이트초곡아파트 맞은 편 \n*버스 : 121, 308, 580번 성곡1리 하차 영덕방면 CU옆 도로변 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/EV_icon_map.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240805082018_mqn90.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807063009_os0as.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807061103_0rrd9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807061722_42g65.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807061929_xt44i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807062233_rkstq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807062333_vacsc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807062601_ijdj4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807062659_2w4h7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4458]_20240807062908_ihr8m.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 63,
+            "name": "포항두호DT",
+            "description": "안녕하세요. 단조로운 일상 속에서 달콤한 휴식과 특별한 경험을 선사하는 스타벅스 포항두호DT점 입니다.",
+            "address": "경상북도 포항시 북구 새천년대로 1031 (창포동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차 가능대수 - 9대 (장애인 주차구역 1대) 4. 주차 조건 - 매장 이용시 무료",
+            "directions": "창포사거리 우현동 방면 타이어뱅크 옆 도로변 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231106051859_a5num.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231108124816_bvqnc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231108124829_porkt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231108124905_lbdnn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231108124922_6nkns.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231108124957_w9dv3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4400]_20231108125004_6iphd.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        }
+    ]
+}

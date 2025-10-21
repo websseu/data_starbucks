@@ -1,0 +1,1518 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-21",
+    "location": "충북(chungbuk)",
+    "count": 40,
+    "item": [
+        {
+            "number": 1,
+            "name": "충북증평",
+            "description": "편안한 공간, 향기로운 커피로 증평의 새로운 휴양지가 되어 줄 스타벅스 충북증평점입니다.",
+            "address": "충청북도 증평군 증평읍 광장로 40",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 후면 3. 주차가능대수 - (장애인 1대 포함)12대  4. 주차조건 -10분당 500원, 1만원 이상 구매 시 1시간 추가적용 (차량 2대까지 적용가능), 카드로만 정산가능, 무료회차시간 30분",
+            "directions": "증평 군립도서관 맞은편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3674]_20220406023740_ksuk7.png",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3674]_20221015113846_hbkzn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3674]_20221015114048_yl8hd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3674]_20220406023809_cbr64.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3674]_20221015113943_6bk27.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3674]_20220406023837_9hoy1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3674]_20220406023905_vnwk1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/08/[3674]_20190829051954_yw4ud.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 2,
+            "name": "청주용암DT",
+            "description": "도심 속 휴식을 즐길 수 있는 청주지역 다섯 번째 Drive Thru매장입니다.",
+            "address": "충청북도 청주시 상당구 1순환로 1243 (용암동)",
+            "parking": "1.주차가능   2.주차장위치-매장 전면  3.주차가능대수-(장애인 1대 포함) 6대   4.주차조건-무료",
+            "directions": "롯데시네마 청주용암점에서 용암농협 사거리 방면 100m거리에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[3618]_20241107030321_i82sm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3618]_20250822120554_sklpo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3618]_20250822120654_r9fpv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3618]_20250822121301_6yz8q.gif",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[3618]_20250822121350_lsfmw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3618]_20240201081845_xdmbg.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[3618]_20240328073116_67uwa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/3618_20250608063718_rcnpo.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 3,
+            "name": "청주용담DT",
+            "description": "도심 속 휴식을 즐길 수 있는 청주용담 DT매장입니다.",
+            "address": "충청북도 청주시 상당구 산성로 129 (용담동)",
+            "parking": "1.주차가능   2.주차장위치-매장 측면  3.주차가능대수-8대   4.주차조건-무료",
+            "directions": "명암저수지에서 금천동 방면 산성로 우측 (부영 5단지 건너편) 단독 건물에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513115444_n3hb0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513120728_7ygqa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513120613_0v63c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513115550_nkz8h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513120104_3r30z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513115203_ws149.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513115635_3izza.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[3440]_20231101033707_etz9o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3440]_20240513115818_5d2nx.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 4,
+            "name": "청주서문",
+            "description": "쇼핑과 문화생활이 만나는 곳! 거기에 향긋한 커피가 함께하는 청주서문점입니다.",
+            "address": "충청북도 청주시 상당구 무심동로392번길 20 (서문동)",
+            "parking": "1.주차가능   2.주차장위치-입점건물 지하1층(주차타워형)   3.주차가능대수-(장애인 1대 포함) 41대   4.주차조건-조건부 무료 (영수증 지참시, 1시간 무료주차)  5.주차정산방법-출차시 관리인에게 영수증 제시",
+            "directions": "홈플러스 청주성안점 후문 맞은편 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[9713]_20220217042247_v4beg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[9713]_20231222061716_m7lou.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[9713]_20231222062037_st47z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[9713]_20231222062118_okhtw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[9713]_20231222062129_bk1tv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9713]_20221019052246_64b01.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[9713]_20211123113333_phht9.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 09:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 5,
+            "name": "충북도청",
+            "description": "청주의 중심. 바쁜 일상 속 충북도청점에서 여유로운 커피한잔을 즐겨보세요",
+            "address": "충청북도 청주시 상당구 상당로 66 (문화동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 나보나스퀘어 건물 지하 주차장 3. 주차가능대수 - 50대이상 4. 주차조건 - 스타벅스 이용 시 1시간 무료 적용, 카드 결제만 가능 (현금 불가)",
+            "directions": "충북도청 정문 맞은편 나보나스퀘어 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4484]_20231004060706_e6495.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4484]_20231101051622_t2pcw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4484]_20231101051704_hk6g6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4484]_20231004060644_lagu3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4484]_20231004060604_f5bbo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4484]_20231004060630_hl8oh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[4484]_20231004060617_vg1id.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 6,
+            "name": "청주동남",
+            "description": "바쁜 일상 속에서  편안한 안식처가 되는 청주동남점입니다.",
+            "address": "충청북도 청주시 상당구 중고개로141번길 13-16 (용암동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 건물 지하 3. 주차가능대수 - 64대 4. 주차조건 - 스타벅스 이용 고객님에 한해 무료(2시간이내)",
+            "directions": "새늘디아망 빌딩 1층 롯데리아 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4471]_20230903084719_glwu2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4471]_20230907122637_xwy0d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4471]_20230907122707_0l1xb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[4471]_20240530024950_modac.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4471]_20230907122714_b5mfx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4471]_20230907122721_a8x9q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[4471]_20230907122727_fzuf4.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 7,
+            "name": "충주호암DT",
+            "description": "충주 최고의 여유와 낭만을 즐길 수 있는 충주호암DT점 입니다.",
+            "address": "충청북도 충주시 중원대로 3245 (호암동)",
+            "parking": "1.주차가능   2.주차장위치-매장 전면  3.주차가능대수-24대 (장애인 2대 포함)   4.주차조건- 최초무료 30분(이후10분당 500원) / 1만원 이상 구매시 1시간 무료(최대 4시간까지 가능)",
+            "directions": "호암사거리에서 수안보/문경방면으로 300m 대로변에 있습니다. (충주MBC 맞은편)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3750]_20191222061905_ub295.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3750]_20220209104353_7ntwk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3750]_20220209104429_nqmyf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3750]_20191219014946_91hub.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3750]_20191219014942_rj0hx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3750]_20191223083239_b3gah.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 8,
+            "name": "충주시청DT",
+            "description": "도심 속 휴식을 즐길 수 있는 충주지역 첫 번째 Drive Thru매장입니다.",
+            "address": "충청북도 충주시 국원대로 208-1 (금릉동)",
+            "parking": "1.주차가능   2.주차장위치-매장 측면  3.주차가능대수-11대 (장애인 1대 포함)   4.주차조건-무료",
+            "directions": "국원대로 두진 아파트 방면 충주시청 버스 정류장 바로 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3441]_20180619112314_oy3vl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3441]_20180620045652_prg2n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3441]_20180619112326_5kpwk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3441]_20180619112330_df8k3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3441]_20180619112336_g6dna.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3441]_20180619112407_xxbhs.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 9,
+            "name": "충주터미널",
+            "description": "충주의 관문에서 처음 만나는 스타벅스! 쇼핑, 여행, 그리고 한잔의 여유. 여러분의 일상과 함께 합니다~",
+            "address": "충청북도 충주시 봉계13길 2 (봉방동)",
+            "parking": "1.주차가능   2.주차장위치_매장 측면  3.주차가능대수_14대 (장애인 1대 포함)   4.주차조건_최초무료 30분(이후10분당 500원) / 1만원이상 구매시 1시간 무료_일 최대 4시간 무료 가능",
+            "directions": "충주터미널(롯데마트) 맞은편에 위치하고 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3444]_20220211041335_v9tay.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[3444]_20220416125622_i9ttm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3444]_20220217121849_kzjf4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3444]_20220211041358_sqgwh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3444]_20220211041406_r9h3v.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 10,
+            "name": "충주연수",
+            "description": "커피 한 잔 한 잔에 즐거운 이야기가 담겨지는 충주연수점입니다.",
+            "address": "충청북도 충주시 계명대로 227 (연수동)",
+            "parking": "1.주차불가능",
+            "directions": "충주실내체육관에서 금봉대로 방면 전방 100미터 사거리 왼쪽",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9790_20250408104108_7uplz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9790_20250407013547_pbwjb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9790_20250407013851_of2bm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9790_20250407014143_rd905.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9790_20250408104250_789cr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9790_20250407014153_j8kpc.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 11,
+            "name": "충주교현DT",
+            "description": "충주의 새로운 제 3의 공간, 스타벅스 충주교현DT점입니다.",
+            "address": "충청북도 충주시 금봉대로 358 (교현동)",
+            "parking": "1. 매장전면 주차가능 2. 주차가능대수 : 24대(장애인 주차구역 1대 포함) 3. 무료주차",
+            "directions": "남산등산로 입구에서 안림사거리 방면으로 약 300m (안림동 농협하나로마트 앞)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4118]_20220323111052_fuydu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4118]_20220323111133_ar5tm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4118]_20220323111142_b21jh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4118]_20220323111148_ho8t3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4118]_20220323111155_1ykeg.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "충북혁신도시",
+            "description": "도심 속 휴식을 즐길 수 있는 충북혁신도시의 첫번째 매장입니다.",
+            "address": "충청북도 음성군 맹동면 원중로 1416",
+            "parking": "1. 주차가능 2.주차장위치- 건물 지하주차장  3. 주차가능대수- (장애인2대포함) 26대 4. 주차조건- 스타벅스 이용고객님에 한해 무료(1시간이내)",
+            "directions": "한국가스안전공사 본사라인 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015007_rqqsl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015011_4x2ya.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015015_fbbmh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015019_2ehcj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015023_pchdv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015026_ofyl6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3971]_20211122015030_o0nuv.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "제천DT",
+            "description": "안녕하세요.제천 지역의 첫 Drive Thru 매장. 언제나 편안하고 고객에게 행복을 드리는 스타벅스 제천DT점 입니다.",
+            "address": "충청북도 제천시 의림대로 181 (중앙로2가)",
+            "parking": "1.주차가능   2.주차장위치-매장 후면  3.주차가능대수-19대 (장애인 2대 포함) 4.주차조건- 최초무료 30분(이후10분당 500원) / 1만원 이상 구매시 1시간 무료(최대 4시간까지 가능)",
+            "directions": "중앙교차로에서 세명대학교, 의림지 방면으로 300M 거리 좌측 건물입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3461]_20180903055219_t43yc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3461]_20211111064203_gjyvi.png",
+                "https://image.istarbucks.co.kr//upload/store/2021/01/[3461]_20210124061055_o3u1u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3461]_20180903055245_t2iht.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3461]_20180903055231_ywsv8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3461]_20180903055302_qb23l.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 14,
+            "name": "제천하소DT",
+            "description": "잠시 머물다 가고 싶은 새로운 휴식공간, 스타벅스 제천하소DT점 입니다.",
+            "address": "충청북도 제천시 용두대로 55 (하소동)",
+            "parking": "1. 주차가능 2. 매장 전면 주차불가하며 매장 뒤쪽 주차장 이용(장애인 주차구역은 매장 전면에 위치) 3. 주차가능 대수 : 16대(장애인 주차구역 1대 포함) 4. 주차조건- 최초무료 30분(이후10분당 500원) / 1만원 이상 구매시 1시간 무료(최대 4시간까지 가능)",
+            "directions": "제천경찰서에서 롯데마트 방면으로 약 300m / 주차장은 매장 도착진전 골목으로 진입하셔야 합니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231122031644_ikzsx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231121102047_cgkyz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231121102058_jhz3j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231121102107_gih8t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231121102117_cuye7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231121102126_sl2g1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4308]_20231122031701_dvfum.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 15,
+            "name": "제천장락DT",
+            "description": "아름다운 자연풍경을 느낄 수 있는 마음 편한 곳",
+            "address": "충청북도 제천시 내토로 824 (장락동)",
+            "parking": "1.주차가능   2.주차장위치-매장 전면  3.주차가능대수-20대 (장애인 1대 포함)   4.주차조건- 최초무료 30분(이후10분당 500원) / 1만원 이상 구매시 1시간 무료(최대 4시간까지 가능)",
+            "directions": "내토중학교에서 장락삼거리 방향에 위치100m이내 거리",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240819034002_gjx84.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821083929_1rnh3.jpeg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821083942_mn1vr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821084007_8ts1c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821084020_owrr4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821084030_r7nmy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821084040_cy619.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821084129_x2yaw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4418]_20240821084147_hrvg0.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 16,
+            "name": "청주비하DT",
+            "description": "도심 속 휴식을 즐길 수 있는 Drive Thru 매장입니다.",
+            "address": "충청북도 청주시 흥덕구 2순환로 1078 (비하동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차가능 대수 - 8대 4. 주차조건 - 스타벅스 이용 고객님에 한해 무료 주차(2시간이내)",
+            "directions": "서청주IC - 청주터미널 방면 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3783]_20230105092447_2cnhn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3783]_20230105092410_9sqeq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3783]_20230105090856_hkfxt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3783]_20230105093234_6d9k7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3783]_20230105092205_9g2ak.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3783]_20230105092221_pisbl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[3783]_20240404112427_f487i.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 17,
+            "name": "청주오송",
+            "description": "설레이는 여행의 시작과 편안한 일상이 함께하는 오송의 첫번째 매장입니다.",
+            "address": "충청북도 청주시 흥덕구 오송읍 오송생명로 222",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차가능 대수 - 15대 4. 주차조건 - 1만원이상 구입시 1만원당  1시간 무료 (일 최대 4시간 30분 가능),  무료회차  30분(이후 10분당 500원),  카드결제만 가능(현금 불가)",
+            "directions": "오송역에서 오송생명과학산업단지 방면 만수교차로에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3490]_20231009084851_u1eit.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[3490]_20240202042033_r3hj0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3490]_20230102095359_ptqik.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3490]_20230102095207_folej.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3490]_20231009090101_6bft4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3490]_20231009090117_a00vw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3490]_20231009085015_2c0sj.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 18,
+            "name": "청주봉명DT",
+            "description": "도심 속 휴식을 즐길 수 있는 청주지역 두 번째 Drive Thru매장입니다.",
+            "address": "충청북도 청주시 흥덕구 1순환로 514 (봉명동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차가능대수 - 5대 4. 주차조건 - 스타벅스 이용 고객님에 한해 무료(2시간이내)",
+            "directions": "청주농수산물 시장방향 동명주유소 우측 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250317045144_8w1oz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250319105735_xoomi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250319105606_ke08q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250317115403_yci61.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250317045351_kmm0h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250317045405_hpqo9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[3165]_20250317115609_p6083.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 19,
+            "name": "청주강서",
+            "description": "바쁜 일상 속에서 편안한 안식처가 되는 청주강서점입니다.",
+            "address": "충청북도 청주시 흥덕구 강서로 121 (강서동)",
+            "parking": "1. 주차 불가능",
+            "directions": "청주 고속 터미널 건너편(시외버스 터미널 대각선 방향) \n하이마트 건너편(베스킨라빈스 옆) 1층.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[9943]_20250122083736_8dg64.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[9943]_20250122085042_g7q9w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[9943]_20250122083741_amrs0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[9943]_20250122085103_vir5q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9943]_20240421024635_29zdn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9943]_20240421024640_z97b4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9943]_20240421024644_3zl0l.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 20,
+            "name": "청주지웰시티",
+            "description": "보다 편안하고 아늑한 곳, 그리고 향기로운 커피와 귀를 즐겁게 해주는 음악이 함께하는 청주지웰시티점입니다.",
+            "address": "충청북도 청주시 흥덕구 대농로 43 (복대동) 신영지웰시티 1차 상업시설",
+            "parking": "1. 주차가능 2. 주차장 위치 -지웰시티몰 지하주차장 3 . 주차가능대수 - 100대이상 4. 주차조건 - 매장내 테블릿 PC에 차량 번호 등록(2시간)_금액 무관",
+            "directions": "대농지구내 주상복합 지웰시티몰 상가 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012601_06q8n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012612_eivjs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012623_950ta.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012635_3zdf7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012642_eht5i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012649_lrihb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9555]_20230105012654_us7lm.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 21,
+            "name": "현대충청",
+            "description": "충북 청주의 랜드마크인 현대백화점내 위치한 스타벅스, 현대충청점입니다!",
+            "address": "충청북도 청주시 흥덕구 직지대로 308 (복대동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 현대백화점 주차장(지상1F/ 지하2F~3F)  3. 주차가능대수 - 100대이상  4. 주차조건 - 매장내 테블릿 PC에 차량 번호 등록(1시간)_금액 무관",
+            "directions": "현대백화점 충청점 U-Plex 지하 1층 위치\n# 휴점일: 현대백화점 충청점 휴점일과 동일합니다",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[9732]_20230701111231_hccqb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[9732]_20230701111250_ppmve.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[9732]_20230701111535_jcq1l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[9732]_20230701111757_3kffd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[9732]_20230701111352_krkaa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[9732]_20230701111657_hjfx7.jpg"
+            ],
+            "hours": [
+                "22일 수요일 10:30 ~ 20:00",
+                "23일 목요일 10:30 ~ 20:00",
+                "24일 금요일 10:30 ~ 20:30",
+                "25일 토요일 10:30 ~ 20:30",
+                "26일 일요일 10:30 ~ 20:30",
+                "27일 월요일 10:30 ~ 20:00",
+                "28일 화요일 10:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 22,
+            "name": "청주터미널",
+            "description": "복합쇼핑몰에 위치하여 쇼핑과 휴식을 한번에 즐길 수 있는 제 3의 공간, 청주터미널점입니다.",
+            "address": "충청북도 청주시 흥덕구 풍산로 15 (가경동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 건물내 지하주차장 3. 주차가능대수 - 100대이상 4. 주차조건 - 매장 이용 금액 10,000원 이상 결제시 1시간 / 30,000원 이상 결제시 2시간 / 50,000원 이상 결제시 3시간 적용가능 (주차 등록시 영수증 지참 필요)/ 영수증 1장당 1대만 가능",
+            "directions": "청주시외 버스 터미널 건너편에 위치한 롯데마트 청주점 내에 위치\n(메가폴리스 1층)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/07/[9607]_20180704122341_ip1xu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[9607]_20240201115246_k2zbd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9607]_20241031103724_3evjp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[9607]_20241031103738_k0o2h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9607]_20230108061139_wpy2v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9607]_20230108061637_d12nd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9607]_20230108061645_pyoox.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 23,
+            "name": "커넥트현대청주",
+            "description": "",
+            "address": "충청북도 청주시 흥덕구 2순환로 1225 (가경동)",
+            "parking": "1.주차가능 2. 주차위치 : 지하 아울렛 전용주차장 3. 주차가능대수 : 300대이상 4. 주차조건 : 스타벅스 결제금액 1만원 이상 1시간 무료/3만원 이상 2시간 무료 (최대 중복 할인 5시간) 5. 주차 정산 요금 방법 : 파트너에게 주차 등록 요청",
+            "directions": "NC백화점 옆 청주센트럴시티 1층, 커넥트현대 G층에 위치해 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250623052622_bqt0w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250623052810_n7umb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250623052846_9tmdt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/4674_20250919025858_o5ykv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250620062149_egres.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250620062142_o1e16.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250623053344_ylerd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/06/4674_20250623053356_lsr82.jpg"
+            ],
+            "hours": [
+                "22일 수요일 10:30 ~ 21:00",
+                "23일 목요일 10:30 ~ 21:00",
+                "24일 금요일 10:30 ~ 21:00",
+                "25일 토요일 10:30 ~ 21:00",
+                "26일 일요일 10:30 ~ 21:00",
+                "27일 월요일 10:30 ~ 21:00",
+                "28일 화요일 10:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 24,
+            "name": "오송바이오산업단지",
+            "description": "바쁜 일상 속에서 여유를 찾을 수 있는 오송바이오산업단지점입니다.",
+            "address": "충청북도 청주시 흥덕구 오송읍 오송생명로 159 오송생명로 159",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 전면 3. 주차가능 대수 - 10대 4. 주차조건 - 1만원이상 구입시 1만원당  1시간 무료 (일 최대 4시간 가능),  무료회차  30분(이후 10분당 500원),  카드결제만 가능(현금 불가)",
+            "directions": "만수교차로에서 오송생명과학단지, 충북경제자유구역청 방면 650m 거리 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4236]_20230504060741_epfr4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4236]_20240808101707_4yqd4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4236]_20240808101719_nwaal.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4236]_20230404041500_tjwzt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4236]_20230404041328_9jt2z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/04/[4236]_20230404041554_5izhx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4236]_20230504060934_yxd4w.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 06:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 25,
+            "name": "청주서현",
+            "description": "도심 속 편안한 쉼이 있는 곳, 커피 한 잔의 여유를 즐길 수 있는 청주서현점입니다.",
+            "address": "충청북도 청주시 흥덕구 서현로 60 (가경동) 121호,122호,123호,124호",
+            "parking": "1. 주차가능 2 주차장위치 - 입점건물 지하 1~2층 3. 주차가능대수- 115대 4. 주차조건 - 스타벅스 이용 고객님에 한해 무료(3시간이내) , 매장내 테블릿 PC에 차량 번호 등록(3시간)_금액 무관",
+            "directions": "청주 가로수 도서관 맞은편 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4430]_20230320051008_0pknf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4430]_20241102095704_n2szv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4430]_20241102095933_occqi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4430]_20230327111229_33g7f.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4430]_20230320051032_ayk6a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4430]_20230321103821_jh2s5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/03/[4430]_20230321103208_9mezr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4430]_20240312123400_4xqsj.jpg"
+            ],
+            "hours": []
+        },
+        {
+            "number": 26,
+            "name": "청주복대지웰",
+            "description": "반가운 인사와 일상 속 편안함이 함께하는 제 3의 공간 청주복대지웰점입니다.",
+            "address": "충청북도 청주시 흥덕구 대농로 52 (복대동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 건물내 뒷편 3. 주차가능대수 - 10대 4. 주차조건 - 스타벅스 이용 고객님에 한해 무료(2시간이내)",
+            "directions": "충북 청주시 흥덕구 대농로 52, 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4013]_20230107093508_x4o34.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4013]_20230728041444_y8j6e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/07/[4013]_20230728041343_2u728.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4013]_20220215030716_cuo91.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4013]_20220215030754_ppwbh.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 27,
+            "name": "오송파라곤",
+            "description": "",
+            "address": "충청북도 청주시 흥덕구 오송읍 오송생명7로 136 오송생명7로 136 103호,104호",
+            "parking": "1. 주차대수 : 49대 2. 주차장 위치: 건물내 지하 3. 구매고객 2시간무료 4. 회차30분무료 5. 기본요금 3,000원 / 추가10분당 500원/ 1일 최대 요금 50,000원 (주차문의1544-7116)",
+            "directions": "오송메디프라자 빌딩 1층, 인근 버스 정류장 (바이오폴리스B2지구)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4540]_20240604090518_wubej.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4540]_20240604042433_qbw3d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4540]_20240604042545_n0x0d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4540]_20240604042638_avi3y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/06/[4540]_20240604042647_t3d5f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[4540]_20241022100044_9r5vl.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 06:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 28,
+            "name": "청주이마트",
+            "description": "",
+            "address": "충청북도 청주시 서원구 청남로 1853 (미평동)",
+            "parking": "1.주차가능   2.주차장위치-입점건물 2~4층   3.주차가능대수-500대 이상   4.주차조건-조건부 무료 (영수증 지참시, 2시간 무료주차)  5.주차정산방법-출차시 주차 정산기에서 정산 진행",
+            "directions": "이마트 청주점 1층 주출입문 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3885]_20231031033520_tlvo0.PNG",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3885]_20231031033549_1d882.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3885]_20231031033601_b5bf3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3885]_20231031033629_cfdh2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3885]_20231031033542_ah5yn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3885]_20231031033534_viw1i.jpg"
+            ],
+            "hours": [
+                "22일 수요일 휴점",
+                "23일 목요일 10:00 ~ 21:00",
+                "24일 금요일 10:00 ~ 21:30",
+                "25일 토요일 10:00 ~ 21:30",
+                "26일 일요일 10:00 ~ 21:00",
+                "27일 월요일 10:00 ~ 21:00",
+                "28일 화요일 10:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 29,
+            "name": "청주사직DT",
+            "description": "스타벅스 커피와 어디든 떠날 수 있는 곳, 청주의 중심에 위치한 청주사직DT점 입니다.",
+            "address": "충청북도 청주시 서원구 사직대로 302 (사직동)",
+            "parking": "1.주차가능   2.주차장위치-매장 후면  3.주차가능대수- (장애인 2대 포함) 24대   4.주차조건-: 10분당 500원, 1만원 미만 구매 시 1시간 추가적용 (차량 2대까지 적용가능), 카드로만 정산가능, 무료회차시간 30분",
+            "directions": "사직사거리에서 충청북도청 방면  200m 거리에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3616]_20220106041927_phkuf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[3616]_20221211060654_lyxgg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3616]_20230102033019_twt1e.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[3616]_20221211060713_hv05n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[3616]_20221211060719_vlsdb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[3616]_20221215102446_cf8x9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[3616]_20221211060923_uqeoo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[3616]_20221211061011_ap1wq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 30,
+            "name": "청주성화",
+            "description": "최고의 맛과 특별한 감동을 선사하는 도심 속의 힐링 공간",
+            "address": "충청북도 청주시 서원구 복대로 5 (개신동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 건물 뒤 안김빌딩 야외주차장 및 지하 주차장 3. 주차가능대수 - 야외주차장(38대), 지하주차장(20대) 4. 주차조건 - 10분 회차/2만원 미만 1시간 할인(최대1대) / 2만원 이상 2시간 할인(최대 2대)",
+            "directions": "모태안 여성병원에서 KBS 방향으로 200m 직진(개신동 맥도날드 대각선 방향 위치)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119102908_us9jo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119102928_w8mis.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119102937_kp1fk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119102942_56iwu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119102948_1cpyf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119102957_lmltf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3164]_20250119103001_kggdx.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 31,
+            "name": "충북대",
+            "description": "싱그러운 열정이 가득한 제 3의 공간 스타벅스 충북대점 입니다.",
+            "address": "충청북도 청주시 서원구 내수동로 113 (사창동)",
+            "parking": "1. 주차불가능 (인근에  유료공영주차장 있음)",
+            "directions": "충대중문 입구 삼거리에서 정문 방향으로 내려가는 길 50m 지점에 위치 (투썸플레이스/뚜레주르 맞은편)",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208111740_4v8on.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208111737_nzfux.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208111756_jqo91.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208111734_uqjij.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208111731_7quj0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208112228_ildk8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9746]_20230208111753_oxn8b.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 32,
+            "name": "충북대학교병원",
+            "description": "커피 한 잔의 힐링과 일상 속 쉼표가 되어드릴 스타벅스 충북대학교병원점 입니다.",
+            "address": "충청북도 청주시 서원구 1순환로 776 (개신동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 지상 주차타워, 지하 주차장 3. 주차가능대수 - 100대이상 4. 주차조건 - 병원 주차 이용 기준에 따라 요금 부과 (스타벅스 이용객 별도 주차지원 없음), 진료예약 2시간 무료, 외래진료4시간 무료",
+            "directions": "충북대학교병원 통합로비 2층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4559]_20240703111123_fx4z5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4559]_20240703111145_mw2pm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4559]_20240909104906_2g332.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4559]_20240703111216_l5pbe.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 19:00",
+                "23일 목요일 07:00 ~ 19:00",
+                "24일 금요일 07:00 ~ 19:00",
+                "25일 토요일 09:00 ~ 17:00",
+                "26일 일요일 09:00 ~ 17:00",
+                "27일 월요일 07:00 ~ 19:00",
+                "28일 화요일 07:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 33,
+            "name": "청주분평DT",
+            "description": "그림 같은 노을이 아름다운 곳, 커피 한 잔의 여유와 Drive Thru의 편리함이 함께 하는 청주분평DT점입니다.",
+            "address": "충청북도 청주시 서원구 1순환로 1154 (분평동)",
+            "parking": "1.주차가능   2.주차장위치-매장후면   3.주차가능대수-49대(장애인주차구역  3대포함)   4. 주차조건 - 구매시 1시간 30분 무료(이후 10분당 500원) , 1만원이상 구입시 1만원당  1시간  추가 무료 (일 최대 4시간 30분),  카드결제만 가능(현금 불가))",
+            "directions": "분평 주공5단지 아파트 맞은편 대로변에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/09/[3989]_20230920083100_y7b6d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[3989]_20240909102908_4mocw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[3989]_20240909103401_96tkt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3989]_20211211111518_ksa1f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3989]_20211211111529_2pwlq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3989]_20211211111547_6qg5l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3989]_20211211111554_9wmcu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[3989]_20211211111836_gjqox.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 34,
+            "name": "충북대캠퍼스",
+            "description": "국립대학교 교내 입점 1호점",
+            "address": "충청북도 청주시 서원구 충대로 1 (개신동, 충북대학교) 제1학생회관 1층",
+            "parking": "1. 주차가능 2. 주차장 위치 - 충북대학교 캠퍼스내 지상 주차장 3. 주차가능대수 - 100대이상 4. 주차조건 - 교내 주차 이용 기준에 따라 요금 부과 (스타벅스 이용객 별도 주차지원 없음)",
+            "directions": "충북대학교 캠퍼스 내 제1학생회관 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4582]_20240909031154_0j10d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4582]_20240909103332_17a6v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4582]_20240909103349_5v389.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4582]_20240909103402_zxfb2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4582]_20240909103415_flnbq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 20:00",
+                "26일 일요일 08:00 ~ 20:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 35,
+            "name": "오창호수공원",
+            "description": "호수공원의 아름다운 풍경을 닮은 매장입니다.",
+            "address": "충청북도 청주시 청원구 오창읍 중심상업1로 20 101,102,103,104호",
+            "parking": "1. 주차가능 2. 주차장 위치 - 청주북부오창터미널 맞은 편 중심상업1로 20 (LK트리플렉스2) 지하 1층 3. 주차가능대수 - 50대이상 4. 주차조건 - 스타벅스 이용 시 2시간 무료 적용 (일 최대 2시간), 무료 회차 10분 (이후 10분당 500원), 카드 결제만 가능 (현금 불가)",
+            "directions": "홈플러스 오창점 옆 중심상업1로 20 (LK트리플렉스2) 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3347]_20220203023829_e0vuc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3347]_20231024092446_5f2b6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[3347]_20231024092458_w0wqm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3347]_20220203023937_aoi7c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3347]_20220203024009_b4r7m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3347]_20220203023956_6y71s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3347]_20220203024221_chhae.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 36,
+            "name": "청주율량DT",
+            "description": "충북지역 최초 Drive Thru ! 특별한 서비스를 경험할 수 있는 청주율량DT점입니다.",
+            "address": "충청북도 청주시 청원구 충청대로107번길 8 (율량동)",
+            "parking": "1.주차가능   2.주차장위치-매장전면   3.주차가능대수-4대   4.주차조건-무료",
+            "directions": "청주 엔포드 호텔  건너편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3178]_20220223120832_b7eqq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3178]_20211126121012_c2g0p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3178]_20211126121116_wk5jc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3178]_20211126121039_cd5r7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3178]_20211126121046_hb8oo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3178]_20211126121109_m2gsm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[3178]_20211126121104_lmo85.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[3178]_20220223120924_358ko.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 06:30 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 37,
+            "name": "오창과학단지",
+            "description": "오창 호수공원의 여유로운 풍경을 닮은 오창의 첫 번째 매장입니다.",
+            "address": "충청북도 청주시 청원구 오창읍 과학산업2로 385",
+            "parking": "1. 주차가능 2. 주차장 위치 - 건물 뒷편 주차장에 주차가능",
+            "directions": "오창 호수공원 버스 정류장(오창 과학단지 종점방면) 맞은 편",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9812]_20240422040038_q09mf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[9812]_20231019025846_pda35.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/10/[9812]_20231019115927_xhnco.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9812]_20220820045033_r9qwt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9812]_20230112054945_evu7j.png",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9812]_20230112054954_pgijm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9812]_20230112055003_oygpy.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 38,
+            "name": "청주주성",
+            "description": "도심 속 힐링 스팟,  바쁜 일상 속 청주주성점에서 여유로운 커피 한 잔을 즐겨보세요",
+            "address": "충청북도 청주시 청원구 주성로279번길 27-19 (주성동)",
+            "parking": "1.주차가능   2.주차장위치-매장전면   3.주차가능대수-3대   4.주차조건-무료",
+            "directions": "GS 더프레시 건물 뒷편  단독 건물 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4447]_20240227062653_3rdm7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4447]_20240909104659_k4om5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4447]_20240909104719_4h7w3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4447]_20240227062729_fms06.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4447]_20240226091200_60n68.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4447]_20240226091228_lspv7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4447]_20240226091251_b4y7l.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4447]_20240227062530_575we.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 39,
+            "name": "오창2산단",
+            "description": "도심 속의 힐링 공간",
+            "address": "충청북도 청주시 청원구 오창읍 2산단로 114 오창읍 2산단로 114",
+            "parking": "1. 주차가능 2. 주차장 위치 - 건물 뒷편 주차장 4대  주차가능",
+            "directions": "오창2산단로 청주청원경찰서 오창지구대 건너편 건물 1층 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4564]_20240805084503_g05zk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4564]_20240909105140_c3o8r.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4564]_20240909105154_vmh3m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4564]_20240909105430_kg8kp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[4564]_20240805084531_cfr5y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/09/[4564]_20240909105207_f0ouq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 21:00",
+                "23일 목요일 07:30 ~ 21:00",
+                "24일 금요일 07:30 ~ 21:00",
+                "25일 토요일 07:30 ~ 21:00",
+                "26일 일요일 07:30 ~ 21:00",
+                "27일 월요일 07:30 ~ 21:00",
+                "28일 화요일 07:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 40,
+            "name": "충북혁신덕산",
+            "description": "바쁜 일상속 여유로운 한잔의 커피를 느낄 수 있는 충북혁신덕산점 입니다.",
+            "address": "충청북도 진천군 덕산읍 연미1길 11",
+            "parking": "매장내 주차장 보유(17대 가능)",
+            "directions": "덕산생활지원센터 맞은편, 덕산대화공원 맞은편 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4269]_20230503080006_6vukl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4269]_20230502055404_wtnu1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4269]_20230502055409_lpz8c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4269]_20230502055414_u3icf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4269]_20230502055418_sl2ua.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/05/[4269]_20230502055315_hqwv0.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        }
+    ]
+}
