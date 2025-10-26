@@ -5,174 +5,195 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from bs4 import BeautifulSoup
 from datetime import datetime
-import os
-import re
-import time
-import json
+import os, re, time, json
 
-# 현재 날짜를 문자열로 저장
+# ==============================
+# 1️⃣ 기본 설정
+# ==============================
 current_date = datetime.now().strftime("%Y-%m-%d")
-
-# 안전한 데이터 추출 함수
-def safe_extract(soup, dt_string, default=""):
-    """안전하게 dt 태그를 찾아 다음 dd 태그의 텍스트를 추출"""
-    try:
-        element = soup.find("dt", string=dt_string)
-        if element and element.find_next_sibling("dd"):
-            return element.find_next_sibling("dd").text.strip()
-        return default
-    except:
-        return default
-
-def safe_extract_images(soup, dt_string):
-    """안전하게 이미지 URL 리스트를 추출"""
-    try:
-        element = soup.find("dt", string=dt_string)
-        if element and element.find_next_sibling("dd"):
-            imgs = element.find_next_sibling("dd").find_all("img")
-            return [f"https:{img['src']}" for img in imgs]
-        return []
-    except:
-        return []
-
-# details 폴더 생성
 current_year = datetime.now().strftime("%Y")
 base_folder_path = os.path.join("details", current_year, "gyeonggi")
 os.makedirs(base_folder_path, exist_ok=True)
 
-# 웹드라이버 설정 및 페이지 로드
+def safe_extract(soup, dt_string, default=""):
+    """dt 텍스트로 dd 내용 추출"""
+    try:
+        el = soup.find("dt", string=re.compile(dt_string))
+        if el:
+            dd = el.find_next_sibling("dd")
+            if dd:
+                return dd.get_text(strip=True)
+    except Exception:
+        pass
+    return default
+
+def safe_extract_images(soup, dt_string):
+    """dt 제목으로 이미지 URL 리스트 추출 (https 처리)"""
+    try:
+        el = soup.find("dt", string=re.compile(dt_string))
+        if el:
+            dd = el.find_next_sibling("dd")
+            if dd:
+                imgs = dd.find_all("img")
+                urls = []
+                for img in imgs:
+                    src = img.get("src", "")
+                    if not src:
+                        continue
+                    if src.startswith("//"):
+                        src = "https:" + src
+                    elif not src.startswith("http"):
+                        src = "https://" + src
+                    urls.append(src)
+                return urls
+    except Exception:
+        pass
+    return []
+
+# ==============================
+# 2️⃣ WebDriver 설정
+# ==============================
 options = ChromeOptions()
-options.add_argument("--headless")
+# options.add_argument("--headless")
 options.add_argument("--no-sandbox")
-options.add_argument("--disable-dev-shm-usage") 
+options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--disable-gpu")
 options.add_argument("--disable-infobars")
 options.add_argument("--disable-notifications")
+options.add_argument("--disable-software-rasterizer")
+options.add_argument("--disable-extensions")
+options.add_argument("--no-first-run")
+options.add_argument("--no-default-browser-check")
+options.add_argument("--disable-blink-features=AutomationControlled")
+
 options.add_experimental_option("prefs", {
-    "profile.default_content_setting_values.geolocation": 2,  
-    "profile.default_content_setting_values.notifications": 2  
+    "profile.default_content_setting_values.geolocation": 2,
+    "profile.default_content_setting_values.notifications": 2
 })
+
 browser = webdriver.Chrome(options=options)
+wait = WebDriverWait(browser, 15)
+
+# ==============================
+# 3️⃣ 지역 선택 (경기 전체)
+# ==============================
 browser.get("https://www.starbucks.co.kr/store/store_map.do")
-time.sleep(10)
+time.sleep(8)
 
-
-# 클릭 및 이동
-browser.find_element(By.CSS_SELECTOR, "#container > div > form > fieldset > div > section > article.find_store_cont > article > header.loca_search > h3 > a").click()
+browser.find_element(By.CSS_SELECTOR, "#container .loca_search h3 > a").click()
+time.sleep(2)
+browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(2)").click()  # 경기
+time.sleep(2)
+browser.find_element(By.CSS_SELECTOR, "#mCSB_2_container > ul > li:nth-child(1) > a").click()  # 전체
 time.sleep(3)
-print("지역검색 버튼을 클릭했습니다.")
-browser.find_element(By.CSS_SELECTOR, ".loca_step1_cont .sido_arae_box li:nth-child(2)").click()
-time.sleep(3) 
-print("경기 버튼을 클릭했습니다.")
-browser.find_element(By.CSS_SELECTOR, "#mCSB_2_container > ul > li:nth-child(1) > a").click()
-time.sleep(3) 
-print("전체선택 버튼을 클릭했습니다.")
 
-# 전체 점포 리스트 가져오기
 stores = browser.find_elements(By.CSS_SELECTOR, ".quickSearchResultBoxSidoGugun .quickResultLstCon")
+print(f"🔍 경기 매장 {len(stores)}개 감지됨\n")
 
-# 모든 점포 데이터를 저장할 리스트
 store_data_list = []
 
-# 모든 점포에 대해 순차적으로 작업
+# ==============================
+# 4️⃣ 매장별 상세 추출 (중간저장 없음)
+# ==============================
 for index, store in enumerate(stores):
     try:
-        # JavaScript를 사용하여 요소 클릭
         browser.execute_script("arguments[0].click();", store)
-        time.sleep(2)
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".map_marker_pop header")))
+        time.sleep(0.8)
 
-        # 점포 이름과 주소 추출
         store_name = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop header").text.strip()
         store_address = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .addr").text.strip()
 
-        # "상세 정보 보기" 버튼 클릭
-        detail_button = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
-        browser.execute_script("arguments[0].click();", detail_button)
-        time.sleep(2) 
-        print(f"상세 정보 보기 버튼을 클릭했습니다. ({index + 1}/{len(stores)})")
+        # 상세 보기 클릭
+        detail_btn = browser.find_element(By.CSS_SELECTOR, ".map_marker_pop .btn_marker_detail")
+        browser.execute_script("arguments[0].click();", detail_btn)
 
-        # 상세 정보 페이지의 HTML 가져오기
-        detail_page_html = browser.page_source
-        soup = BeautifulSoup(detail_page_html, 'html.parser')
+        wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, ".shopArea_pop01_inner")))
+        time.sleep(1.2)
 
-        # 각종 정보 추출 (안전하게)
-        try:
-            store_description = soup.select_one(".shopArea_pop01 .asm_stitle p").text.strip()
-        except:
-            store_description = ""
+        # BeautifulSoup으로 정보 파싱
+        soup = BeautifulSoup(browser.page_source, "html.parser")
 
-        store_parking_info = safe_extract(soup, "주차정보", "")
-        store_directions = safe_extract(soup, "오시는 길", "")
+        store_description = soup.select_one(".shopArea_pop01 .asm_stitle p")
+        store_description = store_description.get_text(strip=True) if store_description else ""
 
-        # 서비스 이미지 URL 리스트 추출 (안전하게)
+        store_parking = safe_extract(soup, "주차정보")
+        store_directions = safe_extract(soup, "오시는 길")
         store_services = safe_extract_images(soup, "서비스")
-
-        # 위치 및 시설 이미지 URL 리스트 추출 (안전하게)
         store_facilities = safe_extract_images(soup, "위치 및 시설")
 
-        # 이미지 URL 리스트 추출
-        try:
-            image_urls = [
-                f"https:{img['src']}" for img in soup.select(".shopArea_left .s_img li img")
-            ]
-        except:
-            image_urls = []
+        # 이미지 추출
+        image_urls = []
+        for img in soup.select(".shopArea_left .s_img li img"):
+            src = img.get("src", "")
+            if not src:
+                continue
+            if src.startswith("//"):
+                src = "https:" + src
+            elif not src.startswith("http"):
+                src = "https://" + src
+            image_urls.append(src)
 
-        # 영업 시간 추출
+        # 영업시간 추출
         store_hours = []
         try:
-            hours_sections = soup.select(".date_time dl")
-            for dl in hours_sections:
-                dt_tags = dl.select("dt")
-                dd_tags = dl.select("dd")
-                store_hours.extend([
-                    ' '.join(f"{dt.text} {dd.text}".split()) for dt, dd in zip(dt_tags, dd_tags)
-                ])
-        except:
-            store_hours = []
+            hours_elems = browser.find_elements(By.CSS_SELECTOR, ".date_time dl")
+            for dl in hours_elems:
+                dts = dl.find_elements(By.TAG_NAME, "dt")
+                dds = dl.find_elements(By.TAG_NAME, "dd")
+                for dt, dd in zip(dts, dds):
+                    text = f"{dt.text.strip()} {dd.text.strip()}"
+                    if text.strip():
+                        store_hours.append(text)
+            store_hours = list(dict.fromkeys(store_hours))
+        except Exception as e:
+            print(f"⏰ 시간 파싱 실패: {e}")
 
-        # JSON 데이터 생성
+        # 데이터 저장
         store_data = {
-            "number": index + 1, 
+            "number": index + 1,
             "name": store_name,
             "description": store_description,
             "address": store_address,
-            "parking": store_parking_info,
+            "parking": store_parking,
             "directions": store_directions,
             "phone": "1522-3232",
             "services": store_services,
             "facilities": store_facilities,
             "images": image_urls,
-            "hours": store_hours, 
+            "hours": store_hours
         }
+
         store_data_list.append(store_data)
+        print(f"✅ {index + 1}/{len(stores)}: {store_name} ({len(store_hours)}시간)")
 
-        # 상세 정보 창 닫기
-        close_button = browser.find_element(By.CSS_SELECTOR, ".btn_pop_close .isStoreViewClosePop")
-        browser.execute_script("arguments[0].click();", close_button)
-        time.sleep(2)
-        
     except Exception as e:
-        print(f"매장 {index + 1} 처리 중 오류 발생: {str(e)}")
-        continue
+        print(f"⚠️ {index + 1}번째 매장 오류: {e}")
 
-# JSON 파일 구조화
-final_data = {
-    "kind": "Korea Starbucks",
-    "date": current_date,
-    "location": "경기(gyeonggi)",
-    "count": len(store_data_list),
-    "item": store_data_list
-}
+    finally:
+        # 팝업 닫기
+        try:
+            close_btn = browser.find_element(By.CSS_SELECTOR, ".isStoreViewClosePop")
+            browser.execute_script("arguments[0].click();", close_btn)
+            wait.until_not(EC.presence_of_element_located((By.CSS_SELECTOR, ".shopArea_pop01_inner")))
+            time.sleep(0.5)
+        except:
+            pass
 
-# JSON 파일 저장
-output_file_path = os.path.join(base_folder_path, f"gyeonggi_{current_date}.json")
-with open(output_file_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, ensure_ascii=False, indent=4)
+# ==============================
+# 5️⃣ 최종 저장 (한 번만)
+# ==============================
+output_path = os.path.join(base_folder_path, f"gyeonggi_{current_date}_all.json")
+with open(output_path, "w", encoding="utf-8") as f:
+    json.dump({
+        "kind": "Korea Starbucks",
+        "date": current_date,
+        "location": "경기(gyeonggi)",
+        "count": len(store_data_list),
+        "item": store_data_list
+    }, f, ensure_ascii=False, indent=4)
 
-print(f"파일이 저장되었습니다: {output_file_path}")
-print(f"총 {len(store_data_list)}개 매장 정보 수집 완료")
+print(f"\n💾 전체 {len(store_data_list)}개 매장 저장 완료 → {output_path}")
 
-# 브라우저 닫기
 browser.quit()
-
+print("\n✅ [경기도] 전체 크롤링 완료 (한 번에 완전 저장판)")

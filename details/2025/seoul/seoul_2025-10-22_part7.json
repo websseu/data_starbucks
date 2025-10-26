@@ -1,0 +1,2215 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-22",
+    "location": "서울(seoul)",
+    "count": 59,
+    "item": [
+        {
+            "number": 601,
+            "name": "회기역사거리",
+            "description": "따뜻한 커피와 따뜻한 미소, 행복한 공간이 있는 회기역사거리점 입니다.",
+            "address": "서울특별시 동대문구 이문로 37 (회기동)",
+            "parking": "1.주차가능  2.입점건물 지하  3. 주차가능대수 -4대 이상  4.주차조건-조건부 무료 (구매영수증 지참 1시간 ) 5.주차요금 정산 방법 -파트너 문의",
+            "directions": "회기역 1번 출구에서 회기역 사거리 방향으로 직진, 사거리 길 건너 오른 편 베라체캠퍼스 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[9967]_20150730152724876.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9967]_20210213060349_jykgt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[9967]_20150730152728570.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9967]_20210213060326_i71ap.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[9967]_20150730152728499.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2015/07/[9967]_20150730152728414.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 602,
+            "name": "장한평역",
+            "description": "따뜻한 커피와 미소, 행복한 시간이 기다리는 곳, 2층의 넓고 안락한 공간이 매력적인 스타벅스 장한평역점 입니다.",
+            "address": "서울특별시 동대문구 장한로 10 (장안동)",
+            "parking": "1. 주차 불가능",
+            "directions": "5호선 장한평역점 3번출구로 나오시면 바로 우측에 매장이 보입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250429052038_b1l58.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250430110940_9clno.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250430110947_1hufs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250430110957_585ac.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250430111003_5ufed.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250429052205_g3e0s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/04/9675_20250429052212_g91qq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 23:00",
+                "25일 토요일 07:00 ~ 23:00",
+                "26일 일요일 07:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 603,
+            "name": "경희대",
+            "description": "향기 가득한 커피가 어우러진 스타벅스 경희대점 입니다.",
+            "address": "서울특별시 동대문구 경희대로 16-1 (회기동)",
+            "parking": "주차 불가능",
+            "directions": "경희대 정문에서 회기역 방향으로 50m 직진하면 좌측에 위치해 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095342_uq2t5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095347_zt00a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095351_m31ew.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095357_so2dy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095403_mdyt9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095410_ajqx5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9551]_20230213095415_ma3fs.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 604,
+            "name": "청량리역롯데캐슬스카이",
+            "description": "커피 한잔의 여유와 편안한 휴식을 제공해 드릴 스타벅스 청량리역롯데캐슬스카이점입니다",
+            "address": "서울특별시 동대문구 답십리로 27 (전농동, 청량리역 롯데캐슬 SKY-L65)",
+            "parking": "1.주차 불가능",
+            "directions": "청량리역롯데캐슬스카이 A동 상가 2층(5번출구)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4508]_20231218094010_4fxf8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4508]_20231218094337_401hi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/02/[4508]_20240215090048_doyof.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4508]_20231218094027_igcom.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4508]_20231218094357_ddvr5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4508]_20231218094346_8t456.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[4508]_20231218094019_0leoq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 605,
+            "name": "경희의료원",
+            "description": "최상의 커피, 최고의 파트너가 함께 하는 스타벅스 경희의료원점입니다.",
+            "address": "서울특별시 동대문구 경희대로 23 (회기동)",
+            "parking": "1. 주차불가능",
+            "directions": "경희의료원 암병원 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/10/4645_20251008022723_uxgbi.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4645]_20250227050137_l7bjf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4645]_20250227050144_kuwfz.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4645]_20250227050152_zp4lv.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 20:00",
+                "23일 목요일 07:00 ~ 20:00",
+                "24일 금요일 07:00 ~ 20:00",
+                "25일 토요일 07:00 ~ 18:00",
+                "26일 일요일 07:00 ~ 18:00",
+                "27일 월요일 07:00 ~ 20:00",
+                "28일 화요일 07:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 606,
+            "name": "경동1960",
+            "description": "지역 상인과의 상생을 위한 커뮤니티스토어 5호점 경동1960점 입니다.",
+            "address": "서울특별시 동대문구 고산자로36길 3 (제기동)",
+            "parking": "주차 불가",
+            "directions": "경동시장 4번게이트(광성상가) 앞에 위치한 경동시장 본관 3-4층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4313]_20221214082356_ux6nm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4313]_20221214082401_37qzj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4313]_20221214083837_ywf05.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4313]_20221214083842_ah1gg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4313]_20230108031610_boo5o.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4313]_20230108032026_7gkdg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4313]_20230108032055_7b549.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4313]_20230108032106_sdlyg.jpg"
+            ],
+            "hours": [
+                "22일 수요일 09:00 ~ 22:00",
+                "23일 목요일 09:00 ~ 22:00",
+                "24일 금요일 09:00 ~ 22:00",
+                "25일 토요일 09:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 22:00",
+                "27일 월요일 09:00 ~ 22:00",
+                "28일 화요일 09:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 607,
+            "name": "사이버한국외대",
+            "description": "일상 속 커피한잔의 여유가 있는곳, 스타벅스 사이버한국외대점입니다.",
+            "address": "서울특별시 동대문구 휘경로 6 (이문동)",
+            "parking": "주차 불가",
+            "directions": "외대앞역 4번출구 300M , 도보 5분",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[4520]_20241029024115_qg2q9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[4520]_20241029024246_ds3mt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[4520]_20241029024258_y3ad8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[4520]_20241029024309_w0ud9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[4520]_20241029024318_zkziz.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 608,
+            "name": "청량리역사",
+            "description": "여행과 문화를 즐길 수 있는 편안한 휴식 공간",
+            "address": "서울특별시 동대문구 왕산로 214 (전농동) 청량리역사 Connect Place6층",
+            "parking": "1, 주차가능 2. 주차장 위치 - 건물 주차장 3. 주차가능대수 - 50대 이상 4. 주차조건 - 금액제한 없이 2시간 무료 5. 주차요금정산방법 - 파트너에게 요청",
+            "directions": "청량리 1,2,3,4번 출구, 롯데백화점과 연결 되어 있으며 청량리역사 6층에 위치. 단층 매장",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4078]_20210421062235_5z31m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4078]_20210421060325_m53jd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4078]_20210421060338_m3qad.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4078]_20210421060344_f9wli.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4078]_20210421062254_086i8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4078]_20210421062406_drhli.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:30",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 609,
+            "name": "답십리초교사거리",
+            "description": "특별한 스타벅스 경험과 행복한 공간이 있는 스타벅스 답십리초교사거리점 입니다.",
+            "address": "서울특별시 동대문구 전농로 38 (답십리동)",
+            "parking": "1.주차불가능",
+            "directions": "답십리역 4번출구 답십리초등학교 방향 500m 거리 (도보 8분)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4468]_20240305010656_aul22.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4468]_20240306051154_07u89.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4468]_20240304082157_2cvgp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4468]_20240306051210_qmfex.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/03/[4468]_20240306051219_lqjm2.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 21:00",
+                "23일 목요일 07:30 ~ 21:00",
+                "24일 금요일 07:30 ~ 21:00",
+                "25일 토요일 07:30 ~ 21:30",
+                "26일 일요일 07:30 ~ 21:30",
+                "27일 월요일 07:30 ~ 21:00",
+                "28일 화요일 07:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 610,
+            "name": "장안사거리",
+            "description": "커피 한잔의 여유와 편안한 휴식을 제공해 드릴 스타벅스 장안사거리점 입니다.",
+            "address": "서울특별시 동대문구 답십리로 267 (장안동)",
+            "parking": "1.주차 불가능",
+            "directions": "장안동사거리에서 청량리역 방향 150m에 위치해 있습니다. (린여성병원 건너편)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094753_dtmsm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094804_2mxc2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094813_aofuc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094820_vf1t1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094827_n433z.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094835_pfopr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[4355]_20231127094842_t8vbc.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 611,
+            "name": "서울숲역",
+            "description": "유리 너머 서울숲의 사계절이 함께 하는 스타벅스 서울숲역점입니다",
+            "address": "서울특별시 성동구 왕십리로 50 (성수동1가) 1층",
+            "parking": "1. 주차가능  2. 주차장 위치 - 입점 건물 지하 2~5층  3. 주차가능대수 - 100대이상  4. 주차조건 - 구매 고객 1시간 무료, 이후 10분당 천원  5.주차요금 정산방법 - 주차 바코드 수령 후 주차장 내 키오스크 정산",
+            "directions": "분당선 서울숲역 2번 출구 100미터 메가박스 성수점 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3851]_20240809032756_qs1ny.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3851]_20240809033055_dm7r4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3851]_20240809110103_m2v8f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[3851]_20240809031142_hv8la.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 612,
+            "name": "금호역",
+            "description": "은은한 커피의 향기가 가득한 금호역점 입니다.",
+            "address": "서울특별시 성동구 동호로 99 (금호동4가)",
+            "parking": "1. 주차 불가능",
+            "directions": "지하철 3호선 금호역 3번 출구 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3838]_20191223085318_u5hsx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3838]_20191222065315_l4hhg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3838]_20191222065334_42mm3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/12/[3838]_20191222065409_835wa.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 613,
+            "name": "뚝섬역",
+            "description": "한강에 부는 바람처럼 산뜻한 커피향을 담고 있는 뚝섬역점입니다.",
+            "address": "서울특별시 성동구 아차산로 42 (성수동1가)",
+            "parking": "1. 주차불가능",
+            "directions": "지하철 2호선 뚝섬역 5번 출구 하차 후 도보 1분 정명빌딩 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/06/[3488]_20180626061728_z9l8k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3488]_20171105070543_yivhv.png",
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3488]_20171105070551_ivsck.png",
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3488]_20171105070554_lze3j.png",
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3488]_20171105070557_7syi2.png",
+                "https://image.istarbucks.co.kr//upload/store/2017/11/[3488]_20171105070601_qogjc.png"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 614,
+            "name": "황학사거리",
+            "description": "한잔의 커피로 여유로운 휴식을 느낄 수 있는 공간, 황학사거리점입니다 :)",
+            "address": "서울특별시 성동구 왕십리로 410 (하왕십리동, 센트라스)",
+            "parking": "1.주차 가능 2.센트라스 상가 지하(I동 상가주차장) 3.20대 이상 4.영수증 지참 시 2시간 무료",
+            "directions": "지하철 2호선, 6호선 신당역 2번출구에서 황학사거리 방면으로 도보 10분",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/04/[3409]_20170421061806_9pomw.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3409]_20231204111840_7cfhf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3409]_20231204111925_j0sub.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3409]_20231204112152_kglvj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3409]_20231204112404_o1k72.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3409]_20230124040253_rg7p5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3409]_20230124041839_4r5c8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3409]_20231204111809_loif9.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 615,
+            "name": "성수역",
+            "description": "스타벅스만의 특별한 칵테일 음료를 즐길 수 있는",
+            "address": "서울특별시 성동구 성수이로 94 (성수동2가)",
+            "parking": "1.주차불가능",
+            "directions": "성수역 2호선 3번출구 이마트 성수점 방면 30m, 호텔 포코 옆 세림빌딩 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420013625_h7q0w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420012303_2ux22.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420013510_ie3p1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420013525_uc1hu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420013616_1i51p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420013430_ejuq1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/04/[3460]_20200420013557_3hvao.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[3460]_20241210103038_zld52.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 616,
+            "name": "상왕십리역",
+            "description": "향긋한 커피와 따뜻한 파트너가 있는 공간, 왕십리 뉴타운의 랜드마크 상왕십리역점입니다 :)",
+            "address": "서울특별시 성동구 왕십리로 382 (하왕십리동)",
+            "parking": "1. 주차 불가 (매장지원불가능)",
+            "directions": "2호선 상왕십리역 1번 출구에서 도보 3분 베스티안 병원 1층 (구.동인병원 1층)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/01/[3344]_20170117041835_jpi3k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3344]_20231204100242_dct37.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3344]_20231204100312_zg544.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3344]_20231205120443_y45jx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3344]_20231205120541_haw54.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3344]_20231205120550_pevsa.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/12/[3344]_20231205121245_ztt27.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 617,
+            "name": "왕십리역",
+            "description": "왕십리를 밝혀주는 공간, 사람과 커피가 만나는 곳 왕십리역점입니다.",
+            "address": "서울특별시 성동구 왕십리로 326 (도선동)",
+            "parking": "1. 주차 가능 2. 건물 지하 주차  3. 10대 이상 4. 30분 무료 이 후 10분당 1,000원  4.파트너에게 주차 할인 등록 요청 (30분)",
+            "directions": "왕십리역 1번출구로 나와서 약 200m",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3100]_20220831033517_78vn7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3100]_20220831033525_cx5eo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3100]_20220831033530_g3vuk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3100]_20220831033537_u90cg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3100]_20220831033542_fqdyb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3100]_20220831033547_27zbb.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 618,
+            "name": "한양대",
+            "description": "젊고, 활기찬 문화의 전통이 있는 공간. 스타벅스 한양대점입니다.",
+            "address": "서울특별시 성동구 왕십리로 225 (행당동) 1,2층",
+            "parking": "1. 주차가능  2. 주차장 위치 - 건물앞  3. 주차가능대수 - 4대  4. 주차조건 - 최초 1시간 무료 이용, 이후 1시간당 3천원  5. 주차요금정산방법 - 건물측 관리인에 지불",
+            "directions": "한양대학교 정문 맞은편(한양대역 1번 출구 맞은 편)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9215]_20230116103904_hxnjv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9215]_20230124114136_zzcr8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[9215]_20231130085501_mcz11.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[9215]_20231130085509_997ew.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/11/[9215]_20231130085517_vsqix.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[9215]_20230114123424_rmbft.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 21:00",
+                "25일 토요일 07:00 ~ 21:00",
+                "26일 일요일 07:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 619,
+            "name": "엔터식스",
+            "description": "유럽의 길을 옮겨 놓은 듯한 엔터식스점에서 커피를 즐겨보세요 :)",
+            "address": "서울특별시 성동구 왕십리광장로 17 (행당동)",
+            "parking": "1.주차가능  2. 주차장위치 - 건물내 3. 주차가능대수 - 10대이상  4. 주차조건 - 당일 결제내역 있을 경우 기본  1시간 무료, 건물내 상점 이용금액에 따라 최대 5시간 무료  5. 주차정산방법 - 영수증 지참하여 파트너에게 요청",
+            "directions": "지하철 2호선,5호선,중앙선 왕십리역과 연결된 엔터식스 쇼핑몰 지하 1층 회전목마 앞\n(지하철 5번 출구와 연결되어 있는 에스컬레이터 이용 후 왼쪽으로 직진)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[9450]_20240713093745_95hk7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[9450]_20240713093755_u4g4n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[9450]_20240713093810_ksbam.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[9450]_20240713093843_r3h7p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/08/[9450]_20240823114558_c1hts.jpg"
+            ],
+            "hours": [
+                "22일 수요일 10:30 ~ 21:30",
+                "23일 목요일 10:30 ~ 21:30",
+                "24일 금요일 10:30 ~ 22:00",
+                "25일 토요일 10:30 ~ 22:00",
+                "26일 일요일 10:30 ~ 21:30",
+                "27일 월요일 10:30 ~ 21:30",
+                "28일 화요일 10:30 ~ 21:30"
+            ]
+        },
+        {
+            "number": 620,
+            "name": "신금호역",
+            "description": "커피 한잔의 여유와 금호동의 휴식처 신금호역점 입니다.",
+            "address": "서울특별시 성동구 금호로 158-1 (금호동1가) 1~5층 전체",
+            "parking": "1. 주차불가능",
+            "directions": "지하철 5호선 신금호역 3번 출구 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4190]_20221212075449_gjz80.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4190]_20221212075458_iuj9d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4190]_20221212075517_njn7u.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4190]_20221212075535_gmkg6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4190]_20221212075555_drzh2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/12/[4190]_20221212075657_ovugz.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 21:00",
+                "25일 토요일 07:30 ~ 21:00",
+                "26일 일요일 07:30 ~ 21:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 621,
+            "name": "뚝섬역교차로",
+            "description": "스타벅스만의 특별한 칵테일 음료를 즐길 수 있는",
+            "address": "서울특별시 성동구 아차산로 6 (성수동1가)",
+            "parking": "1. 주차 불가",
+            "directions": "지하철 2호선 뚝섬역 8번 출구 50M 전방 누디트 서울숲 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241114040044_frmgh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241115070005_8liqk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241114040259_d2hei.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241114090520_ufcu0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241114090703_v67i9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241114090847_mfht8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4602]_20241115050054_894ov.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 622,
+            "name": "왕십리역9번출구",
+            "description": "즐거움과 밝은 분위기가 가득한 공간, 왕십리역을 빛내는 왕십리역9번출구점에서 커피와 여유를 즐겨보세요 :)",
+            "address": "서울특별시 성동구 고산자로 234 (행당동)",
+            "parking": "주차 불가",
+            "directions": "왕십리역 9번출구 앞 도보 33m 나래타워 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[4361]_20230121015731_sr22p.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4361]_20221109094318_iez8j.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4361]_20221109094001_uv8jl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4361]_20221109094017_zgnjj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4361]_20221109094031_p3iq7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4361]_20221109094104_2jut1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/11/[4361]_20221109094231_bxbzg.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 623,
+            "name": "성수",
+            "description": "쾌적하고 활기가 넘치는  스타벅스 성수점입니다.",
+            "address": "서울특별시 성동구 아차산로 104 (성수동2가)",
+            "parking": "1.주차가능 2.주차장위치-입점건물 지하1층 3.주차가능대수-58대(기계식주차장_스타렉스,RV차량 주차불가) 4.주차조건-조건부 무료(영수증 지참시 1시간 무료, 이후 30분당 3,000원) 5.주차요금정산방법-주차요원에게 영수증 제시",
+            "directions": "지하철 2호선 성수역  4번출구 뒤편 50m 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224060248_bqfop.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224060304_maf2x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224094645_hm610.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224094550_tglsi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224094601_5quex.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224094611_fy0p5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4237]_20220224094638_1wd3p.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 624,
+            "name": "옥수",
+            "description": "따뜻한 커피와 따뜻한 미소, 행복한 공간이 있는 옥수점 입니다.",
+            "address": "서울특별시 성동구 독서당로 202 (옥수동)",
+            "parking": "1. 주차가능 2. 주차장위치-매장 측면 3. 주차가능대수-10대 4. 주차조건- 유료(영수증제출시최초 1시간 4천원 이후 30분당 2천원 추가요금 ) 5. 주차요금정산방법-출차시 영수증 제시",
+            "directions": "옥수동 주민센터 맞은편 달07 에비뉴 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/03/[4136]_20220329083935_f5rrn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4136]_20210901052538_7gs70.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4136]_20210901052544_kd3jx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4136]_20210901052620_uptto.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/09/[4136]_20210901052641_0iprf.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:30",
+                "23일 목요일 07:00 ~ 21:30",
+                "24일 금요일 07:30 ~ 21:30",
+                "25일 토요일 08:00 ~ 21:30",
+                "26일 일요일 08:00 ~ 21:30",
+                "27일 월요일 07:00 ~ 21:30",
+                "28일 화요일 07:00 ~ 21:30"
+            ]
+        },
+        {
+            "number": 625,
+            "name": "성수낙낙",
+            "description": "편안함과 즐거움이 가득한 곳, 행복낙낙한 성수낙낙점과 함께하세요.",
+            "address": "서울특별시 성동구 광나루로8길 31 (성수동2가) 성수낙낙 1층 101~107호",
+            "parking": "1. 주차가능 2. 주차장위치 - 건물지하1층~4층 3. 주차가능대수 - 50대이상 4. 주차조건 - 30분무료, 이후 10분당 1,000원 5.주차요금정산방법 - 출차시 결제",
+            "directions": "화양사거리 버스정류장 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[3959]_20200928053434_8zkde.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[3959]_20241211074214_0tww3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[3959]_20241005041314_a8bd0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[3959]_20200928053551_txouv.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[3959]_20200928053556_21qv9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/10/[3959]_20241005041218_z8jto.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 626,
+            "name": "효창공원앞역",
+            "description": "제3의공간, 도심속의 숲속과 같은 효창공원앞역점입니다.",
+            "address": "서울특별시 용산구 백범로 313 (효창동, 용산 롯데캐슬 센터포레)",
+            "parking": "주차 불가",
+            "directions": "지하철 6호선,경의중앙선 효창공원앞역점 2번출구 방면 200m",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3837]_20220820035740_igqdx.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3837]_20220820035748_lwqnf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3837]_20220820035804_l2xnz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3837]_20220820035810_vtksf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3837]_20220820035840_m7ahs.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 20:00",
+                "23일 목요일 07:30 ~ 20:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 20:00",
+                "27일 월요일 07:30 ~ 20:00",
+                "28일 화요일 07:30 ~ 20:00"
+            ]
+        },
+        {
+            "number": 627,
+            "name": "서울역서부",
+            "description": "여행과 일상의 중간, 커피향기와 안락한 휴식이 있는 스타벅스 서울역서부점 입니다.",
+            "address": "서울특별시 용산구 만리재로 202 (서계동)",
+            "parking": "주차 불가",
+            "directions": "서울역 공항철도 15번 출구 / 한국철도공사 맞은편 서울역풍림아이원플러스 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3918]_20200607095958_il14f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/05/3918_20250519022109_n3oi0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/05/[3918]_20240516125959_vfwgd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3918]_20200610052242_3h6g3.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3918]_20250103081305_jg07x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[3918]_20250103081310_55p0d.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 628,
+            "name": "이태원역",
+            "description": "이국적인 문화가 어울어진 이태원의 중심. 이태원역점 입니다.",
+            "address": "서울특별시 용산구 이태원로 188 (이태원동)",
+            "parking": "1. 주차불가능",
+            "directions": "이태원역 3번출구 40M직진",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3584]_20180925064843_c4rw8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3584]_20180925065037_aw41d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3584]_20180925065019_13pbn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/09/[3584]_20180925065030_kv5kq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 09:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 629,
+            "name": "한강진역R",
+            "description": "특별한 문화와 예술이 공존하는 한강진역R점 입니다.",
+            "address": "서울특별시 용산구 이태원로 252 (한남동)",
+            "parking": "1. 주차 불가능",
+            "directions": "한강진역 6호선 3번출구 방면 400M \n한남동 주민센터 버스정류장앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2018/02/[3556]_20180222051230_kih6e.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2018/02/[3556]_20180221010213_p1ljh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/02/[3556]_20180221090437_l3i84.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2018/02/[3556]_20180221090537_5ugw7.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2018/02/[3556]_20180222051234_uhe4r.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 09:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 630,
+            "name": "용산역써밋R",
+            "description": "커피와 함께하는 여행의 시작점, 용산역써밋R점입니다.",
+            "address": "서울특별시 용산구 한강대로 69 (한강로2가, 용산푸르지오써밋)",
+            "parking": "1.주차가능 2.주차장 위치-건물 상가 주차장 이용 3.주차가능 대수-100대 이상 4.주차 조건-조건부 무료(음료 구매시 180분 무료) 5.주차요금정산방법-파트너 문의시 안내",
+            "directions": "용산역 1번출구    용산역광장 오른편 \n신용산역 3번출구  한강로방면 150M",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3550]_20220826060124_z395c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3550]_20220820021956_yhww5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3550]_20220820022007_a3uu6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3550]_20220820022014_hy4x1.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 631,
+            "name": "이촌",
+            "description": "이촌1동 신용산초등학교 건너편 스타벅스이촌점 입니다.",
+            "address": "서울특별시 용산구 이촌로 276 (이촌동)",
+            "parking": "주차 불가",
+            "directions": "지하철 4호선 이촌역 3 또는 3-1번 출구, 신용산초등학교 방향",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3518]_20221017035419_jwzp5.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3518]_20220825091311_cu2mc.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3518]_20220825091326_l0xzw.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3518]_20220825091451_um898.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3518]_20220825091513_cx5x2.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 06:30 ~ 22:00",
+                "26일 일요일 06:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 632,
+            "name": "신용산역",
+            "description": "바쁜 일상에 커피 한잔의 여유를 느낄 수 있는 신용산역점 입니다.",
+            "address": "서울특별시 용산구 한강대로 95 (한강로2가, 래미안용산)",
+            "parking": "1.주차가능 2.주차장 위치-레미안 상가 주차장 이용 3.주차가능 대수-100대 이상 4.주차 조건-조건부 무료(음료 구매시 120분 무료) 5.주차요금정산방법-POS 파트너에게 요청",
+            "directions": "지하철 4호선 신용산역 3번출구 앞, 레미안 용산 더센트럴 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[3487]_20220911015507_81fkm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[3487]_20220911015512_a8j7w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[3487]_20220911015517_qduat.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[3487]_20220911015522_4lt3l.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 633,
+            "name": "용산파크타워",
+            "description": "따뜻한 햇살 가득한 용산파크타워점입니다.",
+            "address": "서울특별시 용산구 서빙고로 67 (용산동5가, 파크타워)",
+            "parking": "1.주차 가능 2.주차장 위치-파크타워 아파트 상가 주차장 3.주차가능대수-100대 이상 4.주차조건-음료 구매시 120분 무료 5.주차요금정산방법-파트너에게 요청",
+            "directions": "지하철 4호선 이촌역 1번출구 파크타워 1층\n용산세무소정류소앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3386]_20220817033800_5c82x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3386]_20220817034549_2rcco.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3386]_20220817034034_9dg8q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3386]_20220817033817_3ggnk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3386]_20220817033809_kao44.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[3386]_20220817033826_v5ta1.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 20:00",
+                "23일 목요일 07:00 ~ 20:00",
+                "24일 금요일 07:00 ~ 20:00",
+                "25일 토요일 07:00 ~ 20:00",
+                "26일 일요일 07:00 ~ 20:00",
+                "27일 월요일 07:00 ~ 20:00",
+                "28일 화요일 07:00 ~ 20:00"
+            ]
+        },
+        {
+            "number": 634,
+            "name": "남영동",
+            "description": "편안함이 가득한 남영동점입니다.",
+            "address": "서울특별시 용산구 한강대로 275 (갈월동)",
+            "parking": "주차 불가",
+            "directions": "지하철 1호선 남영역 1번 출구에서 숙대입구역 방향 도보 4분거리\n지하철 4호선 숙대입구역7번출구 도보 3분거리",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3321_20250829082755_rzkhq.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3321_20250829083330_22eng.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3321_20250829083341_s3zpx.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3321_20250829083348_nvweg.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3321_20250829083354_e8msx.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/08/3321_20250829083400_bm9za.png"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 635,
+            "name": "한남동R",
+            "description": "도심 속에서 스타벅스의 프리미엄 리저브 커피로 잠깐의 여유와 행복을 즐기실 수 있는 스타벅스 한남동R점 입니다.",
+            "address": "서울특별시 용산구 독서당로 94 (한남동)",
+            "parking": "1.주차 가능 2.주차장 위치-매장 전면 1층 발렛 사무실 앞  3.주차가능대수-6대 미만  4.주차조건-스타벅스 매장이용 고객에 한하여 유료주차 , 발렛주차 (최초 2시간 3,000원) ,2시간 초과시 30분당 1,500원씩 추가요금 [고객이 차량을 두고 다른 곳으로 이동시 추가 요금 10분당 1,000원 부과됩니다(이동시 주차직원에게 꼭 알려주세요)] 5. 주차요금정산방법-출차시 영수증 제시",
+            "directions": "한남오거리 유엔빌리지방면 도보 3분 (300m)\n경의중앙선 한남역에서 도보 15분",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3288]_20160719111928_lvkv9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3288]_20160720092030_j7d5k.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3288]_20160720092038_absah.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2016/07/[3288]_20160720092117_t52r1.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2018/11/[3288]_20181112054041_bsk0s.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 636,
+            "name": "서울타워",
+            "description": "서울의 야경을 한눈에 담을 수 있는 서울의 랜드마크 서울타워점입니다.",
+            "address": "서울특별시 용산구 남산공원길 105 (용산동2가) YTN서울타워 1층",
+            "parking": "주차 불가",
+            "directions": "3호선 충무로역 2번출구 01A번, 01B번 버스 탑승 후 서울타워 하차 /  주말 8100번 추가 운영 (3호선 충무로역 2번출구)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2016/02/[3246]_20160229095112_lww8m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2016/02/[3246]_20160229095158_hfvg0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3246]_20220107101928_xeuot.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3246]_20220107101933_xuknu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3246]_20220107101939_34cgd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/01/[3246]_20220107101946_aqyax.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[3246]_20200918045022_dxl3y.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2018/05/[3246]_20180506015449_o9ryt.png"
+            ],
+            "hours": [
+                "22일 수요일 10:00 ~ 19:00",
+                "23일 목요일 10:00 ~ 19:00",
+                "24일 금요일 10:00 ~ 19:00",
+                "25일 토요일 10:00 ~ 22:00",
+                "26일 일요일 10:00 ~ 22:00",
+                "27일 월요일 10:00 ~ 19:00",
+                "28일 화요일 10:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 637,
+            "name": "서울역동자동",
+            "description": "도심 속의 활기와 일상에 편안함을 느낄 수 있는 휴식 공간 서울역동자동점입니다.",
+            "address": "서울특별시 용산구 한강대로 372 (동자동)",
+            "parking": "1. 주차가능 2. 주차장 위치 - 매장 건물 지하 3. 주차가능대수 - 30대 4. 주차조건 - 조건부 무료(1시간 무료) 5. 주차요금정산방법 - 파트너에게 요청",
+            "directions": "지하철 4호선 서울역 12번 출구 동자동, 후암시장 방면 출구 앞 KDB생명타워",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[9934]_20210702070533_984mm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[9934]_20210703034416_pqmdu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[9934]_20210703034501_zwiuq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[9934]_20210703034507_ei4uw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/07/[9934]_20210703034513_x1vv4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[9934]_20220205015342_8i4xx.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 19:00",
+                "26일 일요일 07:00 ~ 19:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 638,
+            "name": "순천향입구",
+            "description": "정성을 다해 만든 한잔의 커피와 최고의 서비스를 제공해드리는 순천향입구점  입니다.",
+            "address": "서울특별시 용산구 대사관로 67 (한남동)",
+            "parking": "1. 주차 불가능",
+            "directions": "순천향대학교 서울병원입구에서 우측으로 70m 거리에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon13.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[9800]_20201215102333_q2qln.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[9800]_20201019053302_kia9s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[9800]_20201019053308_9jsue.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[9800]_20201019053212_mxosr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[9800]_20201019053250_fsk96.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/10/[9800]_20201019053256_htk6m.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:00 ~ 22:00",
+                "23일 목요일 06:00 ~ 22:00",
+                "24일 금요일 06:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 06:00 ~ 22:00",
+                "28일 화요일 06:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 639,
+            "name": "동빙고",
+            "description": "아름다운 도심 속 제 3의 공간을 느낄 수 있는 동빙고점 입니다.",
+            "address": "서울특별시 용산구 장문로 12 (동빙고동)",
+            "parking": "1.주차 가능 2.주차장 위치-입점 건물 전면 지하 3.주차가능 대수-4대 이하4.주차 조건-유료, 최초 30분 3천원, 이후 10분당 1천원",
+            "directions": "지하철 6호선 녹사평 역 3번 출구에서 용산구청 쪽으로 횡단 후 크라운 호텔 방면, 몬드리안 호텔 맞은 편 건물",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[9462]_20190512055727_lmhj1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[9462]_20190512055617_ku98f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[9462]_20190512055621_bepcd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[9462]_20190512055625_tq8r2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[9462]_20190512055628_g349y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/05/[9462]_20190512055715_qw0hu.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 640,
+            "name": "숙대입구역",
+            "description": "스타벅스 숙대입구역점에서 즐거운 추억을 만드세요.",
+            "address": "서울특별시 용산구 한강대로 291 (갈월동)",
+            "parking": "주차 불가",
+            "directions": "지하철4호선 숙대입구역 8번 출구",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9577]_20220817032353_60u56.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9577]_20220817032334_f068y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9577]_20220817032340_ktunc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9577]_20220817032346_2n0zb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9577]_20220817032706_kens9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9577]_20220817032714_vtnf6.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:00 ~ 22:00",
+                "23일 목요일 08:00 ~ 22:00",
+                "24일 금요일 08:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 641,
+            "name": "용산아이파크몰6F",
+            "description": "다양한 문화 복합 공간과 따뜻한 햇살을 즐기며 커피 한잔의 힐링을 선물 해드리는 아이파크몰 TASTE PARK  6층 스타벅스 용산아이파크몰점에서 커피 한잔의 여유를 가져보세요.",
+            "address": "서울특별시 용산구 한강대로23길 55",
+            "parking": "1.주차가능 2.주차장 위치-아이파크몰 주차장 이용 3.주차가능 대수-100대 이상 4.주차 조건-조건부 무료(음료 구매시 60분 무료) 5.주차요금정산방법-계산대 파트너에게 요청",
+            "directions": "지하철 1호선 용산역 2번 출구, 우측 50M 아이파크몰 TASTE PARK 6층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9307]_20220828025355_0jk6n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9307]_20220828025410_pbh65.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9307]_20220828025452_tkjfd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[9307]_20220828025506_28hy6.jpg"
+            ],
+            "hours": [
+                "22일 수요일 08:30 ~ 22:00",
+                "23일 목요일 08:30 ~ 22:00",
+                "24일 금요일 08:30 ~ 22:00",
+                "25일 토요일 08:30 ~ 22:00",
+                "26일 일요일 08:30 ~ 22:00",
+                "27일 월요일 08:30 ~ 22:00",
+                "28일 화요일 08:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 642,
+            "name": "동부이촌동",
+            "description": "스타벅스커피 코리아 500호점, 동부이촌동점입니다.",
+            "address": "서울특별시 용산구 이촌로 198 (이촌동)",
+            "parking": "주차 불가",
+            "directions": "지하철 4호선 이촌역에서 도보 10분거리에 위치하고 있습니다.\n버스정류장명:충신교회\n버스노선번호:3012,2016,100,6211 이용 가능",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9568]_20221014073805_zsc5i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9568]_20221014073827_afxyk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9568]_20221014073816_vrts2.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[9568]_20221014073727_brkk1.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 643,
+            "name": "숙명여대정문",
+            "description": "바쁜 일상 속 안락한 휴식을 느낄 수 있는 스타벅스 숙명여대정문점 입니다.",
+            "address": "서울특별시 용산구 청파로47길 100 (청파동2가) 프라임관B1F(로비층)",
+            "parking": "주차불가",
+            "directions": "4호선 숙대입구역 8번 출구에서 도보 10분 \n숙명여자대학교 정문 프라임관에 위치해 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon08.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[4341]_20220906044906_dcd06.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[4341]_20220905050120_y51qm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[4341]_20220907092543_voalb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[4341]_20220907092552_6os7k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[4341]_20220907092557_qjwsg.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 20:00",
+                "26일 일요일 08:00 ~ 20:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 644,
+            "name": "용산해링턴스퀘어",
+            "description": "신용산역 빌딩 숲 사이 숨어 있는 진주, 스타벅스 용산해링턴스퀘어점을 찾아 보세요 :)",
+            "address": "서울특별시 용산구 서빙고로 17 (한강로3가)",
+            "parking": "1. 주차가능 2.주차장 위치 -입점건물 지하 3. 주차가능대수 : 100대 이상 4. 주차조건 - 조건부 무료(영수증 1만원이상~2만원 미만  1시간 무료 / 2만원 이상 2시간 무료 / 영수증당 최대 2대까지 지원 / 타 매장과 중복 제외  5. 주차요금정산방법 :파트너에게 요청",
+            "directions": "신용산역 2번 출구에서 직진, 세계일보 사옥 앞에서 좌측 도보 3분 거리, 해링턴스퀘어 상가동 중앙 105동 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4002]_20220823112543_5feh8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4002]_20220823112419_vldl1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[4002]_20201209090852_fqx0v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[4002]_20201209090831_wfunc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[4002]_20201209090902_rnr8h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[4002]_20201209090916_45m9g.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 21:00",
+                "23일 목요일 07:00 ~ 21:00",
+                "24일 금요일 07:00 ~ 21:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 21:00",
+                "28일 화요일 07:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 645,
+            "name": "경리단길",
+            "description": "커피향 가득하고 아늑한 매장 경리단길점 입니다.",
+            "address": "서울특별시 용산구 회나무로 3 (이태원동)",
+            "parking": "1. 주차불가능",
+            "directions": "6호선 녹사평역 2번출구에서 도보7분(560m)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[4232]_20220614020213_05w1v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[4232]_20220614020231_uoinm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4232]_20220824075023_6sp5i.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4232]_20220824075045_kzrnz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[4232]_20220614020318_65a2f.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/06/[4232]_20220614020329_f50l8.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 22:00",
+                "23일 목요일 07:30 ~ 22:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 08:30 ~ 22:00",
+                "26일 일요일 08:30 ~ 22:00",
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 646,
+            "name": "서울역사",
+            "description": "커피와 함께 여행의 설레임과 일상의 여유를 만끽할 수 있는 서울역사점 입니다.",
+            "address": "서울특별시 용산구 한강대로 405 (동자동) 신-101호",
+            "parking": "주차 불가",
+            "directions": "1호선, 4호선, 경의선, 공항철도 서울역 1번 출구",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4080]_20210421054045_1ylcl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4080]_20210421085813_aep5x.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4080]_20211223075216_ggvp1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/12/[4080]_20211223074730_416pc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[4080]_20220212112553_dynw8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4080]_20210421085749_1lpzi.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4080]_20210423094844_iuauz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/04/[4080]_20210421085808_qrcjo.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 06:30 ~ 22:00",
+                "26일 일요일 06:30 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 647,
+            "name": "용산리첸시아",
+            "description": "도심 속의 활기와 일상의 편안함을 느낄 수 있는 용산리첸시아점 입니다.",
+            "address": "서울특별시 용산구 백범로 341 (원효로1가, 리첸시아 용산)",
+            "parking": "1.주차가능 2.주차장위치-용산금호리첸시아 A동 주차장 3.주차가능대수-50대 이상 4.주차조건-조건부 무료(구매 고객 2시간 무료) 5.주차요금정산방법-파트너에게 요청",
+            "directions": "6호선 효창공원앞역 2번 출구, 삼각지 고가차도 사거리에서 남영역 방면",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3891]_20221017014340_o7mrs.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3891]_20221017014413_plt9y.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3891]_20221017014717_rp5g3.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3891]_20221017014805_a2t06.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 648,
+            "name": "용산전자랜드",
+            "description": "Coffee와 Digital, Plant의 만남, 용산전자랜드점입니다.",
+            "address": "서울특별시 용산구 청파로 74 (한강로3가)",
+            "parking": "1.유료 주차 가능 2.주차장 위치-전자랜드 주차장 3.주차가능 대수-100대 이상 4.주차 조건-유료, 최초 30분 2천원, 이후 10분당 500원",
+            "directions": "지하철 1호선 용산역 3번 출구 도보 10분. 전자랜드 본관 지상 1층, 타이푼과 드래곤시티호텔 사이에 위치해 있습니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/09/[4185]_20220905021003_obd28.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4185]_20211107090357_tbu0d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4185]_20211107090808_0c9j9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4185]_20220826034338_m0aw4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/11/[4185]_20211107061224_jw2ur.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 649,
+            "name": "용산이마트",
+            "description": "쇼핑 후 즐기는 커피향 가득한 휴식공간 이마 용산점 지하 2층 스타벅스 용산이마트점에서 커피 한잔의 여유를 가져보세요.",
+            "address": "서울특별시 용산구 한강대로23길 55 (한강로3가) 용산이마트 지하 2층",
+            "parking": "1.주차가능 2.주차장위치-아이파크몰 별주차장 이용 3.주차가능 대수-100대이상 4.주차조건-조건부 무료(60분) 5.주차요금정산방법-계산대 파트너에게 요청",
+            "directions": "지하철 1호선 용산역 1번 출구 맞은편, 아이파크몰 내 에스컬레이터 이용 용산이마트 지하 2층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4626]_20250221031411_68lkl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4626]_20250221031403_tfhrc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4626]_20250221031408_b8jq3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/02/[4626]_20250221031416_60e5y.jpg"
+            ],
+            "hours": [
+                "22일 수요일 10:00 ~ 21:00",
+                "23일 목요일 10:00 ~ 21:00",
+                "24일 금요일 10:00 ~ 21:00",
+                "25일 토요일 10:00 ~ 22:00",
+                "26일 일요일 휴점",
+                "27일 월요일 10:00 ~ 21:00",
+                "28일 화요일 10:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 650,
+            "name": "용산아이파크몰1F",
+            "description": "라이프스타일의 가치와 커피향을 함께 즐길수 있는 용산아이파크몰1F점 입니다.",
+            "address": "서울특별시 용산구 한강대로23길 55 1층 (한강로3가)",
+            "parking": "1.주차가능 2.주차장 위치-아이파크몰 주차장 이용 3.주차가능 대수-100대 이상 4.주차 조건-조건부 무료(음료 구매시 60분 무료) 5.주차요금정산방법-계산대 파트너에게 요청",
+            "directions": "1호선 용산역 1번출구, 우측 50M 용산아이파크몰1F 리빙파크 입구\n4호선 신용산역 3번 출구, 우측 150M 용산아이파크몰1F 리빙파크 입구",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4607]_20241128125119_7r1g1.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[4607]_20241206044222_7nmqn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[4607]_20241206044239_piylp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[4607]_20241206044419_izcef.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[4607]_20241206044550_zoc17.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[4607]_20241206044628_k472c.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[4607]_20241206044707_q77kj.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 651,
+            "name": "상봉",
+            "description": "달콤한 커피향과 따뜻한 감동을 주는 스타벅스 상봉점 입니다.",
+            "address": "서울특별시 중랑구 상봉로 131 (상봉동, 상봉 듀오트리스 주상복합)",
+            "parking": "1. 매장 주차지원불가 (회차 30분 이외 주차할인 없음)   2. 주차장위치 - 건물 지하주차장 이용 3. 주차가능대수 - 10대이상 4. 주차조건 - 10분당 700원",
+            "directions": "지하철 7호선 상봉역 2번 출구에서 도보로 8분 거리 \n경춘선 망우역 1번출구에서 도보로 3분 거리",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115032_rykaf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115152_4uhi3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115227_16ylm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115611_hu7i7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115242_9a84b.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115249_oh8ci.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[3223]_20220526115257_h4aa2.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 652,
+            "name": "중랑역",
+            "description": "한 편의 영화, 한 잔의 커피로 여유를 나누는 중랑역 점 입니다.",
+            "address": "서울특별시 중랑구 망우로30길 3 (상봉동)",
+            "parking": "1.주차가능  2.입점건물 기계식 주차장  3. 주차가능대수-4대 이상  4.주차조건-조건부 무료 (구매영수증 지참 30분 무료, 추가 10분당 500원) 5.주차요금 정산 방법 -파트너 문의",
+            "directions": "경의중앙선 중랑역 4번출구에서 횡단보도 건너 우측, 도보 1분 거리 (140M)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2015/08/[3135]_20150810002704739.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/08/[3135]_20150810002719945.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/08/[3135]_20150810002720093.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/08/[3135]_20150810002720249.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/08/[3135]_20150810002720388.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2015/08/[3135]_20150810002720519.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 653,
+            "name": "중랑구청",
+            "description": "편안하고 최고의 서비스를 제공하는 스타벅스 중랑구청점 입니다.",
+            "address": "서울특별시 중랑구 신내로 72",
+            "parking": "1.주차가능  2.입점건물 지하  3.주차가능대수-4대 이상  4.주차조건-조건부 무료 (구매영수증 지참 1시간 ) 5.주차요금 정산 방법 -파트너 문의",
+            "directions": "지하철 7호선 중화역 3번 출구에서 273, 2115, 1122번 버스로 중랑구청 정류장 하차 후 사거리 우측 방향으로 도보 250m",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3087]_20230607074639_uqkny.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3087]_20230612082136_d32zm.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3087]_20230607075035_rfpnu.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3087]_20230607075025_1dbx4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3087]_20230607075019_s07a6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/06/[3087]_20230607075030_eo3q6.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 654,
+            "name": "사가정역",
+            "description": "향긋한 고품질의 커피와 편안하고 아늑한 분위기, 친근한 미소가 있는 사가정역점입니다.",
+            "address": "서울특별시 중랑구 면목로 310",
+            "parking": "(~7/29일까지 주차불가: 주차타워 공사) 1. 주차가능 2. 주차장위치 - 건물 뒷편 기계식 주차장 3. RV, SUV - 기계식 주차 제한적 운영  4. 전기차 -  지상주차장 이용(지상 주차장 공간 협소)  4. 주차조건 - 구매 영수증 (주차권당 1시간 무료)",
+            "directions": "사가정역 3, 4번 출구 사이 길 100m 진입해서 좌측 빌딩 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3023]_20230103115250_uv9c4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3023]_20230131115027_dba25.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3023]_20230103115257_zuq53.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3023]_20221028042457_qn1vc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/10/[3023]_20221030105554_ac5ud.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3023]_20230103115301_00t4m.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 655,
+            "name": "상봉역",
+            "description": "커피 한 잔의 여유를 즐길 수 있는 아늑한 공간 여기는 스타벅스 상봉역점 입니다.",
+            "address": "서울특별시 중랑구 망우로 307 (상봉동)",
+            "parking": "1. 주차가능 2. 주차장위치 - 매장 옆 기계식 주차장 이용 3. 주차가능대수 - 10대이상 4. 주차조건 - 구매 영수증에 도장확인 시 1시간 무료",
+            "directions": "지하철7호선 상봉역 1번출구 또는 중앙선 상봉역 8번 출구에서 50M",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon12.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/10/[9686]_20191001110003_28uzr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/10/[9686]_20191001110025_rnswc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/10/[9686]_20191001110020_zzlvb.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/10/[9686]_20191001110022_1sxf7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/10/[9686]_20191001110008_hv0yi.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 08:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 656,
+            "name": "묵동",
+            "description": "따스하고, 넓은 공간 속 나만의 작은 스타벅스 경험을 만나보세요. 스타벅스 묵동점 입니다.",
+            "address": "서울특별시 중랑구 동일로 952 (묵동, 로프트원 태릉입구역) 1층",
+            "parking": "1. 주차 가능 2.  주차장 위치 - 입점건물 지하 3. 주차가능대수 - 10대 이상 4. 조건부무료 ( 기본 30분 무료주차 이후 10분당 1000원)",
+            "directions": "지하철 : 태릉입구역 7번출구, 먹골역 1번출구에서 직진\n버스 :  105, 146 묵동자이, 신도브래뉴 아파트 정류장 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3936]_20200628090702_8ke43.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3936]_20200630082724_a9iil.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3936]_20200628090659_z23pe.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3936]_20200628090705_yknmc.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/06/[3936]_20200628090707_mek6l.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 08:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 657,
+            "name": "망우동",
+            "description": "안녕하세요, 일상 속 커피한잔의 여유가있는 스타벅스 망우동점입니다.",
+            "address": "서울특별시 중랑구 망우로 407 (망우동)",
+            "parking": "주차불가",
+            "directions": "망우역에서 구리방면으로 500m (도보 7분)",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4611]_20250102030458_syb3s.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4611]_20241127045654_a8901.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4611]_20241127045705_6ftzj.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4611]_20241128013255_u489v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4611]_20241128013315_6glr0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/11/[4611]_20241128013335_shu6k.png",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4611]_20250102030513_hompd.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 21:00",
+                "23일 목요일 07:30 ~ 21:00",
+                "24일 금요일 07:30 ~ 22:00",
+                "25일 토요일 07:30 ~ 22:00",
+                "26일 일요일 07:30 ~ 21:00",
+                "27일 월요일 07:30 ~ 21:00",
+                "28일 화요일 07:30 ~ 21:00"
+            ]
+        },
+        {
+            "number": 658,
+            "name": "양원역",
+            "description": "일상 속 여유와 함께 편안한 휴식공간이 되어드릴 스타벅스 양원역점입니다.",
+            "address": "서울특별시 중랑구 양원역로10길 3 (망우동)",
+            "parking": "1. 주차 가능 (매장 주차지원없음- 회차 30분이외 주차요금 부과)  2.  주차장 위치 - 입점건물 지하 2층  3. 주차가능대수 - 10대 이하 4. 주차조건- 기본 30분 무료주차 이후 10분당 500원",
+            "directions": "경의중앙선 양원역 1번 출구",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4307]_20220824060637_yg5ih.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4307]_20220825105637_cpf4n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4307]_20220824060631_7kdmr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4307]_20220824110622_o4wvd.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/08/[4307]_20220824110628_15836.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 20:30",
+                "23일 목요일 07:00 ~ 20:30",
+                "24일 금요일 07:00 ~ 20:30",
+                "25일 토요일 07:00 ~ 21:00",
+                "26일 일요일 07:00 ~ 21:00",
+                "27일 월요일 07:00 ~ 20:30",
+                "28일 화요일 07:00 ~ 20:30"
+            ]
+        },
+        {
+            "number": 659,
+            "name": "중화역",
+            "description": "따뜻하고, 쾌적한 곳에서 친절한 파트너와 스타벅스 경험을  나눠보세요.",
+            "address": "서울특별시 중랑구 봉화산로 35 1층",
+            "parking": "1.주차불가능",
+            "directions": "중화역 3번 출구에서 노브랜드 버거 방향으로 100m입니다.",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3801]_20230116114149_zig3d.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/01/[3801]_20230116114614_ih2kt.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201223083033_x46ym.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034401_eoly2.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034406_1npzq.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034423_vz92v.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/12/[3801]_20201220034427_6riw8.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,533 @@
+{
+    "kind": "Korea Starbucks",
+    "date": "2025-10-22",
+    "location": "경기(gyeonggi)",
+    "count": 14,
+    "item": [
+        {
+            "number": 101,
+            "name": "서현N타운",
+            "description": "소중한 사람들과의 행복한 시간, 서현N타운점이 함께합니다.",
+            "address": "경기도 성남시 분당구 황새울로335번길 5 (서현동)",
+            "parking": "1.주차 지원 불가 2.주차장 위치 - 건물 내 지하 2층~4층 3. 주차가능대수 - 100대 이상 4. 주차조건 - 회차 30분 무료 5. 주차요금정산방법 - 30분 이후 10분당 500원 지불",
+            "directions": "분당선 서현역 4번출구, AK플라자 2번 게이트로 나와 메가박스 길 건너편 서현N타운 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250709072614_23ucq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250709072620_v0hcs.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250705021134_f4p1v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250709072055_y2iiz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250705021212_0uqd3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250705021157_e138m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9703_20250707090311_i8z3r.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:30 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 102,
+            "name": "서현역",
+            "description": "서현역 5번 출구 왼쪽 편에 위치해 있는 스타벅스 서현역점입니다.",
+            "address": "경기도 성남시 분당구 서현로210번길 20, 1층 (서현동)",
+            "parking": "1.주차가능 2.주차위치 - 건물내지하주차장 3. 주차가능대수 - 50대이상 4. 주차조건 - 금액상관없이 구매시 1시간 무료 (타입점매장과 중복불가) 5. 결제 후 파트너에게 주차할인등록요청",
+            "directions": "지하철 분당선 서현역 5번출구 AK프라자 앞 코코프라자 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706122212_w1z25.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706055956_2zac6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706060017_uodxn.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706060032_0b4nr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706060128_5gaur.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706060135_k1drz.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9587_20250706060142_gsvic.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 09:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 103,
+            "name": "오리역",
+            "description": "도심 속 휴식공간! 분당의 딜리버스 매장! 오리역점입니다.",
+            "address": "경기도 성남시 분당구 성남대로 32, 1층 (구미동)",
+            "parking": "",
+            "directions": "오리역 3번출구로 나와 죽전방향으로 도보로 5분",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[9549]_20171212044755_1zeeh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[9549]_20171212044758_bpa73.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[9549]_20171212044801_cbv6m.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[9549]_20171212044806_x97md.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2017/12/[9549]_20171212044808_i9f00.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 20:00",
+                "26일 일요일 07:00 ~ 20:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 104,
+            "name": "분당정자",
+            "description": "편안함이 가득한 분당정자점입니다.",
+            "address": "경기도 성남시 분당구 성남대로 393, 두산위브파빌리온 1층 (정자동)",
+            "parking": "1. 주차 가능 2. 주차장 위치 : 두산파빌리온 지상 주차장 이용 가능 3. 주차 가능 대수 : 50대 이상 4.주차조건_1만원 이상 실결제시 1시간 무료 주차 지원 (무료음료쿠폰은 주차 지원 미해당 / 이후 초과 요금 주차 등록 시 10분당 1,000) 5. 주차 요금 정산 방법 : 주문 시 주차 등록 요청",
+            "directions": "신분당선 정자역 5번 출구 수내방면으로 도보 10분 거리",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419114947_fwyvc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419115328_b8eol.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419115424_5zl2h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419115436_jbtkt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419115448_s8uf6.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419115455_y8fjp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/04/[9670]_20240419115504_azdck.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        },
+        {
+            "number": 105,
+            "name": "수내역",
+            "description": "편안함과 안락함이 함께하는 포근한 수내역점입니다.",
+            "address": "경기도 성남시 분당구 백현로101번길 30, 1-2층 (수내동)",
+            "parking": "주차불가능",
+            "directions": "수내역 2번출구 50m앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/07/9510_20250721120357_11jf1.png",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[9510]_20200717074018_0t9j1.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[9510]_20200717074024_le00h.JPG",
+                "https://image.istarbucks.co.kr//upload/store/2020/07/[9510]_20200717074028_6wk0q.JPG"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 106,
+            "name": "정자아데나",
+            "description": "고객님을 향한 특별한 서비스, 아늑하고 조용한 정자아데나점에서 경험해 보세요.",
+            "address": "경기도 성남시 분당구 성남대로 275 (정자동)",
+            "parking": "1. 주차 가능 2. 주차장 위치 : 아데나팰리스 지상 주차장 진입 시 '상가' 버튼 사용 주차 3. 주차 가능 대수 : 3대 이상 (주차 공간 협소) 4. 주차 조건 : 2시간 무료 주차 지원 (초과 15분당 700원) 5. 주차 요금 정산 방법 : 주문 시 주차 등록 요청 필요",
+            "directions": "정자역 3번출구 미금역 방향으로 도보 10분거리, 아데나팰리스 1층",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[9661]_20190226023617_6gsi0.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9661]_20230214081619_xqrxh.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9661]_20230214081626_ctru3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9661]_20230214082127_zl3g8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9661]_20230214083348_4y15o.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2023/02/[9661]_20230214083354_y9fh3.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2019/02/[9661]_20190226023656_djs09.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 107,
+            "name": "분당이마트",
+            "description": "보다 다양한 원두로 Brewed Coffee를 제공하는 분당이마트점입니다. 원두의 풍미가 더욱 섬세하게 살아있는 커피를 만나보세요.",
+            "address": "경기도 성남시 분당구 불정로 134 (정자동)",
+            "parking": "1. 주차 가능 2. 주차장 위치 : 이마트 주차장 3. 주차 가능 대수 : 100대 이상 4. 주차 조건 : 스타벅스 이용 시 2시간 무료 주차 가능 5. 주차 요금 정산 방법 : 영수증 하단 주차 바코드 사용 및 결제 시 주차 등록 요청",
+            "directions": "정자동 불정사거리 이마트분당점 1층에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[9597]_20241213090211_y6qjl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[9597]_20241213090600_219mt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[9597]_20241213090648_cu940.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[9597]_20241213090957_8t880.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/12/[9597]_20241213091002_r751l.jpg"
+            ],
+            "hours": [
+                "22일 수요일 10:00 ~ 21:00",
+                "23일 목요일 10:00 ~ 21:00",
+                "24일 금요일 10:00 ~ 22:00",
+                "25일 토요일 10:00 ~ 22:00",
+                "26일 일요일 휴점",
+                "27일 월요일 10:00 ~ 21:00",
+                "28일 화요일 10:00 ~ 21:00"
+            ]
+        },
+        {
+            "number": 108,
+            "name": "판교H스퀘어",
+            "description": "일과 휴식이 공존하는 곳, 판교H스퀘어점에서 최상의 커피와 함께 새로운 에너지를 채워보세요",
+            "address": "경기도 성남시 분당구 판교역로 231, 에이치스퀘어 (삼평동)",
+            "parking": "1.주차가능 2.주차장위치-입점건물 지하 2층 3.주차가능대수 -10대이상 4.주차조건-2시간 무료 5.주차요금정산방법-파트너에게 요청",
+            "directions": "판교 테크노밸리 중심, H스퀘어 S동 1층에 위치\n-대중교통 이용 시\n지하철 : 신분당선 판교역 1번 출구 도보 약 7~8분 거리\n버스 :H스퀘어, 삼환하이펙스 하차",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/09/9636_20250902090919_fmvts.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/9636_20250902090943_nc8wy.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/9636_20250902090928_61uqt.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/9636_20250902090938_sbtgr.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/9636_20250902090759_iie3y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/09/9636_20250902090933_uylq0.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 09:00 ~ 17:00",
+                "26일 일요일 09:00 ~ 17:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 109,
+            "name": "오리역삼거리",
+            "description": "문화를 담아 나르는 한잔의 커피, 오리역삼거리점에서 감성을 나누세요!",
+            "address": "경기도 성남시 분당구 성남대로 45 (구미동)",
+            "parking": "1. 주차 가능 2. 주차장 위치 : 스타벅스 입점 건물 뒷쪽 기계식 주차장 3. 주차장 가능 대수 : 30대 이상 4. 주차 조건 : 1시간 무료 주차 지원 (초과 10분당 500원) 5. 주차 요금 정산 방법 :  스타벅스 결제 내역 지참",
+            "directions": "오리역 6번 출구 앞",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/02/[9725]_20220222085657_o0s81.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[9725]_20200929121808_qsakq.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2020/09/[9725]_20200929121820_i0xr7.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/02/[9725]_20210223073630_92h4v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2021/03/[9725]_20210304021830_rklxa.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 110,
+            "name": "판교HIPEX",
+            "description": "고객과 함께하는 즐겁고 편안한 판교HIPEX점에서 최상의 커피와 서비스를 즐기세요!",
+            "address": "경기도 성남시 분당구 판교역로 230, 판교 삼환 HIPEX (삼평동)",
+            "parking": "1.주차가능 2.주차장위치-입점건물 지하 2층 3.주차가능대수 -10대이상 4.주차조건-2시간 무료 5.주차요금정산방법-파트너에게 요청",
+            "directions": "신분당선 판교역 1번 출구에서 직진방향으로 약 600m,\n판교HIPEX점 B동 1층에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9724]_20250325074907_p5pnw.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9724]_20250325074413_e4c5w.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9724]_20250325074355_avccf.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9724]_20250325074427_othk8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9724]_20250325074435_t3dh4.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/03/[9724]_20250325074443_imngk.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 19:00",
+                "23일 목요일 07:00 ~ 19:00",
+                "24일 금요일 07:00 ~ 19:00",
+                "25일 토요일 09:00 ~ 18:00",
+                "26일 일요일 09:00 ~ 18:00",
+                "27일 월요일 07:00 ~ 19:00",
+                "28일 화요일 07:00 ~ 19:00"
+            ]
+        },
+        {
+            "number": 111,
+            "name": "판교도서관",
+            "description": "소중한 사람들과의 시간, 판교도서관점이 함께 합니다.",
+            "address": "경기도 성남시 분당구 운중로 251 (판교동)",
+            "parking": "1. 주차 불가능 (스타벅스 고객 건물 주차장 이용 불가)",
+            "directions": "판교종합 사회복지관 맞은편 더 다우닝 라운지 판교 1,2층에 위치",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240729101730_i3d00.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240731050322_k8h8k.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240729101738_ytj6v.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240731050336_1evro.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240731050344_den83.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240731050351_6x4wg.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2024/07/[4537]_20240731050358_oh5n3.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 112,
+            "name": "네이버1784",
+            "description": "로봇 오피스에서 스타벅스만의 특별한 경험을 할 수 있는 스타벅스 네이버1784점 입니다.",
+            "address": "경기도 성남시 분당구 정자일로 95 (정자동) 네이버1784 2층",
+            "parking": "1. 주차 불가능",
+            "directions": "정자역 3번출구 미금역 방향으로 도보 15분 거리, 네이버1784 2층\n/ 외부인 이용 가능.",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png"
+            ],
+            "facilities": [],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4318]_20220413024839_198ka.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4318]_20220413041351_8p1mq.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:30 ~ 19:00",
+                "23일 목요일 07:30 ~ 19:00",
+                "24일 금요일 07:30 ~ 19:00",
+                "25일 토요일 09:00 ~ 17:00",
+                "26일 일요일 휴점",
+                "27일 월요일 07:30 ~ 19:00",
+                "28일 화요일 07:30 ~ 19:00"
+            ]
+        },
+        {
+            "number": 113,
+            "name": "미금역2001아울렛",
+            "description": "즐거운 쇼핑 후 내 집같은 편안함을 느낄 수 있는 공간, 스타벅스 미금역2001 아울렛입니다.",
+            "address": "경기도 성남시 분당구 미금일로154번길 20 (구미동)",
+            "parking": "1. 주차가능(오전 10시 이후부터, 매장에서 1시간 등록 必) 2. 주차장 위치-미금역2001아울렛주차장 이용 3. 주차가능대수-100대이상 4. 주차조건-미금역스타벅스 이용시, 최대1시간) 5. 주차요금정산방법-파트너에게요청",
+            "directions": "미금역6번 출구 엠코헤리츠건물 뒷편/ 미금역2001아울렛 정문 옆",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_delivers_service.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon21.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4231]_20220506095749_3ri81.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4231]_20220407042933_3la6h.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4231]_20220407042946_ypuey.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4231]_20220407042955_e3ea8.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4231]_20220407043002_py58n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/04/[4231]_20220408074827_yd6tk.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2022/05/[4231]_20220506095804_rhuhf.jpg"
+            ],
+            "hours": [
+                "22일 수요일 07:00 ~ 22:00",
+                "23일 목요일 07:00 ~ 22:00",
+                "24일 금요일 07:00 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 휴점",
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00"
+            ]
+        },
+        {
+            "number": 114,
+            "name": "분당서현역AK R",
+            "description": "특별한 경험을 선사하는 고품격 리저브 매장 분당서현역 AK R점에서 다양한 원두와 추출 기구를 만나보세요",
+            "address": "경기도 성남시 분당구 황새울로360번길 42 (서현동)",
+            "parking": "1.주차가능 2.주차위치 - 분당서현역AK백화점주차장 3. 주차조건 - 금액상관없이 구매시 2시간 무료, 백화점 운영시간 내 가능  4. 음료수령 시 파트너에게 주차할인 등록요청",
+            "directions": "수인분당선 서현역 3번출구, AK플라자 분당점 Gate 6",
+            "phone": "1522-3232",
+            "services": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon20.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon10.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon14.png",
+                "https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/08/[4019]_20250807010746_t1irc.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711112713_jjb7t.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113159_t2d9n.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113211_xactp.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113221_5mgti.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113228_0cp7y.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113233_wdn7a.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113239_fdc22.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/07/4019_20250711113246_0s5pu.jpg"
+            ],
+            "hours": [
+                "22일 수요일 06:30 ~ 22:00",
+                "23일 목요일 06:30 ~ 22:00",
+                "24일 금요일 06:30 ~ 22:00",
+                "25일 토요일 07:00 ~ 22:00",
+                "26일 일요일 07:00 ~ 22:00",
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00"
+            ]
+        }
+    ]
+}
