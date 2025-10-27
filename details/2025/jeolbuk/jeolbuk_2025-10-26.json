@@ -187,19 +187,44 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[9681]_20250126104109_rovpo.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[9681]_20250126104114_nnq07.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00",
+                "29일 수요일 08:00 ~ 22:00",
+                "30일 목요일 08:00 ~ 22:00",
+                "31일 금요일 08:00 ~ 22:00",
+                "01일 토요일 08:00 ~ 22:00",
+                "02일 일요일 08:00 ~ 22:00"
+            ]
         },
         {
             "number": 6,
             "name": "익산어양",
-            "description": "",
+            "description": "파트너의 미소, 쾌적하고 편안한 분위기, 여유로운 커피 한 잔을 즐길 수 있는 스타벅스 익산어양점입니다.",
             "address": "전라북도 익산시 하나로 495 (영등동)",
-            "parking": "",
-            "directions": "",
+            "parking": "1. 장애인 주차 2대 포함 총 29대 주차보유  2. 매장 후면으로 입차가능  3.픽업존 2칸",
+            "directions": "어양교차로에서 하나로사거리 방향, 영등중학교 맞은편",
             "phone": "1522-3232",
-            "services": [],
-            "facilities": [],
-            "images": [],
+            "services": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon04.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon22.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon23.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/Moon_icon_16x16_230324.png",
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon_now_brewing.png"
+            ],
+            "facilities": [
+                "https:https://image.istarbucks.co.kr/upload/common/img/icon/icon19.png"
+            ],
+            "images": [
+                "https://image.istarbucks.co.kr//upload/store/2025/04/[4387]_20250402104042_t4rpo.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123063329_rqeyl.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123064624_m7wew.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123064632_g0e90.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123064811_nkdy9.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123064819_rutti.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123064839_pp17q.jpg",
+                "https://image.istarbucks.co.kr//upload/store/2025/01/[4387]_20250123064847_g8rop.jpg"
+            ],
             "hours": []
         },
         {
@@ -257,7 +282,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[3578]_20250103090147_9cl9g.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2024/12/[3578]_20241225015848_nmpok.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00",
+                "29일 수요일 06:30 ~ 22:00",
+                "30일 목요일 06:30 ~ 22:00",
+                "31일 금요일 06:30 ~ 22:00",
+                "01일 토요일 07:00 ~ 22:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         },
         {
             "number": 10,
@@ -369,7 +402,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2024/12/[3481]_20241209095009_g7zq9.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2024/12/[3481]_20241209095016_utogi.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00",
+                "29일 수요일 06:30 ~ 22:00",
+                "30일 목요일 06:30 ~ 22:00",
+                "31일 금요일 06:30 ~ 22:00",
+                "01일 토요일 06:30 ~ 22:00",
+                "02일 일요일 08:00 ~ 22:00"
+            ]
         },
         {
             "number": 13,
@@ -401,7 +442,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113815_1n07i.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2024/08/[9711]_20240826113819_7xlbm.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00",
+                "29일 수요일 08:00 ~ 22:00",
+                "30일 목요일 08:00 ~ 22:00",
+                "31일 금요일 08:00 ~ 23:00",
+                "01일 토요일 08:00 ~ 23:00",
+                "02일 일요일 09:00 ~ 22:00"
+            ]
         },
         {
             "number": 14,
@@ -434,7 +483,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[4382]_20250117071731_whvdx.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[4382]_20250117071737_684kr.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00",
+                "29일 수요일 07:00 ~ 22:00",
+                "30일 목요일 07:00 ~ 22:00",
+                "31일 금요일 07:00 ~ 22:00",
+                "01일 토요일 07:00 ~ 22:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         },
         {
             "number": 15,
@@ -654,7 +711,15 @@
             "images": [
                 "https://image.istarbucks.co.kr//upload/store/2024/06/[4436]_20240626025211_ydwzi.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00",
+                "29일 수요일 07:00 ~ 22:00",
+                "30일 목요일 07:00 ~ 22:00",
+                "31일 금요일 07:00 ~ 22:00",
+                "01일 토요일 08:00 ~ 22:00",
+                "02일 일요일 08:00 ~ 22:00"
+            ]
         },
         {
             "number": 21,
@@ -678,7 +743,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2023/09/[4482]_20230915071319_grpjn.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2023/09/[4482]_20230915071328_dwevb.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:30 ~ 20:00",
+                "28일 화요일 07:30 ~ 20:00",
+                "29일 수요일 07:30 ~ 20:00",
+                "30일 목요일 07:30 ~ 20:00",
+                "31일 금요일 07:30 ~ 20:00",
+                "01일 토요일 08:00 ~ 17:00",
+                "02일 일요일 08:00 ~ 17:00"
+            ]
         },
         {
             "number": 22,
@@ -747,7 +820,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102106_8jcv1.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2018/06/[3454]_20180619102125_z94u2.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00",
+                "29일 수요일 06:30 ~ 22:00",
+                "30일 목요일 06:30 ~ 22:00",
+                "31일 금요일 06:30 ~ 22:00",
+                "01일 토요일 07:00 ~ 22:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         },
         {
             "number": 24,
@@ -814,7 +895,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[3200]_20250101083648_yatxt.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[3200]_20250101083722_072qx.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:30 ~ 22:00",
+                "28일 화요일 07:30 ~ 22:00",
+                "29일 수요일 07:30 ~ 22:00",
+                "30일 목요일 07:30 ~ 22:00",
+                "31일 금요일 07:30 ~ 22:00",
+                "01일 토요일 08:00 ~ 22:00",
+                "02일 일요일 08:00 ~ 22:00"
+            ]
         },
         {
             "number": 26,
@@ -842,7 +931,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2015/07/[3097]_20150730104331088.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2017/07/[3097]_20170711024316_u9ire.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00",
+                "29일 수요일 08:00 ~ 22:00",
+                "30일 목요일 08:00 ~ 22:00",
+                "31일 금요일 08:00 ~ 22:00",
+                "01일 토요일 08:00 ~ 22:00",
+                "02일 일요일 08:00 ~ 22:00"
+            ]
         },
         {
             "number": 27,
@@ -909,7 +1006,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105645_lxvyh.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2022/04/[9950]_20220427105732_8wgrs.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 06:30 ~ 22:00",
+                "28일 화요일 06:30 ~ 22:00",
+                "29일 수요일 06:30 ~ 22:00",
+                "30일 목요일 06:30 ~ 22:00",
+                "31일 금요일 06:30 ~ 23:00",
+                "01일 토요일 07:00 ~ 23:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         },
         {
             "number": 29,
@@ -939,7 +1044,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/09/9662_20250908080709_otjsm.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/09/9662_20250908080714_rendv.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 08:00 ~ 22:00",
+                "28일 화요일 08:00 ~ 22:00",
+                "29일 수요일 08:00 ~ 22:00",
+                "30일 목요일 08:00 ~ 22:00",
+                "31일 금요일 08:00 ~ 22:00",
+                "01일 토요일 08:00 ~ 22:00",
+                "02일 일요일 08:00 ~ 22:00"
+            ]
         },
         {
             "number": 30,
@@ -1077,7 +1190,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2024/12/[4568]_20241223023232_omls1.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2024/12/[4568]_20241223023245_rlfi0.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:00 ~ 20:00",
+                "28일 화요일 07:00 ~ 20:00",
+                "29일 수요일 07:00 ~ 20:00",
+                "30일 목요일 07:00 ~ 20:00",
+                "31일 금요일 07:00 ~ 20:00",
+                "01일 토요일 08:00 ~ 20:00",
+                "02일 일요일 08:00 ~ 20:00"
+            ]
         },
         {
             "number": 34,
@@ -1107,7 +1228,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2024/12/[3324]_20241226114239_mqdxe.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/04/3324_20250421040427_5pisp.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00",
+                "29일 수요일 07:00 ~ 22:00",
+                "30일 목요일 07:00 ~ 22:00",
+                "31일 금요일 07:00 ~ 22:00",
+                "01일 토요일 07:00 ~ 22:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         },
         {
             "number": 35,
@@ -1293,7 +1422,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/02/[4404]_20250208015700_vby63.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/02/[4404]_20250208015712_szf1i.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 10:00 ~ 21:30",
+                "28일 화요일 10:00 ~ 21:30",
+                "29일 수요일 10:00 ~ 21:30",
+                "30일 목요일 10:00 ~ 21:30",
+                "31일 금요일 10:00 ~ 21:30",
+                "01일 토요일 10:00 ~ 21:30",
+                "02일 일요일 10:00 ~ 21:30"
+            ]
         },
         {
             "number": 40,
@@ -1361,7 +1498,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/02/[3871]_20250220090428_vl443.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/01/[3871]_20250123060759_r6l79.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00",
+                "29일 수요일 07:00 ~ 22:00",
+                "30일 목요일 07:00 ~ 22:00",
+                "31일 금요일 07:00 ~ 22:00",
+                "01일 토요일 07:00 ~ 22:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         },
         {
             "number": 42,
@@ -1389,7 +1534,15 @@
                 "https://image.istarbucks.co.kr//upload/store/2025/03/[4558]_20250326053739_9y01a.jpg",
                 "https://image.istarbucks.co.kr//upload/store/2025/03/[4558]_20250326053747_7givr.jpg"
             ],
-            "hours": []
+            "hours": [
+                "27일 월요일 07:00 ~ 22:00",
+                "28일 화요일 07:00 ~ 22:00",
+                "29일 수요일 07:00 ~ 22:00",
+                "30일 목요일 07:00 ~ 22:00",
+                "31일 금요일 07:00 ~ 22:00",
+                "01일 토요일 07:00 ~ 22:00",
+                "02일 일요일 07:00 ~ 22:00"
+            ]
         }
     ]
 }
